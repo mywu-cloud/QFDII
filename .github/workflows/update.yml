@@ -1,0 +1,54 @@
+name: 三大法人每日自動更新
+
+on:
+  schedule:
+    # 台灣時間 19:00 = UTC 11:00（盤後抓三大法人 + 收盤價）
+    - cron: '0 11 * * 1-5'
+    # 台灣時間 20:00 = UTC 12:00（再抓一次；週五含外資持股比率）
+    - cron: '0 12 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Taipei
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch 三大法人 + 收盤價（週五加抓外資持股）
+        run: |
+          if [ "$(date +%u)" = "5" ]; then
+            python three_laws_tracker.py fetch --holding
+          else
+            python three_laws_tracker.py fetch
+          fi
+
+      - name: Build dashboard
+        run: python three_laws_tracker.py build
+
+      - name: Commit & push updates
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "auto: update $(date +'%Y-%m-%d %H:%M %Z')"
+            git push
+          fi
