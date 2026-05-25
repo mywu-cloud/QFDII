@@ -1,6 +1,6 @@
 {
   "date": "20260525",
-  "fetched_at": "2026-05-25T22:11:46",
+  "fetched_at": "2026-05-25T22:59:26",
   "stocks": {
     "00878": {
       "name": "國泰永續高股息",
@@ -761,17 +761,6 @@
       "dealer_net": -61,
       "total_net": 2406
     },
-    "2486": {
-      "name": "一詮",
-      "foreign_buy": 3435,
-      "foreign_sell": 1450,
-      "foreign_net": 1984,
-      "trust_buy": 462,
-      "trust_sell": 0,
-      "trust_net": 462,
-      "dealer_net": -115,
-      "total_net": 2332
-    },
     "8110": {
       "name": "華東",
       "foreign_buy": 5283,
@@ -1057,17 +1046,6 @@
       "trust_net": 0,
       "dealer_net": -32,
       "total_net": 1499
-    },
-    "2354": {
-      "name": "鴻準",
-      "foreign_buy": 4219,
-      "foreign_sell": 2774,
-      "foreign_net": 1445,
-      "trust_buy": 11,
-      "trust_sell": 0,
-      "trust_net": 11,
-      "dealer_net": -25,
-      "total_net": 1431
     },
     "1608": {
       "name": "華榮",
@@ -2817,17 +2795,6 @@
       "trust_net": 0,
       "dealer_net": 20,
       "total_net": 242
-    },
-    "2022": {
-      "name": "聚亨",
-      "foreign_buy": 1430,
-      "foreign_sell": 1192,
-      "foreign_net": 237,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 1,
-      "total_net": 238
     },
     "9914": {
       "name": "美利達",
