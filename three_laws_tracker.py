@@ -549,14 +549,17 @@ def build_standalone_html(data: dict) -> None:
     將 dashboard 資料內嵌進 HTML 模板，產生可直接從 Finder 開啟的獨立檔案。
     輸出：tw_3majors/三大法人儀表板.html
     """
-    template_path = BASE_DIR / "three_laws_dashboard.html"
-    out_path       = BASE_DIR / "三大法人儀表板.html"
+    template_path = BASE_DIR / "index.html"
+    out_path       = BASE_DIR / "index.html"
 
     if not template_path.exists():
         log.warning(f"找不到模板：{template_path}")
         return
 
     html = template_path.read_text(encoding="utf-8")
+    # 移除以前注入的 __DASHBOARD_DATA__ 行，避免重複堆積
+    import re as _re
+    html = _re.sub(r"window\.__DASHBOARD_DATA__=.*?;\n", "", html)
     json_str = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
 
     # 必須在 loadData() 呼叫之前賦值，故注入在主 <script> 區塊的第一行
