@@ -1,6 +1,6 @@
 {
   "date": "20260525",
-  "fetched_at": "2026-05-25T21:23:21",
+  "fetched_at": "2026-05-25T22:11:46",
   "stocks": {
     "00878": {
       "name": "國泰永續高股息",
@@ -4204,6 +4204,17 @@
       "dealer_net": 7,
       "total_net": 62
     },
+    "00911": {
+      "name": "兆豐洲際半導體",
+      "foreign_buy": 12,
+      "foreign_sell": 10,
+      "foreign_net": 2,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 58,
+      "total_net": 60
+    },
     "5258": {
       "name": "虹堡",
       "foreign_buy": 363,
@@ -4522,6 +4533,17 @@
       "trust_net": 0,
       "dealer_net": 3,
       "total_net": 41
+    },
+    "8162": {
+      "name": "微矽電子-創",
+      "foreign_buy": 0,
+      "foreign_sell": 11,
+      "foreign_net": -11,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 50,
+      "total_net": 39
     },
     "6128": {
       "name": "上福",
@@ -5216,6 +5238,17 @@
       "dealer_net": 18,
       "total_net": 19
     },
+    "3653": {
+      "name": "健策",
+      "foreign_buy": 391,
+      "foreign_sell": 410,
+      "foreign_net": -20,
+      "trust_buy": 7,
+      "trust_sell": 1,
+      "trust_net": 6,
+      "dealer_net": 32,
+      "total_net": 19
+    },
     "1423": {
       "name": "利華",
       "foreign_buy": 20,
@@ -5282,6 +5315,17 @@
       "dealer_net": -9,
       "total_net": 16
     },
+    "4581": {
+      "name": "光隆精密-KY",
+      "foreign_buy": 16,
+      "foreign_sell": 0,
+      "foreign_net": 16,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
+      "total_net": 16
+    },
     "2701": {
       "name": "萬企",
       "foreign_buy": 14,
@@ -5324,6 +5368,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 29,
+      "total_net": 14
+    },
+    "4737": {
+      "name": "華廣",
+      "foreign_buy": 44,
+      "foreign_sell": 27,
+      "foreign_net": 17,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -3,
       "total_net": 14
     },
     "4771": {
