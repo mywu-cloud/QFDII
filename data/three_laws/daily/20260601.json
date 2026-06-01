@@ -1,6 +1,6 @@
 {
   "date": "20260601",
-  "fetched_at": "2026-06-01T20:14:28",
+  "fetched_at": "2026-06-02T00:35:28",
   "stocks": {
     "2887": {
       "name": "台新新光金",
@@ -10319,6 +10319,17 @@
       "trust_net": 29,
       "dealer_net": 58,
       "total_net": -62
+    },
+    "6409": {
+      "name": "旭隼",
+      "foreign_buy": 399,
+      "foreign_sell": 781,
+      "foreign_net": -383,
+      "trust_buy": 313,
+      "trust_sell": 1,
+      "trust_net": 312,
+      "dealer_net": 6,
+      "total_net": -64
     },
     "00875": {
       "name": "國泰網路資安",
