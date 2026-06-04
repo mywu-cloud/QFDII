@@ -1,6 +1,6 @@
 {
   "date": "20260604",
-  "fetched_at": "2026-06-04T21:57:09",
+  "fetched_at": "2026-06-04T22:53:02",
   "stocks": {
     "2883": {
       "name": "凱基金",
@@ -1674,17 +1674,6 @@
       "dealer_net": -727,
       "total_net": 442
     },
-    "2233": {
-      "name": "宇隆",
-      "foreign_buy": 471,
-      "foreign_sell": 510,
-      "foreign_net": -39,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 477,
-      "total_net": 438
-    },
     "1503": {
       "name": "士電",
       "foreign_buy": 4,
@@ -1970,17 +1959,6 @@
       "trust_net": 0,
       "dealer_net": -1,
       "total_net": 302
-    },
-    "2347": {
-      "name": "聯強",
-      "foreign_buy": 3457,
-      "foreign_sell": 11723,
-      "foreign_net": -8267,
-      "trust_buy": 8582,
-      "trust_sell": 139,
-      "trust_net": 8442,
-      "dealer_net": 124,
-      "total_net": 300
     },
     "3607": {
       "name": "谷崧",
@@ -2532,17 +2510,6 @@
       "dealer_net": 4,
       "total_net": 170
     },
-    "2102": {
-      "name": "泰豐",
-      "foreign_buy": 219,
-      "foreign_sell": 68,
-      "foreign_net": 151,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 13,
-      "total_net": 164
-    },
     "1218": {
       "name": "泰山",
       "foreign_buy": 237,
@@ -2653,17 +2620,6 @@
       "dealer_net": 1,
       "total_net": 153
     },
-    "1104": {
-      "name": "環泥",
-      "foreign_buy": 334,
-      "foreign_sell": 448,
-      "foreign_net": -114,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 265,
-      "total_net": 152
-    },
     "3026": {
       "name": "禾伸堂",
       "foreign_buy": 450,
@@ -2707,17 +2663,6 @@
       "trust_net": -25,
       "dealer_net": 43,
       "total_net": 149
-    },
-    "9908": {
-      "name": "大台北",
-      "foreign_buy": 154,
-      "foreign_sell": 10,
-      "foreign_net": 144,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 3,
-      "total_net": 148
     },
     "5515": {
       "name": "建國",
@@ -2795,28 +2740,6 @@
       "trust_net": 0,
       "dealer_net": 5,
       "total_net": 143
-    },
-    "4155": {
-      "name": "訊映",
-      "foreign_buy": 248,
-      "foreign_sell": 101,
-      "foreign_net": 147,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -6,
-      "total_net": 141
-    },
-    "00894": {
-      "name": "中信小資高價30",
-      "foreign_buy": 102,
-      "foreign_sell": 202,
-      "foreign_net": -100,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 241,
-      "total_net": 141
     },
     "2478": {
       "name": "大毅",
