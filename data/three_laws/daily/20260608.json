@@ -1,6 +1,6 @@
 {
   "date": "20260608",
-  "fetched_at": "2026-06-08T22:46:25",
+  "fetched_at": "2026-06-08T23:43:40",
   "stocks": {
     "00878": {
       "name": "國泰永續高股息",
@@ -45,6 +45,17 @@
       "trust_net": 10753,
       "dealer_net": 2429,
       "total_net": 19475
+    },
+    "2890": {
+      "name": "永豐金",
+      "foreign_buy": 32440,
+      "foreign_sell": 24085,
+      "foreign_net": 8354,
+      "trust_buy": 841,
+      "trust_sell": 5,
+      "trust_net": 836,
+      "dealer_net": -26,
+      "total_net": 9164
     },
     "3702": {
       "name": "大聯大",
@@ -243,6 +254,17 @@
       "trust_net": 974,
       "dealer_net": 146,
       "total_net": 2212
+    },
+    "1605": {
+      "name": "華新",
+      "foreign_buy": 31490,
+      "foreign_sell": 27454,
+      "foreign_net": 4036,
+      "trust_buy": 150,
+      "trust_sell": 2,
+      "trust_net": 148,
+      "dealer_net": -2009,
+      "total_net": 2175
     },
     "3376": {
       "name": "新日興",
@@ -651,6 +673,17 @@
       "dealer_net": -115,
       "total_net": 1000
     },
+    "2405": {
+      "name": "輔信",
+      "foreign_buy": 3145,
+      "foreign_sell": 2155,
+      "foreign_net": 989,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 5,
+      "total_net": 994
+    },
     "5871": {
       "name": "中租-KY",
       "foreign_buy": 4545,
@@ -804,6 +837,17 @@
       "trust_net": 3588,
       "dealer_net": 6,
       "total_net": 827
+    },
+    "8454": {
+      "name": "富邦媒",
+      "foreign_buy": 363,
+      "foreign_sell": 331,
+      "foreign_net": 32,
+      "trust_buy": 802,
+      "trust_sell": 0,
+      "trust_net": 802,
+      "dealer_net": -10,
+      "total_net": 824
     },
     "2390": {
       "name": "云辰",
@@ -1453,6 +1497,17 @@
       "trust_net": 0,
       "dealer_net": 1,
       "total_net": 467
+    },
+    "3034": {
+      "name": "聯詠",
+      "foreign_buy": 3508,
+      "foreign_sell": 2789,
+      "foreign_net": 719,
+      "trust_buy": 40,
+      "trust_sell": 72,
+      "trust_net": -33,
+      "dealer_net": -223,
+      "total_net": 464
     },
     "2006": {
       "name": "東和鋼鐵",
@@ -10111,6 +10166,17 @@
       "dealer_net": -14,
       "total_net": -121
     },
+    "1563": {
+      "name": "巧新",
+      "foreign_buy": 98,
+      "foreign_sell": 272,
+      "foreign_net": -175,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 52,
+      "total_net": -123
+    },
     "00645": {
       "name": "富邦日本",
       "foreign_buy": 33,
@@ -10385,6 +10451,17 @@
       "trust_net": 0,
       "dealer_net": -17,
       "total_net": -177
+    },
+    "1532": {
+      "name": "勤美",
+      "foreign_buy": 428,
+      "foreign_sell": 664,
+      "foreign_net": -236,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 57,
+      "total_net": -179
     },
     "00733": {
       "name": "富邦臺灣中小",
@@ -10715,6 +10792,17 @@
       "trust_net": 0,
       "dealer_net": 0,
       "total_net": -249
+    },
+    "9933": {
+      "name": "中鼎",
+      "foreign_buy": 3595,
+      "foreign_sell": 3960,
+      "foreign_net": -365,
+      "trust_buy": 64,
+      "trust_sell": 4,
+      "trust_net": 60,
+      "dealer_net": 50,
+      "total_net": -253
     },
     "2458": {
       "name": "義隆",
