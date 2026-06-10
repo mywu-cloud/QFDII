@@ -1,6 +1,6 @@
 {
   "date": "20260610",
-  "fetched_at": "2026-06-10T22:20:53",
+  "fetched_at": "2026-06-10T23:27:24",
   "stocks": {
     "2892": {
       "name": "第一金",
@@ -6305,17 +6305,6 @@
       "dealer_net": 0,
       "total_net": -2
     },
-    "1626": {
-      "name": "艾美特-KY",
-      "foreign_buy": 14,
-      "foreign_sell": 14,
-      "foreign_net": 0,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -2,
-      "total_net": -2
-    },
     "9906": {
       "name": "欣巴巴",
       "foreign_buy": 98,
@@ -7075,17 +7064,6 @@
       "dealer_net": -1,
       "total_net": -9
     },
-    "6115": {
-      "name": "鎰勝",
-      "foreign_buy": 88,
-      "foreign_sell": 98,
-      "foreign_net": -10,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 1,
-      "total_net": -9
-    },
     "2414": {
       "name": "精技",
       "foreign_buy": 645,
@@ -7326,17 +7304,6 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -2,
-      "total_net": -10
-    },
-    "1539": {
-      "name": "巨庭",
-      "foreign_buy": 9,
-      "foreign_sell": 21,
-      "foreign_net": -12,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 2,
       "total_net": -10
     },
     "1338": {
@@ -8197,17 +8164,6 @@
       "dealer_net": -1,
       "total_net": -21
     },
-    "6958": {
-      "name": "日盛台駿",
-      "foreign_buy": 41,
-      "foreign_sell": 62,
-      "foreign_net": -21,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -1,
-      "total_net": -22
-    },
     "1465": {
       "name": "偉全",
       "foreign_buy": 3,
@@ -8833,17 +8789,6 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -2,
-      "total_net": -41
-    },
-    "1603": {
-      "name": "華電",
-      "foreign_buy": 108,
-      "foreign_sell": 154,
-      "foreign_net": -46,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 5,
       "total_net": -41
     },
     "7821": {
@@ -10208,17 +10153,6 @@
       "trust_sell": 7,
       "trust_net": -6,
       "dealer_net": -59,
-      "total_net": -125
-    },
-    "8213": {
-      "name": "志超",
-      "foreign_buy": 203,
-      "foreign_sell": 325,
-      "foreign_net": -122,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -3,
       "total_net": -125
     },
     "5258": {
