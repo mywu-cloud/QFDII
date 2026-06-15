@@ -1,6 +1,6 @@
 {
   "date": "20260615",
-  "fetched_at": "2026-06-15T19:41:55",
+  "fetched_at": "2026-06-16T00:14:05",
   "stocks": {
     "2887": {
       "name": "台新新光金",
@@ -167,6 +167,17 @@
       "dealer_net": 8145,
       "total_net": 13939
     },
+    "2327": {
+      "name": "國巨*",
+      "foreign_buy": 17362,
+      "foreign_sell": 5125,
+      "foreign_net": 12237,
+      "trust_buy": 790,
+      "trust_sell": 0,
+      "trust_net": 789,
+      "dealer_net": 362,
+      "total_net": 13389
+    },
     "3576": {
       "name": "聯合再生",
       "foreign_buy": 27816,
@@ -188,17 +199,6 @@
       "trust_net": 610,
       "dealer_net": 2993,
       "total_net": 13165
-    },
-    "2327": {
-      "name": "國巨*",
-      "foreign_buy": 17362,
-      "foreign_sell": 5125,
-      "foreign_net": 12237,
-      "trust_buy": 334,
-      "trust_sell": 0,
-      "trust_net": 333,
-      "dealer_net": 362,
-      "total_net": 12933
     },
     "2353": {
       "name": "宏碁",
@@ -268,14 +268,14 @@
     },
     "2330": {
       "name": "台積電",
-      "foreign_buy": 21020,
-      "foreign_sell": 11373,
+      "foreign_buy": 23238,
+      "foreign_sell": 13591,
       "foreign_net": 9646,
-      "trust_buy": 109,
+      "trust_buy": 115,
       "trust_sell": 29,
-      "trust_net": 79,
+      "trust_net": 85,
       "dealer_net": 107,
-      "total_net": 9833
+      "total_net": 9839
     },
     "2317": {
       "name": "鴻海",
@@ -587,8 +587,8 @@
     },
     "3037": {
       "name": "欣興",
-      "foreign_buy": 6877,
-      "foreign_sell": 4828,
+      "foreign_buy": 6913,
+      "foreign_sell": 4864,
       "foreign_net": 2049,
       "trust_buy": 985,
       "trust_sell": 0,
@@ -642,8 +642,8 @@
     },
     "2886": {
       "name": "兆豐金",
-      "foreign_buy": 12504,
-      "foreign_sell": 18378,
+      "foreign_buy": 13963,
+      "foreign_sell": 19837,
       "foreign_net": -5874,
       "trust_buy": 8606,
       "trust_sell": 27,
@@ -950,8 +950,8 @@
     },
     "2454": {
       "name": "聯發科",
-      "foreign_buy": 5598,
-      "foreign_sell": 4553,
+      "foreign_buy": 5941,
+      "foreign_sell": 4896,
       "foreign_net": 1044,
       "trust_buy": 547,
       "trust_sell": 11,
@@ -2015,6 +2015,17 @@
       "dealer_net": 385,
       "total_net": 619
     },
+    "3008": {
+      "name": "大立光",
+      "foreign_buy": 1281,
+      "foreign_sell": 873,
+      "foreign_net": 408,
+      "trust_buy": 147,
+      "trust_sell": 1,
+      "trust_net": 146,
+      "dealer_net": 64,
+      "total_net": 618
+    },
     "2428": {
       "name": "興勤",
       "foreign_buy": 1328,
@@ -2059,6 +2070,17 @@
       "dealer_net": 6,
       "total_net": 605
     },
+    "2383": {
+      "name": "台光電",
+      "foreign_buy": 1475,
+      "foreign_sell": 874,
+      "foreign_net": 601,
+      "trust_buy": 42,
+      "trust_sell": 48,
+      "trust_net": -7,
+      "dealer_net": 7,
+      "total_net": 602
+    },
     "3051": {
       "name": "力特",
       "foreign_buy": 788,
@@ -2069,17 +2091,6 @@
       "trust_net": 0,
       "dealer_net": 6,
       "total_net": 596
-    },
-    "2383": {
-      "name": "台光電",
-      "foreign_buy": 1475,
-      "foreign_sell": 874,
-      "foreign_net": 601,
-      "trust_buy": 24,
-      "trust_sell": 44,
-      "trust_net": -20,
-      "dealer_net": 7,
-      "total_net": 589
     },
     "2492": {
       "name": "華新科",
@@ -2156,17 +2167,6 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 332,
-      "total_net": 551
-    },
-    "3008": {
-      "name": "大立光",
-      "foreign_buy": 1281,
-      "foreign_sell": 873,
-      "foreign_net": 408,
-      "trust_buy": 80,
-      "trust_sell": 1,
-      "trust_net": 79,
-      "dealer_net": 64,
       "total_net": 551
     },
     "00905": {
@@ -2411,17 +2411,6 @@
       "dealer_net": 312,
       "total_net": 401
     },
-    "3045": {
-      "name": "台灣大",
-      "foreign_buy": 4519,
-      "foreign_sell": 3958,
-      "foreign_net": 561,
-      "trust_buy": 72,
-      "trust_sell": 85,
-      "trust_net": -13,
-      "dealer_net": -150,
-      "total_net": 398
-    },
     "00898": {
       "name": "國泰基因免疫革命",
       "foreign_buy": 357,
@@ -2465,6 +2454,17 @@
       "trust_net": 0,
       "dealer_net": 39,
       "total_net": 388
+    },
+    "3045": {
+      "name": "台灣大",
+      "foreign_buy": 4519,
+      "foreign_sell": 3958,
+      "foreign_net": 561,
+      "trust_buy": 72,
+      "trust_sell": 97,
+      "trust_net": -26,
+      "dealer_net": -150,
+      "total_net": 386
     },
     "2392": {
       "name": "正崴",
@@ -2840,17 +2840,6 @@
       "dealer_net": 55,
       "total_net": 303
     },
-    "1560": {
-      "name": "中砂",
-      "foreign_buy": 919,
-      "foreign_sell": 935,
-      "foreign_net": -16,
-      "trust_buy": 270,
-      "trust_sell": 0,
-      "trust_net": 270,
-      "dealer_net": 48,
-      "total_net": 302
-    },
     "2108": {
       "name": "南帝",
       "foreign_buy": 628,
@@ -3060,17 +3049,6 @@
       "dealer_net": 5,
       "total_net": 254
     },
-    "3653": {
-      "name": "健策",
-      "foreign_buy": 607,
-      "foreign_sell": 364,
-      "foreign_net": 243,
-      "trust_buy": 15,
-      "trust_sell": 9,
-      "trust_net": 6,
-      "dealer_net": 3,
-      "total_net": 253
-    },
     "6901": {
       "name": "鑽石投資",
       "foreign_buy": 1007,
@@ -3258,6 +3236,17 @@
       "dealer_net": -99,
       "total_net": 220
     },
+    "3653": {
+      "name": "健策",
+      "foreign_buy": 607,
+      "foreign_sell": 364,
+      "foreign_net": 243,
+      "trust_buy": 15,
+      "trust_sell": 43,
+      "trust_net": -28,
+      "dealer_net": 3,
+      "total_net": 219
+    },
     "4532": {
       "name": "瑞智",
       "foreign_buy": 527,
@@ -3400,6 +3389,17 @@
       "trust_net": -2,
       "dealer_net": 169,
       "total_net": 209
+    },
+    "1560": {
+      "name": "中砂",
+      "foreign_buy": 919,
+      "foreign_sell": 935,
+      "foreign_net": -16,
+      "trust_buy": 270,
+      "trust_sell": 94,
+      "trust_net": 176,
+      "dealer_net": 48,
+      "total_net": 208
     },
     "2359": {
       "name": "所羅門",
@@ -3560,11 +3560,11 @@
       "foreign_buy": 1320,
       "foreign_sell": 1264,
       "foreign_net": 56,
-      "trust_buy": 94,
+      "trust_buy": 96,
       "trust_sell": 5,
-      "trust_net": 89,
+      "trust_net": 91,
       "dealer_net": 25,
-      "total_net": 171
+      "total_net": 173
     },
     "6226": {
       "name": "光鼎",
@@ -4831,17 +4831,6 @@
       "dealer_net": -11,
       "total_net": 70
     },
-    "1713": {
-      "name": "國化",
-      "foreign_buy": 118,
-      "foreign_sell": 50,
-      "foreign_net": 68,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 2,
-      "total_net": 70
-    },
     "6243": {
       "name": "迅杰",
       "foreign_buy": 102,
@@ -4851,6 +4840,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 1,
+      "total_net": 70
+    },
+    "1713": {
+      "name": "國化",
+      "foreign_buy": 118,
+      "foreign_sell": 50,
+      "foreign_net": 68,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 2,
       "total_net": 70
     },
     "2102": {
@@ -4985,17 +4985,6 @@
       "dealer_net": 2,
       "total_net": 63
     },
-    "2395": {
-      "name": "研華",
-      "foreign_buy": 990,
-      "foreign_sell": 985,
-      "foreign_net": 5,
-      "trust_buy": 36,
-      "trust_sell": 4,
-      "trust_net": 32,
-      "dealer_net": 25,
-      "total_net": 62
-    },
     "6133": {
       "name": "金橋",
       "foreign_buy": 312,
@@ -5084,10 +5073,21 @@
       "dealer_net": 2,
       "total_net": 60
     },
-    "7803": {
-      "name": "雲象科技-創",
-      "foreign_buy": 67,
-      "foreign_sell": 8,
+    "2395": {
+      "name": "研華",
+      "foreign_buy": 990,
+      "foreign_sell": 985,
+      "foreign_net": 5,
+      "trust_buy": 36,
+      "trust_sell": 7,
+      "trust_net": 28,
+      "dealer_net": 25,
+      "total_net": 59
+    },
+    "4108": {
+      "name": "懷特",
+      "foreign_buy": 78,
+      "foreign_sell": 19,
       "foreign_net": 59,
       "trust_buy": 0,
       "trust_sell": 0,
@@ -5095,10 +5095,10 @@
       "dealer_net": 0,
       "total_net": 59
     },
-    "4108": {
-      "name": "懷特",
-      "foreign_buy": 78,
-      "foreign_sell": 19,
+    "7803": {
+      "name": "雲象科技-創",
+      "foreign_buy": 67,
+      "foreign_sell": 8,
       "foreign_net": 59,
       "trust_buy": 0,
       "trust_sell": 0,
@@ -5579,17 +5579,6 @@
       "dealer_net": -1,
       "total_net": 43
     },
-    "6558": {
-      "name": "興能高",
-      "foreign_buy": 174,
-      "foreign_sell": 131,
-      "foreign_net": 43,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 0,
-      "total_net": 43
-    },
     "6885": {
       "name": "全福生技",
       "foreign_buy": 120,
@@ -5599,6 +5588,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 2,
+      "total_net": 43
+    },
+    "6558": {
+      "name": "興能高",
+      "foreign_buy": 174,
+      "foreign_sell": 131,
+      "foreign_net": 43,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": 43
     },
     "8341": {
@@ -5722,17 +5722,6 @@
       "dealer_net": -1,
       "total_net": 39
     },
-    "2506": {
-      "name": "太設",
-      "foreign_buy": 46,
-      "foreign_sell": 13,
-      "foreign_net": 33,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 6,
-      "total_net": 39
-    },
     "5533": {
       "name": "皇鼎",
       "foreign_buy": 39,
@@ -5742,6 +5731,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 8,
+      "total_net": 39
+    },
+    "2506": {
+      "name": "太設",
+      "foreign_buy": 46,
+      "foreign_sell": 13,
+      "foreign_net": 33,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 6,
       "total_net": 39
     },
     "7765": {
@@ -6657,17 +6657,6 @@
       "dealer_net": 7,
       "total_net": 15
     },
-    "2380": {
-      "name": "虹光",
-      "foreign_buy": 15,
-      "foreign_sell": 0,
-      "foreign_net": 15,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 0,
-      "total_net": 15
-    },
     "1456": {
       "name": "怡華",
       "foreign_buy": 40,
@@ -6677,6 +6666,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -3,
+      "total_net": 15
+    },
+    "2380": {
+      "name": "虹光",
+      "foreign_buy": 15,
+      "foreign_sell": 0,
+      "foreign_net": 15,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": 15
     },
     "7791": {
@@ -7141,28 +7141,6 @@
       "dealer_net": -3,
       "total_net": 9
     },
-    "1220": {
-      "name": "台榮",
-      "foreign_buy": 10,
-      "foreign_sell": 2,
-      "foreign_net": 8,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 1,
-      "total_net": 9
-    },
-    "2239": {
-      "name": "英利-KY",
-      "foreign_buy": 17,
-      "foreign_sell": 12,
-      "foreign_net": 5,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 4,
-      "total_net": 9
-    },
     "1733": {
       "name": "五鼎",
       "foreign_buy": 43,
@@ -7183,6 +7161,28 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": 9
+    },
+    "1220": {
+      "name": "台榮",
+      "foreign_buy": 10,
+      "foreign_sell": 2,
+      "foreign_net": 8,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 1,
+      "total_net": 9
+    },
+    "2239": {
+      "name": "英利-KY",
+      "foreign_buy": 17,
+      "foreign_sell": 12,
+      "foreign_net": 5,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 4,
       "total_net": 9
     },
     "1235": {
@@ -7394,17 +7394,6 @@
       "dealer_net": 0,
       "total_net": 6
     },
-    "8482": {
-      "name": "商億-KY",
-      "foreign_buy": 7,
-      "foreign_sell": 1,
-      "foreign_net": 6,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 0,
-      "total_net": 6
-    },
     "9944": {
       "name": "新麗",
       "foreign_buy": 9,
@@ -7414,6 +7403,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 2,
+      "total_net": 6
+    },
+    "8482": {
+      "name": "商億-KY",
+      "foreign_buy": 7,
+      "foreign_sell": 1,
+      "foreign_net": 6,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": 6
     },
     "2024": {
@@ -7449,17 +7449,6 @@
       "dealer_net": 1,
       "total_net": 6
     },
-    "5546": {
-      "name": "永固-KY",
-      "foreign_buy": 11,
-      "foreign_sell": 7,
-      "foreign_net": 4,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 2,
-      "total_net": 6
-    },
     "6614": {
       "name": "資拓宏宇",
       "foreign_buy": 27,
@@ -7469,6 +7458,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -11,
+      "total_net": 6
+    },
+    "5546": {
+      "name": "永固-KY",
+      "foreign_buy": 11,
+      "foreign_sell": 7,
+      "foreign_net": 4,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 2,
       "total_net": 6
     },
     "4930": {
@@ -7680,22 +7680,22 @@
       "dealer_net": 1,
       "total_net": 4
     },
-    "1730": {
-      "name": "花仙子",
-      "foreign_buy": 3,
-      "foreign_sell": 1,
-      "foreign_net": 2,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 2,
-      "total_net": 4
-    },
     "2939": {
       "name": "永邑-KY",
       "foreign_buy": 4,
       "foreign_sell": 0,
       "foreign_net": 4,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
+      "total_net": 4
+    },
+    "7823": {
+      "name": "奧義賽博-KY創",
+      "foreign_buy": 4,
+      "foreign_sell": 1,
+      "foreign_net": 3,
       "trust_buy": 0,
       "trust_sell": 0,
       "trust_net": 0,
@@ -7713,15 +7713,15 @@
       "dealer_net": 4,
       "total_net": 4
     },
-    "7823": {
-      "name": "奧義賽博-KY創",
-      "foreign_buy": 4,
+    "1730": {
+      "name": "花仙子",
+      "foreign_buy": 3,
       "foreign_sell": 1,
-      "foreign_net": 3,
+      "foreign_net": 2,
       "trust_buy": 0,
       "trust_sell": 0,
       "trust_net": 0,
-      "dealer_net": 0,
+      "dealer_net": 2,
       "total_net": 4
     },
     "6641": {
@@ -7988,17 +7988,6 @@
       "dealer_net": 2,
       "total_net": 2
     },
-    "1583": {
-      "name": "程泰",
-      "foreign_buy": 12,
-      "foreign_sell": 12,
-      "foreign_net": 0,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 2,
-      "total_net": 2
-    },
     "2424": {
       "name": "隴華",
       "foreign_buy": 22,
@@ -8008,6 +7997,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": 2
+    },
+    "1583": {
+      "name": "程泰",
+      "foreign_buy": 12,
+      "foreign_sell": 12,
+      "foreign_net": 0,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 2,
       "total_net": 2
     },
     "1413": {
@@ -8087,17 +8087,6 @@
       "dealer_net": 0,
       "total_net": 1
     },
-    "1457": {
-      "name": "宜進",
-      "foreign_buy": 33,
-      "foreign_sell": 52,
-      "foreign_net": -19,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 20,
-      "total_net": 1
-    },
     "2762": {
       "name": "世界健身-KY",
       "foreign_buy": 22,
@@ -8109,15 +8098,15 @@
       "dealer_net": 8,
       "total_net": 1
     },
-    "6225": {
-      "name": "天瀚",
-      "foreign_buy": 1,
-      "foreign_sell": 0,
-      "foreign_net": 1,
+    "1457": {
+      "name": "宜進",
+      "foreign_buy": 33,
+      "foreign_sell": 52,
+      "foreign_net": -19,
       "trust_buy": 0,
       "trust_sell": 0,
       "trust_net": 0,
-      "dealer_net": 0,
+      "dealer_net": 20,
       "total_net": 1
     },
     "6534": {
@@ -8135,6 +8124,17 @@
       "name": "南六",
       "foreign_buy": 4,
       "foreign_sell": 3,
+      "foreign_net": 1,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
+      "total_net": 1
+    },
+    "6225": {
+      "name": "天瀚",
+      "foreign_buy": 1,
+      "foreign_sell": 0,
       "foreign_net": 1,
       "trust_buy": 0,
       "trust_sell": 0,
@@ -8560,17 +8560,6 @@
       "dealer_net": 2,
       "total_net": -4
     },
-    "2432": {
-      "name": "倚天酷碁-創",
-      "foreign_buy": 7,
-      "foreign_sell": 12,
-      "foreign_net": -5,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 1,
-      "total_net": -4
-    },
     "3346": {
       "name": "麗清",
       "foreign_buy": 26,
@@ -8580,6 +8569,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 5,
+      "total_net": -4
+    },
+    "2432": {
+      "name": "倚天酷碁-創",
+      "foreign_buy": 7,
+      "foreign_sell": 12,
+      "foreign_net": -5,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 1,
       "total_net": -4
     },
     "3593": {
@@ -8648,17 +8648,6 @@
       "dealer_net": 0,
       "total_net": -5
     },
-    "1732": {
-      "name": "毛寶",
-      "foreign_buy": 46,
-      "foreign_sell": 51,
-      "foreign_net": -5,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 0,
-      "total_net": -5
-    },
     "2314": {
       "name": "台揚",
       "foreign_buy": 3,
@@ -8679,6 +8668,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 1,
+      "total_net": -5
+    },
+    "1732": {
+      "name": "毛寶",
+      "foreign_buy": 46,
+      "foreign_sell": 51,
+      "foreign_net": -5,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": -5
     },
     "4106": {
@@ -8868,17 +8868,6 @@
       "dealer_net": 2,
       "total_net": -9
     },
-    "2906": {
-      "name": "高林",
-      "foreign_buy": 32,
-      "foreign_sell": 48,
-      "foreign_net": -16,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 7,
-      "total_net": -9
-    },
     "6835": {
       "name": "圓裕",
       "foreign_buy": 14,
@@ -8890,16 +8879,16 @@
       "dealer_net": 0,
       "total_net": -9
     },
-    "7786": {
-      "name": "東方風能",
-      "foreign_buy": 48,
-      "foreign_sell": 58,
-      "foreign_net": -10,
+    "2906": {
+      "name": "高林",
+      "foreign_buy": 32,
+      "foreign_sell": 48,
+      "foreign_net": -16,
       "trust_buy": 0,
       "trust_sell": 0,
       "trust_net": 0,
-      "dealer_net": 0,
-      "total_net": -10
+      "dealer_net": 7,
+      "total_net": -9
     },
     "1521": {
       "name": "大億",
@@ -8910,6 +8899,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 2,
+      "total_net": -10
+    },
+    "7786": {
+      "name": "東方風能",
+      "foreign_buy": 48,
+      "foreign_sell": 58,
+      "foreign_net": -10,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": -10
     },
     "4169": {
@@ -8989,17 +8989,6 @@
       "dealer_net": -16,
       "total_net": -10
     },
-    "1339": {
-      "name": "昭輝",
-      "foreign_buy": 38,
-      "foreign_sell": 48,
-      "foreign_net": -10,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 0,
-      "total_net": -10
-    },
     "6771": {
       "name": "平和環保-創",
       "foreign_buy": 1,
@@ -9009,6 +8998,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -2,
+      "total_net": -10
+    },
+    "1339": {
+      "name": "昭輝",
+      "foreign_buy": 38,
+      "foreign_sell": 48,
+      "foreign_net": -10,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": -10
     },
     "00771": {
@@ -9319,17 +9319,6 @@
       "dealer_net": -7,
       "total_net": -18
     },
-    "2545": {
-      "name": "皇翔",
-      "foreign_buy": 114,
-      "foreign_sell": 134,
-      "foreign_net": -20,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 2,
-      "total_net": -18
-    },
     "8429": {
       "name": "金麗-KY",
       "foreign_buy": 19,
@@ -9339,6 +9328,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": -18
+    },
+    "2545": {
+      "name": "皇翔",
+      "foreign_buy": 114,
+      "foreign_sell": 134,
+      "foreign_net": -20,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 2,
       "total_net": -18
     },
     "3138": {
@@ -10168,8 +10168,8 @@
     },
     "2059": {
       "name": "川湖",
-      "foreign_buy": 410,
-      "foreign_sell": 469,
+      "foreign_buy": 470,
+      "foreign_sell": 529,
       "foreign_net": -59,
       "trust_buy": 14,
       "trust_sell": 14,
@@ -10762,8 +10762,8 @@
     },
     "3017": {
       "name": "奇鋐",
-      "foreign_buy": 963,
-      "foreign_sell": 965,
+      "foreign_buy": 1062,
+      "foreign_sell": 1064,
       "foreign_net": -3,
       "trust_buy": 1,
       "trust_sell": 149,
@@ -11103,8 +11103,8 @@
     },
     "2360": {
       "name": "致茂",
-      "foreign_buy": 1322,
-      "foreign_sell": 1313,
+      "foreign_buy": 1330,
+      "foreign_sell": 1321,
       "foreign_net": 8,
       "trust_buy": 76,
       "trust_sell": 303,
@@ -11882,6 +11882,17 @@
       "dealer_net": -16,
       "total_net": -661
     },
+    "2368": {
+      "name": "金像電",
+      "foreign_buy": 2379,
+      "foreign_sell": 2434,
+      "foreign_net": -56,
+      "trust_buy": 29,
+      "trust_sell": 705,
+      "trust_net": -676,
+      "dealer_net": 63,
+      "total_net": -668
+    },
     "00934": {
       "name": "中信成長高股息",
       "foreign_buy": 143,
@@ -11903,17 +11914,6 @@
       "trust_net": 497,
       "dealer_net": 23,
       "total_net": -680
-    },
-    "2368": {
-      "name": "金像電",
-      "foreign_buy": 2379,
-      "foreign_sell": 2434,
-      "foreign_net": -56,
-      "trust_buy": 15,
-      "trust_sell": 705,
-      "trust_net": -690,
-      "dealer_net": 63,
-      "total_net": -682
     },
     "3030": {
       "name": "德律",
@@ -12002,6 +12002,17 @@
       "trust_net": -16,
       "dealer_net": 189,
       "total_net": -747
+    },
+    "3090": {
+      "name": "日電貿",
+      "foreign_buy": 1790,
+      "foreign_sell": 4345,
+      "foreign_net": -2556,
+      "trust_buy": 1736,
+      "trust_sell": 0,
+      "trust_net": 1736,
+      "dealer_net": 37,
+      "total_net": -782
     },
     "3665": {
       "name": "貿聯-KY",
@@ -12190,17 +12201,6 @@
       "dealer_net": 41,
       "total_net": -1041
     },
-    "3090": {
-      "name": "日電貿",
-      "foreign_buy": 1790,
-      "foreign_sell": 4345,
-      "foreign_net": -2556,
-      "trust_buy": 1472,
-      "trust_sell": 0,
-      "trust_net": 1472,
-      "dealer_net": 37,
-      "total_net": -1046
-    },
     "00885": {
       "name": "富邦越南",
       "foreign_buy": 108,
@@ -12236,8 +12236,8 @@
     },
     "6805": {
       "name": "富世達",
-      "foreign_buy": 497,
-      "foreign_sell": 806,
+      "foreign_buy": 515,
+      "foreign_sell": 824,
       "foreign_net": -309,
       "trust_buy": 0,
       "trust_sell": 807,
@@ -12322,6 +12322,17 @@
       "dealer_net": 0,
       "total_net": -1315
     },
+    "3376": {
+      "name": "新日興",
+      "foreign_buy": 542,
+      "foreign_sell": 1955,
+      "foreign_net": -1413,
+      "trust_buy": 18,
+      "trust_sell": 0,
+      "trust_net": 18,
+      "dealer_net": 46,
+      "total_net": -1349
+    },
     "2548": {
       "name": "華固",
       "foreign_buy": 473,
@@ -12332,17 +12343,6 @@
       "trust_net": 0,
       "dealer_net": -8,
       "total_net": -1362
-    },
-    "3376": {
-      "name": "新日興",
-      "foreign_buy": 542,
-      "foreign_sell": 1955,
-      "foreign_net": -1413,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 46,
-      "total_net": -1367
     },
     "6271": {
       "name": "同欣電",
@@ -12511,8 +12511,8 @@
     },
     "2308": {
       "name": "台達電",
-      "foreign_buy": 4251,
-      "foreign_sell": 5855,
+      "foreign_buy": 4276,
+      "foreign_sell": 5880,
       "foreign_net": -1605,
       "trust_buy": 31,
       "trust_sell": 421,
@@ -12586,6 +12586,17 @@
       "dealer_net": -52,
       "total_net": -2270
     },
+    "6278": {
+      "name": "台表科",
+      "foreign_buy": 4171,
+      "foreign_sell": 7725,
+      "foreign_net": -3554,
+      "trust_buy": 1641,
+      "trust_sell": 203,
+      "trust_net": 1438,
+      "dealer_net": -197,
+      "total_net": -2312
+    },
     "3550": {
       "name": "聯穎",
       "foreign_buy": 1249,
@@ -12651,6 +12662,17 @@
       "trust_net": -1,
       "dealer_net": 954,
       "total_net": -2592
+    },
+    "4958": {
+      "name": "臻鼎-KY",
+      "foreign_buy": 11460,
+      "foreign_sell": 17264,
+      "foreign_net": -5805,
+      "trust_buy": 2281,
+      "trust_sell": 29,
+      "trust_net": 2252,
+      "dealer_net": 808,
+      "total_net": -2744
     },
     "5871": {
       "name": "中租-KY",
@@ -12718,17 +12740,6 @@
       "dealer_net": 131,
       "total_net": -3589
     },
-    "8021": {
-      "name": "尖點",
-      "foreign_buy": 2512,
-      "foreign_sell": 5989,
-      "foreign_net": -3477,
-      "trust_buy": 170,
-      "trust_sell": 114,
-      "trust_net": 56,
-      "dealer_net": -170,
-      "total_net": -3590
-    },
     "3005": {
       "name": "神基",
       "foreign_buy": 387,
@@ -12739,17 +12750,6 @@
       "trust_net": -10,
       "dealer_net": 20,
       "total_net": -3593
-    },
-    "6278": {
-      "name": "台表科",
-      "foreign_buy": 4171,
-      "foreign_sell": 7725,
-      "foreign_net": -3554,
-      "trust_buy": 157,
-      "trust_sell": 203,
-      "trust_net": -46,
-      "dealer_net": -197,
-      "total_net": -3796
     },
     "2615": {
       "name": "萬海",
@@ -12762,27 +12762,27 @@
       "dealer_net": -374,
       "total_net": -3943
     },
-    "4958": {
-      "name": "臻鼎-KY",
-      "foreign_buy": 11460,
-      "foreign_sell": 17264,
-      "foreign_net": -5805,
-      "trust_buy": 1064,
-      "trust_sell": 29,
-      "trust_net": 1035,
-      "dealer_net": 808,
-      "total_net": -3961
-    },
     "3036": {
       "name": "文曄",
-      "foreign_buy": 4907,
-      "foreign_sell": 8914,
+      "foreign_buy": 7607,
+      "foreign_sell": 11614,
       "foreign_net": -4007,
       "trust_buy": 230,
       "trust_sell": 181,
       "trust_net": 49,
       "dealer_net": -18,
       "total_net": -3976
+    },
+    "8021": {
+      "name": "尖點",
+      "foreign_buy": 2512,
+      "foreign_sell": 5989,
+      "foreign_net": -3477,
+      "trust_buy": 170,
+      "trust_sell": 527,
+      "trust_net": -358,
+      "dealer_net": -170,
+      "total_net": -4003
     },
     "2603": {
       "name": "長榮",
@@ -13009,11 +13009,11 @@
       "foreign_buy": 7547,
       "foreign_sell": 22016,
       "foreign_net": -14469,
-      "trust_buy": 1073,
+      "trust_buy": 1629,
       "trust_sell": 0,
-      "trust_net": 1073,
+      "trust_net": 1629,
       "dealer_net": -712,
-      "total_net": -14108
+      "total_net": -13552
     },
     "00712": {
       "name": "復華富時不動產",
@@ -13032,10 +13032,10 @@
       "foreign_sell": 28256,
       "foreign_net": -15080,
       "trust_buy": 3,
-      "trust_sell": 1190,
-      "trust_net": -1187,
+      "trust_sell": 1848,
+      "trust_net": -1845,
       "dealer_net": -205,
-      "total_net": -16472
+      "total_net": -17130
     },
     "2609": {
       "name": "陽明",
@@ -13050,14 +13050,14 @@
     },
     "2301": {
       "name": "光寶科",
-      "foreign_buy": 10174,
-      "foreign_sell": 29551,
+      "foreign_buy": 12589,
+      "foreign_sell": 31966,
       "foreign_net": -19377,
-      "trust_buy": 134,
+      "trust_buy": 140,
       "trust_sell": 3044,
-      "trust_net": -2910,
+      "trust_net": -2904,
       "dealer_net": -136,
-      "total_net": -22423
+      "total_net": -22416
     },
     "00896": {
       "name": "中信綠能及電動車",
