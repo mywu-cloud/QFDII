@@ -1,6 +1,6 @@
 {
   "date": "20260618",
-  "fetched_at": "2026-06-19T21:59:36",
+  "fetched_at": "2026-06-19T22:58:25",
   "stocks": {
     "00919": {
       "name": "群益台灣精選高息",
@@ -7394,6 +7394,17 @@
       "dealer_net": 0,
       "total_net": -5
     },
+    "1537": {
+      "name": "廣隆",
+      "foreign_buy": 12,
+      "foreign_sell": 16,
+      "foreign_net": -4,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -2,
+      "total_net": -6
+    },
     "6902": {
       "name": "GOGOLOOK",
       "foreign_buy": 30,
@@ -7667,6 +7678,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -6,
+      "total_net": -8
+    },
+    "2059": {
+      "name": "川湖",
+      "foreign_buy": 281,
+      "foreign_sell": 257,
+      "foreign_net": 24,
+      "trust_buy": 22,
+      "trust_sell": 55,
+      "trust_net": -34,
+      "dealer_net": 1,
       "total_net": -8
     },
     "00660": {
