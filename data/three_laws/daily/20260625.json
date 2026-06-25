@@ -1,6 +1,6 @@
 {
   "date": "20260625",
-  "fetched_at": "2026-06-25T20:18:00",
+  "fetched_at": "2026-06-25T21:13:50",
   "stocks": {
     "2610": {
       "name": "華航",
@@ -1002,6 +1002,17 @@
       "trust_net": 18,
       "dealer_net": 69,
       "total_net": 969
+    },
+    "6409": {
+      "name": "旭隼",
+      "foreign_buy": 1099,
+      "foreign_sell": 281,
+      "foreign_net": 818,
+      "trust_buy": 2,
+      "trust_sell": 3,
+      "trust_net": -1,
+      "dealer_net": 105,
+      "total_net": 922
     },
     "2836": {
       "name": "高雄銀",
