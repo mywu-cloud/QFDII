@@ -1,0 +1,6156 @@
+{
+  "date": "20260626",
+  "fetched_at": "2026-06-26T21:07:45",
+  "stocks": {
+    "0050": {
+      "name": "元大台灣50",
+      "holding_shares": 0,
+      "holding_pct": 5.24
+    },
+    "0051": {
+      "name": "元大中型100",
+      "holding_shares": 0,
+      "holding_pct": 0.53
+    },
+    "0052": {
+      "name": "富邦科技",
+      "holding_shares": 0,
+      "holding_pct": 1.82
+    },
+    "0053": {
+      "name": "元大電子",
+      "holding_shares": 0,
+      "holding_pct": 0.82
+    },
+    "0055": {
+      "name": "元大MSCI金融",
+      "holding_shares": 0,
+      "holding_pct": 1.14
+    },
+    "0056": {
+      "name": "元大高股息",
+      "holding_shares": 0,
+      "holding_pct": 0.61
+    },
+    "0057": {
+      "name": "富邦摩台",
+      "holding_shares": 0,
+      "holding_pct": 6.96
+    },
+    "0061": {
+      "name": "元大寶滬深",
+      "holding_shares": 0,
+      "holding_pct": 5.44
+    },
+    "006203": {
+      "name": "元大MSCI台灣",
+      "holding_shares": 0,
+      "holding_pct": 78.48
+    },
+    "006204": {
+      "name": "永豐臺灣加權",
+      "holding_shares": 0,
+      "holding_pct": 3.19
+    },
+    "006205": {
+      "name": "富邦上証",
+      "holding_shares": 0,
+      "holding_pct": 4.12
+    },
+    "006206": {
+      "name": "元大上證50",
+      "holding_shares": 0,
+      "holding_pct": 0.51
+    },
+    "006207": {
+      "name": "復華滬深",
+      "holding_shares": 0,
+      "holding_pct": 3.4
+    },
+    "006208": {
+      "name": "富邦台50",
+      "holding_shares": 0,
+      "holding_pct": 0.71
+    },
+    "00636": {
+      "name": "國泰中國A50",
+      "holding_shares": 0,
+      "holding_pct": 0.77
+    },
+    "00639": {
+      "name": "富邦深100",
+      "holding_shares": 0,
+      "holding_pct": 1.48
+    },
+    "00643": {
+      "name": "群益深証中小",
+      "holding_shares": 0,
+      "holding_pct": 16.19
+    },
+    "00645": {
+      "name": "富邦日本",
+      "holding_shares": 0,
+      "holding_pct": 1.26
+    },
+    "00646": {
+      "name": "元大S&P500",
+      "holding_shares": 0,
+      "holding_pct": 0.4
+    },
+    "00652": {
+      "name": "富邦印度",
+      "holding_shares": 0,
+      "holding_pct": 0.99
+    },
+    "00657": {
+      "name": "國泰日經225",
+      "holding_shares": 0,
+      "holding_pct": 8.9
+    },
+    "00660": {
+      "name": "元大歐洲50",
+      "holding_shares": 0,
+      "holding_pct": 0.47
+    },
+    "00661": {
+      "name": "元大日經225",
+      "holding_shares": 0,
+      "holding_pct": 6.77
+    },
+    "00662": {
+      "name": "富邦NASDAQ",
+      "holding_shares": 0,
+      "holding_pct": 1.02
+    },
+    "00668": {
+      "name": "國泰美國道瓊",
+      "holding_shares": 0,
+      "holding_pct": 2.31
+    },
+    "00678": {
+      "name": "群益那斯達克生技",
+      "holding_shares": 0,
+      "holding_pct": 7.33
+    },
+    "00690": {
+      "name": "兆豐藍籌30",
+      "holding_shares": 0,
+      "holding_pct": 0.16
+    },
+    "00692": {
+      "name": "富邦公司治理",
+      "holding_shares": 0,
+      "holding_pct": 0.28
+    },
+    "00700": {
+      "name": "富邦恒生國企",
+      "holding_shares": 0,
+      "holding_pct": 4.45
+    },
+    "00701": {
+      "name": "國泰股利精選30",
+      "holding_shares": 0,
+      "holding_pct": 1.57
+    },
+    "00702": {
+      "name": "國泰標普低波高息",
+      "holding_shares": 0,
+      "holding_pct": 18.43
+    },
+    "00703": {
+      "name": "台新MSCI中國",
+      "holding_shares": 0,
+      "holding_pct": 1.49
+    },
+    "00709": {
+      "name": "富邦歐洲",
+      "holding_shares": 0,
+      "holding_pct": 0.75
+    },
+    "00712": {
+      "name": "復華富時不動產",
+      "holding_shares": 0,
+      "holding_pct": 0.73
+    },
+    "00713": {
+      "name": "元大台灣高息低波",
+      "holding_shares": 0,
+      "holding_pct": 0.42
+    },
+    "00714": {
+      "name": "群益道瓊美國地產",
+      "holding_shares": 0,
+      "holding_pct": 6.38
+    },
+    "00717": {
+      "name": "富邦美國特別股",
+      "holding_shares": 0,
+      "holding_pct": 1.64
+    },
+    "00728": {
+      "name": "第一金工業30",
+      "holding_shares": 0,
+      "holding_pct": 1.2
+    },
+    "00730": {
+      "name": "富邦臺灣優質高息",
+      "holding_shares": 0,
+      "holding_pct": 4.28
+    },
+    "00731": {
+      "name": "復華富時高息低波",
+      "holding_shares": 0,
+      "holding_pct": 11.81
+    },
+    "00733": {
+      "name": "富邦臺灣中小",
+      "holding_shares": 0,
+      "holding_pct": 4.53
+    },
+    "00735": {
+      "name": "國泰臺韓科技",
+      "holding_shares": 0,
+      "holding_pct": 3.68
+    },
+    "00736": {
+      "name": "國泰新興市場",
+      "holding_shares": 0,
+      "holding_pct": 21.1
+    },
+    "00737": {
+      "name": "國泰AI機器人",
+      "holding_shares": 0,
+      "holding_pct": 1.01
+    },
+    "00739": {
+      "name": "元大MSCI A股",
+      "holding_shares": 0,
+      "holding_pct": 2.16
+    },
+    "00752": {
+      "name": "中信中國50",
+      "holding_shares": 0,
+      "holding_pct": 1.19
+    },
+    "00757": {
+      "name": "統一FANG+",
+      "holding_shares": 0,
+      "holding_pct": 1.2
+    },
+    "00762": {
+      "name": "元大全球AI",
+      "holding_shares": 0,
+      "holding_pct": 1.94
+    },
+    "00770": {
+      "name": "國泰北美科技",
+      "holding_shares": 0,
+      "holding_pct": 0.55
+    },
+    "00771": {
+      "name": "元大US高息特別股",
+      "holding_shares": 0,
+      "holding_pct": 0.37
+    },
+    "00783": {
+      "name": "富邦中証500",
+      "holding_shares": 0,
+      "holding_pct": 5.98
+    },
+    "00830": {
+      "name": "國泰費城半導體",
+      "holding_shares": 0,
+      "holding_pct": 4.74
+    },
+    "00850": {
+      "name": "元大臺灣ESG永續",
+      "holding_shares": 0,
+      "holding_pct": 0.75
+    },
+    "00851": {
+      "name": "台新全球AI",
+      "holding_shares": 0,
+      "holding_pct": 0.77
+    },
+    "00861": {
+      "name": "元大全球未來通訊",
+      "holding_shares": 0,
+      "holding_pct": 1.64
+    },
+    "00875": {
+      "name": "國泰網路資安",
+      "holding_shares": 0,
+      "holding_pct": 9.49
+    },
+    "00876": {
+      "name": "元大全球5G",
+      "holding_shares": 0,
+      "holding_pct": 0.63
+    },
+    "00878": {
+      "name": "國泰永續高股息",
+      "holding_shares": 0,
+      "holding_pct": 0.59
+    },
+    "00881": {
+      "name": "國泰台灣科技龍頭",
+      "holding_shares": 0,
+      "holding_pct": 0.62
+    },
+    "00882": {
+      "name": "中信中國高股息",
+      "holding_shares": 0,
+      "holding_pct": 0.29
+    },
+    "00885": {
+      "name": "富邦越南",
+      "holding_shares": 0,
+      "holding_pct": 2.15
+    },
+    "00891": {
+      "name": "中信關鍵半導體",
+      "holding_shares": 0,
+      "holding_pct": 0.15
+    },
+    "00892": {
+      "name": "富邦台灣半導體",
+      "holding_shares": 0,
+      "holding_pct": 1.18
+    },
+    "00893": {
+      "name": "國泰智能電動車",
+      "holding_shares": 0,
+      "holding_pct": 0.38
+    },
+    "00894": {
+      "name": "中信小資高價30",
+      "holding_shares": 0,
+      "holding_pct": 1.54
+    },
+    "00895": {
+      "name": "富邦未來車",
+      "holding_shares": 0,
+      "holding_pct": 0.81
+    },
+    "00896": {
+      "name": "中信綠能及電動車",
+      "holding_shares": 0,
+      "holding_pct": 0.88
+    },
+    "00897": {
+      "name": "富邦基因免疫生技",
+      "holding_shares": 0,
+      "holding_pct": 3.73
+    },
+    "00898": {
+      "name": "國泰基因免疫革命",
+      "holding_shares": 0,
+      "holding_pct": 1.53
+    },
+    "00899": {
+      "name": "FT潔淨能源",
+      "holding_shares": 0,
+      "holding_pct": 0.55
+    },
+    "00900": {
+      "name": "富邦特選高股息30",
+      "holding_shares": 0,
+      "holding_pct": 1.02
+    },
+    "00901": {
+      "name": "永豐智能車供應鏈",
+      "holding_shares": 0,
+      "holding_pct": 0.5
+    },
+    "00902": {
+      "name": "中信電池及儲能",
+      "holding_shares": 0,
+      "holding_pct": 0.21
+    },
+    "00903": {
+      "name": "富邦元宇宙",
+      "holding_shares": 0,
+      "holding_pct": 1.64
+    },
+    "00904": {
+      "name": "新光臺灣半導體30",
+      "holding_shares": 0,
+      "holding_pct": 1.4
+    },
+    "00905": {
+      "name": "FT臺灣Smart",
+      "holding_shares": 0,
+      "holding_pct": 0.18
+    },
+    "00907": {
+      "name": "永豐優息存股",
+      "holding_shares": 0,
+      "holding_pct": 4.34
+    },
+    "00908": {
+      "name": "富邦入息REITs+",
+      "holding_shares": 0,
+      "holding_pct": 1.75
+    },
+    "00909": {
+      "name": "國泰數位支付服務",
+      "holding_shares": 0,
+      "holding_pct": 2.57
+    },
+    "00910": {
+      "name": "第一金太空衛星",
+      "holding_shares": 0,
+      "holding_pct": 8.0
+    },
+    "00911": {
+      "name": "兆豐洲際半導體",
+      "holding_shares": 0,
+      "holding_pct": 0.43
+    },
+    "00912": {
+      "name": "中信臺灣智慧50",
+      "holding_shares": 0,
+      "holding_pct": 1.65
+    },
+    "00913": {
+      "name": "兆豐台灣晶圓製造",
+      "holding_shares": 0,
+      "holding_pct": 1.14
+    },
+    "00915": {
+      "name": "凱基優選高股息30",
+      "holding_shares": 0,
+      "holding_pct": 2.42
+    },
+    "00916": {
+      "name": "國泰全球品牌50",
+      "holding_shares": 0,
+      "holding_pct": 1.89
+    },
+    "00917": {
+      "name": "中信特選金融",
+      "holding_shares": 0,
+      "holding_pct": 2.09
+    },
+    "00918": {
+      "name": "大華優利高填息30",
+      "holding_shares": 0,
+      "holding_pct": 1.64
+    },
+    "00919": {
+      "name": "群益台灣精選高息",
+      "holding_shares": 0,
+      "holding_pct": 0.4
+    },
+    "00920": {
+      "name": "富邦ESG綠色電力",
+      "holding_shares": 0,
+      "holding_pct": 3.81
+    },
+    "00921": {
+      "name": "兆豐龍頭等權重",
+      "holding_shares": 0,
+      "holding_pct": 2.09
+    },
+    "00922": {
+      "name": "國泰台灣領袖50",
+      "holding_shares": 0,
+      "holding_pct": 20.8
+    },
+    "00923": {
+      "name": "群益台ESG低碳50",
+      "holding_shares": 0,
+      "holding_pct": 0.28
+    },
+    "00924": {
+      "name": "復華S&P500成長",
+      "holding_shares": 0,
+      "holding_pct": 0.6
+    },
+    "00926": {
+      "name": "凱基全球菁英55",
+      "holding_shares": 0,
+      "holding_pct": 2.28
+    },
+    "00927": {
+      "name": "群益半導體收益",
+      "holding_shares": 0,
+      "holding_pct": 0.15
+    },
+    "00929": {
+      "name": "復華台灣科技優息",
+      "holding_shares": 0,
+      "holding_pct": 0.93
+    },
+    "00930": {
+      "name": "永豐ESG低碳高息",
+      "holding_shares": 0,
+      "holding_pct": 5.83
+    },
+    "00932": {
+      "name": "兆豐永續高息等權",
+      "holding_shares": 0,
+      "holding_pct": 2.88
+    },
+    "00934": {
+      "name": "中信成長高股息",
+      "holding_shares": 0,
+      "holding_pct": 0.73
+    },
+    "00935": {
+      "name": "野村臺灣新科技50",
+      "holding_shares": 0,
+      "holding_pct": 2.22
+    },
+    "00936": {
+      "name": "台新永續高息中小",
+      "holding_shares": 0,
+      "holding_pct": 6.06
+    },
+    "00938": {
+      "name": "凱基優選30",
+      "holding_shares": 0,
+      "holding_pct": 1.37
+    },
+    "00939": {
+      "name": "統一台灣高息動能",
+      "holding_shares": 0,
+      "holding_pct": 1.61
+    },
+    "00940": {
+      "name": "元大台灣價值高息",
+      "holding_shares": 0,
+      "holding_pct": 0.53
+    },
+    "00941": {
+      "name": "中信上游半導體",
+      "holding_shares": 0,
+      "holding_pct": 0.4
+    },
+    "00943": {
+      "name": "兆豐電子高息等權",
+      "holding_shares": 0,
+      "holding_pct": 27.76
+    },
+    "00944": {
+      "name": "野村趨勢動能高息",
+      "holding_shares": 0,
+      "holding_pct": 1.62
+    },
+    "00946": {
+      "name": "群益科技高息成長",
+      "holding_shares": 0,
+      "holding_pct": 0.98
+    },
+    "00947": {
+      "name": "台新臺灣IC設計",
+      "holding_shares": 0,
+      "holding_pct": 0.28
+    },
+    "00949": {
+      "name": "復華日本龍頭",
+      "holding_shares": 0,
+      "holding_pct": 0.44
+    },
+    "00951": {
+      "name": "台新日本半導體",
+      "holding_shares": 0,
+      "holding_pct": 0.4
+    },
+    "00952": {
+      "name": "凱基台灣AI50",
+      "holding_shares": 0,
+      "holding_pct": 1.97
+    },
+    "00954": {
+      "name": "中信日本半導體",
+      "holding_shares": 0,
+      "holding_pct": 0.18
+    },
+    "00956": {
+      "name": "中信日經高股息",
+      "holding_shares": 0,
+      "holding_pct": 2.75
+    },
+    "00960": {
+      "name": "野村全球航運龍頭",
+      "holding_shares": 0,
+      "holding_pct": 2.2
+    },
+    "00961": {
+      "name": "FT臺灣永續高息",
+      "holding_shares": 0,
+      "holding_pct": 0.27
+    },
+    "00962": {
+      "name": "台新AI優息動能",
+      "holding_shares": 0,
+      "holding_pct": 2.83
+    },
+    "00963": {
+      "name": "中信全球高股息",
+      "holding_shares": 0,
+      "holding_pct": 2.59
+    },
+    "00964": {
+      "name": "中信亞太高股息",
+      "holding_shares": 0,
+      "holding_pct": 0.16
+    },
+    "00965": {
+      "name": "元大航太防衛科技",
+      "holding_shares": 0,
+      "holding_pct": 1.35
+    },
+    "00971": {
+      "name": "野村美國研發龍頭",
+      "holding_shares": 0,
+      "holding_pct": 0.51
+    },
+    "00972": {
+      "name": "野村日本動能高息",
+      "holding_shares": 0,
+      "holding_pct": 17.58
+    },
+    "009800": {
+      "name": "中信NASDAQ",
+      "holding_shares": 0,
+      "holding_pct": 0.37
+    },
+    "009801": {
+      "name": "中信美國創新科技",
+      "holding_shares": 0,
+      "holding_pct": 1.5
+    },
+    "009802": {
+      "name": "富邦旗艦50",
+      "holding_shares": 0,
+      "holding_pct": 0.83
+    },
+    "009803": {
+      "name": "玉山市值動能50",
+      "holding_shares": 0,
+      "holding_pct": 0.22
+    },
+    "009804": {
+      "name": "聯邦台精彩50",
+      "holding_shares": 0,
+      "holding_pct": 0.53
+    },
+    "009805": {
+      "name": "新光美國電力基建",
+      "holding_shares": 0,
+      "holding_pct": 1.82
+    },
+    "009808": {
+      "name": "華南永昌優選50",
+      "holding_shares": 0,
+      "holding_pct": 3.64
+    },
+    "009809": {
+      "name": "富邦淨零ESG50",
+      "holding_shares": 0,
+      "holding_pct": 0.59
+    },
+    "009810": {
+      "name": "玉山全球藍籌100",
+      "holding_shares": 0,
+      "holding_pct": 0.57
+    },
+    "009811": {
+      "name": "統一美國50",
+      "holding_shares": 0,
+      "holding_pct": 0.61
+    },
+    "009812": {
+      "name": "野村日本東證",
+      "holding_shares": 0,
+      "holding_pct": 3.24
+    },
+    "009813": {
+      "name": "貝萊德標普卓越50",
+      "holding_shares": 0,
+      "holding_pct": 1.85
+    },
+    "009816": {
+      "name": "凱基台灣TOP50",
+      "holding_shares": 0,
+      "holding_pct": 0.69
+    },
+    "009817": {
+      "name": "國泰日本不動產",
+      "holding_shares": 0,
+      "holding_pct": 3.39
+    },
+    "009818": {
+      "name": "華南永昌NASDAQxT",
+      "holding_shares": 0,
+      "holding_pct": 0.12
+    },
+    "009819": {
+      "name": "中信數據及電力",
+      "holding_shares": 0,
+      "holding_pct": 1.33
+    },
+    "009820": {
+      "name": "元大納斯達克精選",
+      "holding_shares": 0,
+      "holding_pct": 7.3
+    },
+    "009821": {
+      "name": "野村稀土關鍵資源",
+      "holding_shares": 0,
+      "holding_pct": 1.41
+    },
+    "009824": {
+      "name": "群益美國科技巨頭",
+      "holding_shares": 0,
+      "holding_pct": 0.0
+    },
+    "1101": {
+      "name": "台泥",
+      "holding_shares": 0,
+      "holding_pct": 14.01
+    },
+    "1102": {
+      "name": "亞泥",
+      "holding_shares": 0,
+      "holding_pct": 12.15
+    },
+    "1103": {
+      "name": "嘉泥",
+      "holding_shares": 0,
+      "holding_pct": 4.36
+    },
+    "1104": {
+      "name": "環泥",
+      "holding_shares": 0,
+      "holding_pct": 14.54
+    },
+    "1108": {
+      "name": "幸福",
+      "holding_shares": 0,
+      "holding_pct": 1.39
+    },
+    "1109": {
+      "name": "信大",
+      "holding_shares": 0,
+      "holding_pct": 2.35
+    },
+    "1110": {
+      "name": "東泥",
+      "holding_shares": 0,
+      "holding_pct": 5.86
+    },
+    "1201": {
+      "name": "味全",
+      "holding_shares": 0,
+      "holding_pct": 5.05
+    },
+    "1203": {
+      "name": "味王",
+      "holding_shares": 0,
+      "holding_pct": 1.74
+    },
+    "1210": {
+      "name": "大成",
+      "holding_shares": 0,
+      "holding_pct": 8.48
+    },
+    "1213": {
+      "name": "大飲",
+      "holding_shares": 0,
+      "holding_pct": 0.01
+    },
+    "1215": {
+      "name": "卜蜂",
+      "holding_shares": 0,
+      "holding_pct": 37.11
+    },
+    "1216": {
+      "name": "統一",
+      "holding_shares": 0,
+      "holding_pct": 30.93
+    },
+    "1217": {
+      "name": "愛之味",
+      "holding_shares": 0,
+      "holding_pct": 7.92
+    },
+    "1218": {
+      "name": "泰山",
+      "holding_shares": 0,
+      "holding_pct": 3.73
+    },
+    "1219": {
+      "name": "福壽",
+      "holding_shares": 0,
+      "holding_pct": 5.67
+    },
+    "1220": {
+      "name": "台榮",
+      "holding_shares": 0,
+      "holding_pct": 7.1
+    },
+    "1225": {
+      "name": "福懋油",
+      "holding_shares": 0,
+      "holding_pct": 1.09
+    },
+    "1227": {
+      "name": "佳格",
+      "holding_shares": 0,
+      "holding_pct": 6.81
+    },
+    "1229": {
+      "name": "聯華",
+      "holding_shares": 0,
+      "holding_pct": 8.99
+    },
+    "1231": {
+      "name": "聯華食",
+      "holding_shares": 0,
+      "holding_pct": 2.8
+    },
+    "1232": {
+      "name": "大統益",
+      "holding_shares": 0,
+      "holding_pct": 2.29
+    },
+    "1233": {
+      "name": "天仁",
+      "holding_shares": 0,
+      "holding_pct": 5.68
+    },
+    "1234": {
+      "name": "黑松",
+      "holding_shares": 0,
+      "holding_pct": 4.79
+    },
+    "1235": {
+      "name": "興泰",
+      "holding_shares": 0,
+      "holding_pct": 0.26
+    },
+    "1236": {
+      "name": "宏亞",
+      "holding_shares": 0,
+      "holding_pct": 0.5
+    },
+    "1256": {
+      "name": "鮮活果汁-KY",
+      "holding_shares": 0,
+      "holding_pct": 4.48
+    },
+    "1301": {
+      "name": "台塑",
+      "holding_shares": 0,
+      "holding_pct": 33.23
+    },
+    "1303": {
+      "name": "南亞",
+      "holding_shares": 0,
+      "holding_pct": 34.6
+    },
+    "1304": {
+      "name": "台聚",
+      "holding_shares": 0,
+      "holding_pct": 28.72
+    },
+    "1305": {
+      "name": "華夏",
+      "holding_shares": 0,
+      "holding_pct": 4.72
+    },
+    "1307": {
+      "name": "三芳",
+      "holding_shares": 0,
+      "holding_pct": 7.65
+    },
+    "1308": {
+      "name": "亞聚",
+      "holding_shares": 0,
+      "holding_pct": 4.64
+    },
+    "1309": {
+      "name": "台達化",
+      "holding_shares": 0,
+      "holding_pct": 3.09
+    },
+    "1310": {
+      "name": "台苯",
+      "holding_shares": 0,
+      "holding_pct": 5.21
+    },
+    "1312": {
+      "name": "國喬",
+      "holding_shares": 0,
+      "holding_pct": 3.85
+    },
+    "1313": {
+      "name": "聯成",
+      "holding_shares": 0,
+      "holding_pct": 5.77
+    },
+    "1314": {
+      "name": "中石化",
+      "holding_shares": 0,
+      "holding_pct": 9.81
+    },
+    "1315": {
+      "name": "達新",
+      "holding_shares": 0,
+      "holding_pct": 1.26
+    },
+    "1316": {
+      "name": "上曜",
+      "holding_shares": 0,
+      "holding_pct": 3.95
+    },
+    "1319": {
+      "name": "東陽",
+      "holding_shares": 0,
+      "holding_pct": 9.28
+    },
+    "1321": {
+      "name": "大洋",
+      "holding_shares": 0,
+      "holding_pct": 6.7
+    },
+    "1323": {
+      "name": "永裕",
+      "holding_shares": 0,
+      "holding_pct": 1.11
+    },
+    "1324": {
+      "name": "地球",
+      "holding_shares": 0,
+      "holding_pct": 0.92
+    },
+    "1325": {
+      "name": "恆大",
+      "holding_shares": 0,
+      "holding_pct": 1.25
+    },
+    "1326": {
+      "name": "台化",
+      "holding_shares": 0,
+      "holding_pct": 38.13
+    },
+    "1337": {
+      "name": "再生-KY",
+      "holding_shares": 0,
+      "holding_pct": 26.52
+    },
+    "1338": {
+      "name": "廣華-KY",
+      "holding_shares": 0,
+      "holding_pct": 6.93
+    },
+    "1339": {
+      "name": "昭輝",
+      "holding_shares": 0,
+      "holding_pct": 1.54
+    },
+    "1340": {
+      "name": "勝悅-KY",
+      "holding_shares": 0,
+      "holding_pct": 26.13
+    },
+    "1341": {
+      "name": "富林-KY",
+      "holding_shares": 0,
+      "holding_pct": 79.91
+    },
+    "1342": {
+      "name": "八貫",
+      "holding_shares": 0,
+      "holding_pct": 32.85
+    },
+    "1402": {
+      "name": "遠東新",
+      "holding_shares": 0,
+      "holding_pct": 14.31
+    },
+    "1409": {
+      "name": "新纖",
+      "holding_shares": 0,
+      "holding_pct": 12.84
+    },
+    "1410": {
+      "name": "南染",
+      "holding_shares": 0,
+      "holding_pct": 18.87
+    },
+    "1413": {
+      "name": "宏洲",
+      "holding_shares": 0,
+      "holding_pct": 0.43
+    },
+    "1414": {
+      "name": "東和",
+      "holding_shares": 0,
+      "holding_pct": 1.33
+    },
+    "1416": {
+      "name": "廣豐",
+      "holding_shares": 0,
+      "holding_pct": 5.98
+    },
+    "1417": {
+      "name": "嘉裕",
+      "holding_shares": 0,
+      "holding_pct": 1.03
+    },
+    "1418": {
+      "name": "東華",
+      "holding_shares": 0,
+      "holding_pct": 0.93
+    },
+    "1419": {
+      "name": "新紡",
+      "holding_shares": 0,
+      "holding_pct": 1.17
+    },
+    "1423": {
+      "name": "利華",
+      "holding_shares": 0,
+      "holding_pct": 1.09
+    },
+    "1432": {
+      "name": "大魯閣",
+      "holding_shares": 0,
+      "holding_pct": 0.32
+    },
+    "1434": {
+      "name": "福懋",
+      "holding_shares": 0,
+      "holding_pct": 8.08
+    },
+    "1435": {
+      "name": "中福",
+      "holding_shares": 0,
+      "holding_pct": 0.19
+    },
+    "1436": {
+      "name": "華友聯",
+      "holding_shares": 0,
+      "holding_pct": 6.15
+    },
+    "1437": {
+      "name": "勤益控",
+      "holding_shares": 0,
+      "holding_pct": 8.37
+    },
+    "1438": {
+      "name": "三地開發",
+      "holding_shares": 0,
+      "holding_pct": 0.38
+    },
+    "1439": {
+      "name": "雋揚",
+      "holding_shares": 0,
+      "holding_pct": 1.11
+    },
+    "1440": {
+      "name": "南紡",
+      "holding_shares": 0,
+      "holding_pct": 7.16
+    },
+    "1441": {
+      "name": "大東",
+      "holding_shares": 0,
+      "holding_pct": 1.37
+    },
+    "1442": {
+      "name": "名軒",
+      "holding_shares": 0,
+      "holding_pct": 8.47
+    },
+    "1443": {
+      "name": "立益物流",
+      "holding_shares": 0,
+      "holding_pct": 0.31
+    },
+    "1444": {
+      "name": "力麗",
+      "holding_shares": 0,
+      "holding_pct": 5.66
+    },
+    "1445": {
+      "name": "大宇",
+      "holding_shares": 0,
+      "holding_pct": 2.99
+    },
+    "1446": {
+      "name": "宏和",
+      "holding_shares": 0,
+      "holding_pct": 6.46
+    },
+    "1447": {
+      "name": "力鵬",
+      "holding_shares": 0,
+      "holding_pct": 3.33
+    },
+    "1449": {
+      "name": "佳和",
+      "holding_shares": 0,
+      "holding_pct": 5.85
+    },
+    "1451": {
+      "name": "年興",
+      "holding_shares": 0,
+      "holding_pct": 5.44
+    },
+    "1452": {
+      "name": "宏益",
+      "holding_shares": 0,
+      "holding_pct": 1.7
+    },
+    "1453": {
+      "name": "大將",
+      "holding_shares": 0,
+      "holding_pct": 0.62
+    },
+    "1454": {
+      "name": "台富",
+      "holding_shares": 0,
+      "holding_pct": 0.44
+    },
+    "1455": {
+      "name": "集盛",
+      "holding_shares": 0,
+      "holding_pct": 2.98
+    },
+    "1456": {
+      "name": "怡華",
+      "holding_shares": 0,
+      "holding_pct": 0.61
+    },
+    "1457": {
+      "name": "宜進",
+      "holding_shares": 0,
+      "holding_pct": 1.73
+    },
+    "1459": {
+      "name": "聯發",
+      "holding_shares": 0,
+      "holding_pct": 1.68
+    },
+    "1460": {
+      "name": "宏遠",
+      "holding_shares": 0,
+      "holding_pct": 2.02
+    },
+    "1463": {
+      "name": "強盛新",
+      "holding_shares": 0,
+      "holding_pct": 11.48
+    },
+    "1464": {
+      "name": "得力",
+      "holding_shares": 0,
+      "holding_pct": 2.02
+    },
+    "1465": {
+      "name": "偉全",
+      "holding_shares": 0,
+      "holding_pct": 0.52
+    },
+    "1466": {
+      "name": "聚隆",
+      "holding_shares": 0,
+      "holding_pct": 1.21
+    },
+    "1467": {
+      "name": "南緯",
+      "holding_shares": 0,
+      "holding_pct": 19.11
+    },
+    "1468": {
+      "name": "昶和",
+      "holding_shares": 0,
+      "holding_pct": 2.06
+    },
+    "1470": {
+      "name": "大統新創",
+      "holding_shares": 0,
+      "holding_pct": 0.3
+    },
+    "1471": {
+      "name": "首利",
+      "holding_shares": 0,
+      "holding_pct": 1.07
+    },
+    "1472": {
+      "name": "三洋實業",
+      "holding_shares": 0,
+      "holding_pct": 0.86
+    },
+    "1473": {
+      "name": "台南",
+      "holding_shares": 0,
+      "holding_pct": 5.08
+    },
+    "1474": {
+      "name": "弘裕",
+      "holding_shares": 0,
+      "holding_pct": 0.57
+    },
+    "1475": {
+      "name": "業旺",
+      "holding_shares": 0,
+      "holding_pct": 0.47
+    },
+    "1476": {
+      "name": "儒鴻",
+      "holding_shares": 0,
+      "holding_pct": 28.28
+    },
+    "1477": {
+      "name": "聚陽",
+      "holding_shares": 0,
+      "holding_pct": 19.89
+    },
+    "1503": {
+      "name": "士電",
+      "holding_shares": 0,
+      "holding_pct": 30.31
+    },
+    "1504": {
+      "name": "東元",
+      "holding_shares": 0,
+      "holding_pct": 6.75
+    },
+    "1506": {
+      "name": "正道",
+      "holding_shares": 0,
+      "holding_pct": 0.79
+    },
+    "1512": {
+      "name": "瑞利",
+      "holding_shares": 0,
+      "holding_pct": 5.48
+    },
+    "1513": {
+      "name": "中興電",
+      "holding_shares": 0,
+      "holding_pct": 9.46
+    },
+    "1514": {
+      "name": "亞力",
+      "holding_shares": 0,
+      "holding_pct": 14.79
+    },
+    "1515": {
+      "name": "力山",
+      "holding_shares": 0,
+      "holding_pct": 3.68
+    },
+    "1516": {
+      "name": "川飛",
+      "holding_shares": 0,
+      "holding_pct": 5.8
+    },
+    "1517": {
+      "name": "利奇",
+      "holding_shares": 0,
+      "holding_pct": 2.34
+    },
+    "1519": {
+      "name": "華城",
+      "holding_shares": 0,
+      "holding_pct": 18.87
+    },
+    "1521": {
+      "name": "大億",
+      "holding_shares": 0,
+      "holding_pct": 32.92
+    },
+    "1522": {
+      "name": "堤維西",
+      "holding_shares": 0,
+      "holding_pct": 2.28
+    },
+    "1524": {
+      "name": "耿鼎",
+      "holding_shares": 0,
+      "holding_pct": 1.48
+    },
+    "1525": {
+      "name": "江申",
+      "holding_shares": 0,
+      "holding_pct": 0.29
+    },
+    "1526": {
+      "name": "日馳",
+      "holding_shares": 0,
+      "holding_pct": 2.36
+    },
+    "1527": {
+      "name": "鑽全",
+      "holding_shares": 0,
+      "holding_pct": 10.61
+    },
+    "1528": {
+      "name": "恩德",
+      "holding_shares": 0,
+      "holding_pct": 1.2
+    },
+    "1529": {
+      "name": "樂事綠能",
+      "holding_shares": 0,
+      "holding_pct": 1.61
+    },
+    "1530": {
+      "name": "亞崴",
+      "holding_shares": 0,
+      "holding_pct": 0.75
+    },
+    "1531": {
+      "name": "高林股",
+      "holding_shares": 0,
+      "holding_pct": 1.66
+    },
+    "1532": {
+      "name": "勤美",
+      "holding_shares": 0,
+      "holding_pct": 7.1
+    },
+    "1533": {
+      "name": "車王電",
+      "holding_shares": 0,
+      "holding_pct": 6.66
+    },
+    "1535": {
+      "name": "中宇",
+      "holding_shares": 0,
+      "holding_pct": 1.18
+    },
+    "1536": {
+      "name": "和大",
+      "holding_shares": 0,
+      "holding_pct": 3.84
+    },
+    "1537": {
+      "name": "廣隆",
+      "holding_shares": 0,
+      "holding_pct": 15.88
+    },
+    "1538": {
+      "name": "正峰",
+      "holding_shares": 0,
+      "holding_pct": 0.06
+    },
+    "1539": {
+      "name": "巨庭",
+      "holding_shares": 0,
+      "holding_pct": 0.93
+    },
+    "1540": {
+      "name": "喬福",
+      "holding_shares": 0,
+      "holding_pct": 2.51
+    },
+    "1541": {
+      "name": "錩泰",
+      "holding_shares": 0,
+      "holding_pct": 9.84
+    },
+    "1558": {
+      "name": "伸興",
+      "holding_shares": 0,
+      "holding_pct": 6.57
+    },
+    "1560": {
+      "name": "中砂",
+      "holding_shares": 0,
+      "holding_pct": 39.55
+    },
+    "1563": {
+      "name": "巧新",
+      "holding_shares": 0,
+      "holding_pct": 3.71
+    },
+    "1568": {
+      "name": "倉佑",
+      "holding_shares": 0,
+      "holding_pct": 2.01
+    },
+    "1582": {
+      "name": "信錦",
+      "holding_shares": 0,
+      "holding_pct": 4.11
+    },
+    "1583": {
+      "name": "程泰",
+      "holding_shares": 0,
+      "holding_pct": 0.36
+    },
+    "1587": {
+      "name": "吉茂",
+      "holding_shares": 0,
+      "holding_pct": 20.39
+    },
+    "1589": {
+      "name": "永冠-KY",
+      "holding_shares": 0,
+      "holding_pct": 2.04
+    },
+    "1590": {
+      "name": "亞德客-KY",
+      "holding_shares": 0,
+      "holding_pct": 80.24
+    },
+    "1597": {
+      "name": "直得",
+      "holding_shares": 0,
+      "holding_pct": 7.3
+    },
+    "1598": {
+      "name": "岱宇",
+      "holding_shares": 0,
+      "holding_pct": 1.66
+    },
+    "1603": {
+      "name": "華電",
+      "holding_shares": 0,
+      "holding_pct": 1.9
+    },
+    "1604": {
+      "name": "聲寶",
+      "holding_shares": 0,
+      "holding_pct": 7.53
+    },
+    "1605": {
+      "name": "華新",
+      "holding_shares": 0,
+      "holding_pct": 15.85
+    },
+    "1608": {
+      "name": "華榮",
+      "holding_shares": 0,
+      "holding_pct": 2.95
+    },
+    "1609": {
+      "name": "大亞",
+      "holding_shares": 0,
+      "holding_pct": 11.35
+    },
+    "1611": {
+      "name": "中電",
+      "holding_shares": 0,
+      "holding_pct": 10.42
+    },
+    "1612": {
+      "name": "宏泰",
+      "holding_shares": 0,
+      "holding_pct": 17.54
+    },
+    "1614": {
+      "name": "三洋電",
+      "holding_shares": 0,
+      "holding_pct": 2.26
+    },
+    "1615": {
+      "name": "大山",
+      "holding_shares": 0,
+      "holding_pct": 1.06
+    },
+    "1616": {
+      "name": "億泰",
+      "holding_shares": 0,
+      "holding_pct": 1.49
+    },
+    "1617": {
+      "name": "榮星",
+      "holding_shares": 0,
+      "holding_pct": 19.44
+    },
+    "1618": {
+      "name": "合機",
+      "holding_shares": 0,
+      "holding_pct": 1.58
+    },
+    "1623": {
+      "name": "大東電",
+      "holding_shares": 0,
+      "holding_pct": 0.4
+    },
+    "1626": {
+      "name": "艾美特-KY",
+      "holding_shares": 0,
+      "holding_pct": 43.77
+    },
+    "1702": {
+      "name": "南僑",
+      "holding_shares": 0,
+      "holding_pct": 8.02
+    },
+    "1707": {
+      "name": "葡萄王",
+      "holding_shares": 0,
+      "holding_pct": 13.47
+    },
+    "1708": {
+      "name": "東鹼",
+      "holding_shares": 0,
+      "holding_pct": 13.41
+    },
+    "1709": {
+      "name": "和益",
+      "holding_shares": 0,
+      "holding_pct": 5.02
+    },
+    "1710": {
+      "name": "東聯",
+      "holding_shares": 0,
+      "holding_pct": 5.42
+    },
+    "1711": {
+      "name": "永光",
+      "holding_shares": 0,
+      "holding_pct": 4.62
+    },
+    "1712": {
+      "name": "興農",
+      "holding_shares": 0,
+      "holding_pct": 13.88
+    },
+    "1713": {
+      "name": "國化",
+      "holding_shares": 0,
+      "holding_pct": 1.83
+    },
+    "1714": {
+      "name": "和桐",
+      "holding_shares": 0,
+      "holding_pct": 24.52
+    },
+    "1717": {
+      "name": "長興",
+      "holding_shares": 0,
+      "holding_pct": 10.11
+    },
+    "1718": {
+      "name": "中纖",
+      "holding_shares": 0,
+      "holding_pct": 7.21
+    },
+    "1720": {
+      "name": "生達",
+      "holding_shares": 0,
+      "holding_pct": 5.36
+    },
+    "1721": {
+      "name": "三晃",
+      "holding_shares": 0,
+      "holding_pct": 1.56
+    },
+    "1722": {
+      "name": "台肥",
+      "holding_shares": 0,
+      "holding_pct": 8.35
+    },
+    "1723": {
+      "name": "中碳",
+      "holding_shares": 0,
+      "holding_pct": 8.43
+    },
+    "1725": {
+      "name": "元禎",
+      "holding_shares": 0,
+      "holding_pct": 0.44
+    },
+    "1726": {
+      "name": "永記",
+      "holding_shares": 0,
+      "holding_pct": 12.76
+    },
+    "1727": {
+      "name": "中華化",
+      "holding_shares": 0,
+      "holding_pct": 4.54
+    },
+    "1730": {
+      "name": "花仙子",
+      "holding_shares": 0,
+      "holding_pct": 6.76
+    },
+    "1731": {
+      "name": "美吾華",
+      "holding_shares": 0,
+      "holding_pct": 1.1
+    },
+    "1732": {
+      "name": "毛寶",
+      "holding_shares": 0,
+      "holding_pct": 2.76
+    },
+    "1733": {
+      "name": "五鼎",
+      "holding_shares": 0,
+      "holding_pct": 2.85
+    },
+    "1734": {
+      "name": "杏輝",
+      "holding_shares": 0,
+      "holding_pct": 5.54
+    },
+    "1735": {
+      "name": "日勝化",
+      "holding_shares": 0,
+      "holding_pct": 51.12
+    },
+    "1736": {
+      "name": "喬山",
+      "holding_shares": 0,
+      "holding_pct": 5.17
+    },
+    "1737": {
+      "name": "臺鹽",
+      "holding_shares": 0,
+      "holding_pct": 8.74
+    },
+    "1752": {
+      "name": "南光",
+      "holding_shares": 0,
+      "holding_pct": 1.45
+    },
+    "1760": {
+      "name": "寶齡富錦",
+      "holding_shares": 0,
+      "holding_pct": 11.11
+    },
+    "1762": {
+      "name": "中化生",
+      "holding_shares": 0,
+      "holding_pct": 2.94
+    },
+    "1773": {
+      "name": "勝一",
+      "holding_shares": 0,
+      "holding_pct": 7.64
+    },
+    "1776": {
+      "name": "展宇",
+      "holding_shares": 0,
+      "holding_pct": 1.35
+    },
+    "1783": {
+      "name": "和康生",
+      "holding_shares": 0,
+      "holding_pct": 7.0
+    },
+    "1786": {
+      "name": "科妍",
+      "holding_shares": 0,
+      "holding_pct": 1.93
+    },
+    "1789": {
+      "name": "神隆",
+      "holding_shares": 0,
+      "holding_pct": 1.75
+    },
+    "1795": {
+      "name": "美時",
+      "holding_shares": 0,
+      "holding_pct": 51.92
+    },
+    "1802": {
+      "name": "台玻",
+      "holding_shares": 0,
+      "holding_pct": 5.84
+    },
+    "1805": {
+      "name": "寶徠",
+      "holding_shares": 0,
+      "holding_pct": 0.49
+    },
+    "1806": {
+      "name": "冠軍",
+      "holding_shares": 0,
+      "holding_pct": 9.58
+    },
+    "1808": {
+      "name": "潤隆",
+      "holding_shares": 0,
+      "holding_pct": 4.08
+    },
+    "1809": {
+      "name": "中釉",
+      "holding_shares": 0,
+      "holding_pct": 1.53
+    },
+    "1810": {
+      "name": "和成",
+      "holding_shares": 0,
+      "holding_pct": 3.54
+    },
+    "1817": {
+      "name": "凱撒衛",
+      "holding_shares": 0,
+      "holding_pct": 1.51
+    },
+    "1903": {
+      "name": "士紙",
+      "holding_shares": 0,
+      "holding_pct": 10.68
+    },
+    "1904": {
+      "name": "正隆",
+      "holding_shares": 0,
+      "holding_pct": 10.09
+    },
+    "1905": {
+      "name": "華紙",
+      "holding_shares": 0,
+      "holding_pct": 2.19
+    },
+    "1906": {
+      "name": "寶隆",
+      "holding_shares": 0,
+      "holding_pct": 0.68
+    },
+    "1907": {
+      "name": "永豐餘",
+      "holding_shares": 0,
+      "holding_pct": 12.24
+    },
+    "1909": {
+      "name": "榮成",
+      "holding_shares": 0,
+      "holding_pct": 8.17
+    },
+    "2002": {
+      "name": "中鋼",
+      "holding_shares": 0,
+      "holding_pct": 13.97
+    },
+    "2006": {
+      "name": "東和鋼鐵",
+      "holding_shares": 0,
+      "holding_pct": 23.64
+    },
+    "2007": {
+      "name": "燁興",
+      "holding_shares": 0,
+      "holding_pct": 0.79
+    },
+    "2008": {
+      "name": "高興昌",
+      "holding_shares": 0,
+      "holding_pct": 7.7
+    },
+    "2009": {
+      "name": "第一銅",
+      "holding_shares": 0,
+      "holding_pct": 0.93
+    },
+    "2010": {
+      "name": "春源",
+      "holding_shares": 0,
+      "holding_pct": 8.82
+    },
+    "2012": {
+      "name": "春雨",
+      "holding_shares": 0,
+      "holding_pct": 1.43
+    },
+    "2013": {
+      "name": "中鋼構",
+      "holding_shares": 0,
+      "holding_pct": 7.14
+    },
+    "2014": {
+      "name": "中鴻",
+      "holding_shares": 0,
+      "holding_pct": 6.13
+    },
+    "2015": {
+      "name": "豐興",
+      "holding_shares": 0,
+      "holding_pct": 12.3
+    },
+    "2017": {
+      "name": "官田鋼",
+      "holding_shares": 0,
+      "holding_pct": 1.9
+    },
+    "2020": {
+      "name": "美亞",
+      "holding_shares": 0,
+      "holding_pct": 1.64
+    },
+    "2022": {
+      "name": "聚亨",
+      "holding_shares": 0,
+      "holding_pct": 2.35
+    },
+    "2023": {
+      "name": "燁輝",
+      "holding_shares": 0,
+      "holding_pct": 3.88
+    },
+    "2024": {
+      "name": "志聯",
+      "holding_shares": 0,
+      "holding_pct": 0.48
+    },
+    "2025": {
+      "name": "千興",
+      "holding_shares": 0,
+      "holding_pct": 1.55
+    },
+    "2027": {
+      "name": "大成鋼",
+      "holding_shares": 0,
+      "holding_pct": 21.51
+    },
+    "2028": {
+      "name": "威致",
+      "holding_shares": 0,
+      "holding_pct": 0.74
+    },
+    "2029": {
+      "name": "盛餘",
+      "holding_shares": 0,
+      "holding_pct": 66.91
+    },
+    "2030": {
+      "name": "彰源",
+      "holding_shares": 0,
+      "holding_pct": 5.38
+    },
+    "2031": {
+      "name": "新光鋼",
+      "holding_shares": 0,
+      "holding_pct": 7.67
+    },
+    "2032": {
+      "name": "新鋼",
+      "holding_shares": 0,
+      "holding_pct": 4.11
+    },
+    "2033": {
+      "name": "佳大",
+      "holding_shares": 0,
+      "holding_pct": 0.82
+    },
+    "2034": {
+      "name": "允強",
+      "holding_shares": 0,
+      "holding_pct": 3.98
+    },
+    "2038": {
+      "name": "海光",
+      "holding_shares": 0,
+      "holding_pct": 1.51
+    },
+    "2049": {
+      "name": "上銀",
+      "holding_shares": 0,
+      "holding_pct": 35.73
+    },
+    "2059": {
+      "name": "川湖",
+      "holding_shares": 0,
+      "holding_pct": 24.73
+    },
+    "2062": {
+      "name": "橋椿",
+      "holding_shares": 0,
+      "holding_pct": 7.55
+    },
+    "2069": {
+      "name": "運錩",
+      "holding_shares": 0,
+      "holding_pct": 2.61
+    },
+    "2072": {
+      "name": "世紀風電",
+      "holding_shares": 0,
+      "holding_pct": 1.96
+    },
+    "2101": {
+      "name": "南港",
+      "holding_shares": 0,
+      "holding_pct": 6.08
+    },
+    "2102": {
+      "name": "泰豐",
+      "holding_shares": 0,
+      "holding_pct": 2.92
+    },
+    "2103": {
+      "name": "台橡",
+      "holding_shares": 0,
+      "holding_pct": 23.0
+    },
+    "2104": {
+      "name": "國際中橡",
+      "holding_shares": 0,
+      "holding_pct": 5.76
+    },
+    "2105": {
+      "name": "正新",
+      "holding_shares": 0,
+      "holding_pct": 6.9
+    },
+    "2106": {
+      "name": "建大",
+      "holding_shares": 0,
+      "holding_pct": 8.29
+    },
+    "2107": {
+      "name": "厚生",
+      "holding_shares": 0,
+      "holding_pct": 6.47
+    },
+    "2108": {
+      "name": "南帝",
+      "holding_shares": 0,
+      "holding_pct": 5.01
+    },
+    "2109": {
+      "name": "華豐",
+      "holding_shares": 0,
+      "holding_pct": 15.08
+    },
+    "2114": {
+      "name": "鑫永銓",
+      "holding_shares": 0,
+      "holding_pct": 3.95
+    },
+    "2115": {
+      "name": "六暉-KY",
+      "holding_shares": 0,
+      "holding_pct": 44.09
+    },
+    "2201": {
+      "name": "裕隆",
+      "holding_shares": 0,
+      "holding_pct": 4.3
+    },
+    "2204": {
+      "name": "中華",
+      "holding_shares": 0,
+      "holding_pct": 17.76
+    },
+    "2206": {
+      "name": "三陽工業",
+      "holding_shares": 0,
+      "holding_pct": 7.32
+    },
+    "2207": {
+      "name": "和泰車",
+      "holding_shares": 0,
+      "holding_pct": 22.02
+    },
+    "2208": {
+      "name": "台船",
+      "holding_shares": 0,
+      "holding_pct": 7.45
+    },
+    "2211": {
+      "name": "長榮鋼",
+      "holding_shares": 0,
+      "holding_pct": 3.61
+    },
+    "2227": {
+      "name": "裕日車",
+      "holding_shares": 0,
+      "holding_pct": 40.38
+    },
+    "2228": {
+      "name": "劍麟",
+      "holding_shares": 0,
+      "holding_pct": 3.23
+    },
+    "2231": {
+      "name": "為升",
+      "holding_shares": 0,
+      "holding_pct": 4.45
+    },
+    "2233": {
+      "name": "宇隆",
+      "holding_shares": 0,
+      "holding_pct": 5.0
+    },
+    "2236": {
+      "name": "百達-KY",
+      "holding_shares": 0,
+      "holding_pct": 52.52
+    },
+    "2239": {
+      "name": "英利-KY",
+      "holding_shares": 0,
+      "holding_pct": 75.27
+    },
+    "2241": {
+      "name": "艾姆勒",
+      "holding_shares": 0,
+      "holding_pct": 13.37
+    },
+    "2243": {
+      "name": "宏旭-KY",
+      "holding_shares": 0,
+      "holding_pct": 31.65
+    },
+    "2247": {
+      "name": "汎德永業",
+      "holding_shares": 0,
+      "holding_pct": 3.77
+    },
+    "2248": {
+      "name": "華勝-KY",
+      "holding_shares": 0,
+      "holding_pct": 50.33
+    },
+    "2250": {
+      "name": "IKKA-KY",
+      "holding_shares": 0,
+      "holding_pct": 6.77
+    },
+    "2254": {
+      "name": "巨鎧精密-創",
+      "holding_shares": 0,
+      "holding_pct": 23.8
+    },
+    "2258": {
+      "name": "鴻華先進-創",
+      "holding_shares": 0,
+      "holding_pct": 0.36
+    },
+    "2301": {
+      "name": "光寶科",
+      "holding_shares": 0,
+      "holding_pct": 40.25
+    },
+    "2302": {
+      "name": "麗正",
+      "holding_shares": 0,
+      "holding_pct": 1.74
+    },
+    "2303": {
+      "name": "聯電",
+      "holding_shares": 0,
+      "holding_pct": 40.74
+    },
+    "2305": {
+      "name": "全友",
+      "holding_shares": 0,
+      "holding_pct": 7.04
+    },
+    "2308": {
+      "name": "台達電",
+      "holding_shares": 0,
+      "holding_pct": 63.59
+    },
+    "2312": {
+      "name": "金寶",
+      "holding_shares": 0,
+      "holding_pct": 6.46
+    },
+    "2313": {
+      "name": "華通",
+      "holding_shares": 0,
+      "holding_pct": 19.68
+    },
+    "2314": {
+      "name": "台揚",
+      "holding_shares": 0,
+      "holding_pct": 1.61
+    },
+    "2316": {
+      "name": "楠梓電",
+      "holding_shares": 0,
+      "holding_pct": 37.59
+    },
+    "2317": {
+      "name": "鴻海",
+      "holding_shares": 0,
+      "holding_pct": 40.44
+    },
+    "2321": {
+      "name": "東訊",
+      "holding_shares": 0,
+      "holding_pct": 0.01
+    },
+    "2323": {
+      "name": "中環",
+      "holding_shares": 0,
+      "holding_pct": 11.35
+    },
+    "2324": {
+      "name": "仁寶",
+      "holding_shares": 0,
+      "holding_pct": 33.52
+    },
+    "2327": {
+      "name": "國巨*",
+      "holding_shares": 0,
+      "holding_pct": 47.9
+    },
+    "2328": {
+      "name": "廣宇",
+      "holding_shares": 0,
+      "holding_pct": 7.71
+    },
+    "2329": {
+      "name": "華泰",
+      "holding_shares": 0,
+      "holding_pct": 10.3
+    },
+    "2330": {
+      "name": "台積電",
+      "holding_shares": 0,
+      "holding_pct": 69.79
+    },
+    "2331": {
+      "name": "精英",
+      "holding_shares": 0,
+      "holding_pct": 5.33
+    },
+    "2332": {
+      "name": "友訊",
+      "holding_shares": 0,
+      "holding_pct": 10.72
+    },
+    "2337": {
+      "name": "旺宏",
+      "holding_shares": 0,
+      "holding_pct": 32.84
+    },
+    "2338": {
+      "name": "光罩",
+      "holding_shares": 0,
+      "holding_pct": 6.15
+    },
+    "2340": {
+      "name": "台亞",
+      "holding_shares": 0,
+      "holding_pct": 11.47
+    },
+    "2342": {
+      "name": "茂矽",
+      "holding_shares": 0,
+      "holding_pct": 4.48
+    },
+    "2344": {
+      "name": "華邦電",
+      "holding_shares": 0,
+      "holding_pct": 19.43
+    },
+    "2345": {
+      "name": "智邦",
+      "holding_shares": 0,
+      "holding_pct": 58.37
+    },
+    "2347": {
+      "name": "聯強",
+      "holding_shares": 0,
+      "holding_pct": 29.81
+    },
+    "2348": {
+      "name": "海悅",
+      "holding_shares": 0,
+      "holding_pct": 1.23
+    },
+    "2349": {
+      "name": "錸德",
+      "holding_shares": 0,
+      "holding_pct": 14.85
+    },
+    "2351": {
+      "name": "順德",
+      "holding_shares": 0,
+      "holding_pct": 14.15
+    },
+    "2352": {
+      "name": "佳世達",
+      "holding_shares": 0,
+      "holding_pct": 10.19
+    },
+    "2353": {
+      "name": "宏碁",
+      "holding_shares": 0,
+      "holding_pct": 9.66
+    },
+    "2354": {
+      "name": "鴻準",
+      "holding_shares": 0,
+      "holding_pct": 9.99
+    },
+    "2355": {
+      "name": "敬鵬",
+      "holding_shares": 0,
+      "holding_pct": 15.94
+    },
+    "2356": {
+      "name": "英業達",
+      "holding_shares": 0,
+      "holding_pct": 16.6
+    },
+    "2357": {
+      "name": "華碩",
+      "holding_shares": 0,
+      "holding_pct": 33.02
+    },
+    "2359": {
+      "name": "所羅門",
+      "holding_shares": 0,
+      "holding_pct": 3.42
+    },
+    "2360": {
+      "name": "致茂",
+      "holding_shares": 0,
+      "holding_pct": 59.56
+    },
+    "2362": {
+      "name": "藍天",
+      "holding_shares": 0,
+      "holding_pct": 9.63
+    },
+    "2363": {
+      "name": "矽統",
+      "holding_shares": 0,
+      "holding_pct": 8.87
+    },
+    "2364": {
+      "name": "倫飛",
+      "holding_shares": 0,
+      "holding_pct": 15.06
+    },
+    "2365": {
+      "name": "昆盈",
+      "holding_shares": 0,
+      "holding_pct": 2.35
+    },
+    "2367": {
+      "name": "燿華",
+      "holding_shares": 0,
+      "holding_pct": 6.51
+    },
+    "2368": {
+      "name": "金像電",
+      "holding_shares": 0,
+      "holding_pct": 26.88
+    },
+    "2369": {
+      "name": "菱生",
+      "holding_shares": 0,
+      "holding_pct": 22.23
+    },
+    "2371": {
+      "name": "大同",
+      "holding_shares": 0,
+      "holding_pct": 5.97
+    },
+    "2373": {
+      "name": "震旦行",
+      "holding_shares": 0,
+      "holding_pct": 1.37
+    },
+    "2374": {
+      "name": "佳能",
+      "holding_shares": 0,
+      "holding_pct": 4.24
+    },
+    "2375": {
+      "name": "凱美",
+      "holding_shares": 0,
+      "holding_pct": 10.85
+    },
+    "2376": {
+      "name": "技嘉",
+      "holding_shares": 0,
+      "holding_pct": 22.3
+    },
+    "2377": {
+      "name": "微星",
+      "holding_shares": 0,
+      "holding_pct": 14.17
+    },
+    "2379": {
+      "name": "瑞昱",
+      "holding_shares": 0,
+      "holding_pct": 48.0
+    },
+    "2380": {
+      "name": "虹光",
+      "holding_shares": 0,
+      "holding_pct": 0.28
+    },
+    "2382": {
+      "name": "廣達",
+      "holding_shares": 0,
+      "holding_pct": 20.16
+    },
+    "2383": {
+      "name": "台光電",
+      "holding_shares": 0,
+      "holding_pct": 44.28
+    },
+    "2385": {
+      "name": "群光",
+      "holding_shares": 0,
+      "holding_pct": 19.31
+    },
+    "2387": {
+      "name": "精元",
+      "holding_shares": 0,
+      "holding_pct": 9.73
+    },
+    "2388": {
+      "name": "威盛",
+      "holding_shares": 0,
+      "holding_pct": 15.71
+    },
+    "2390": {
+      "name": "云辰",
+      "holding_shares": 0,
+      "holding_pct": 3.82
+    },
+    "2392": {
+      "name": "正崴",
+      "holding_shares": 0,
+      "holding_pct": 7.16
+    },
+    "2393": {
+      "name": "億光",
+      "holding_shares": 0,
+      "holding_pct": 29.31
+    },
+    "2395": {
+      "name": "研華",
+      "holding_shares": 0,
+      "holding_pct": 35.29
+    },
+    "2397": {
+      "name": "友通",
+      "holding_shares": 0,
+      "holding_pct": 12.56
+    },
+    "2399": {
+      "name": "映泰",
+      "holding_shares": 0,
+      "holding_pct": 9.51
+    },
+    "2401": {
+      "name": "凌陽",
+      "holding_shares": 0,
+      "holding_pct": 18.05
+    },
+    "2402": {
+      "name": "毅嘉",
+      "holding_shares": 0,
+      "holding_pct": 6.02
+    },
+    "2404": {
+      "name": "漢唐",
+      "holding_shares": 0,
+      "holding_pct": 36.46
+    },
+    "2405": {
+      "name": "輔信",
+      "holding_shares": 0,
+      "holding_pct": 5.47
+    },
+    "2406": {
+      "name": "國碩",
+      "holding_shares": 0,
+      "holding_pct": 15.18
+    },
+    "2408": {
+      "name": "南亞科",
+      "holding_shares": 0,
+      "holding_pct": 14.34
+    },
+    "2409": {
+      "name": "友達",
+      "holding_shares": 0,
+      "holding_pct": 10.25
+    },
+    "2412": {
+      "name": "中華電",
+      "holding_shares": 0,
+      "holding_pct": 16.69
+    },
+    "2413": {
+      "name": "環科",
+      "holding_shares": 0,
+      "holding_pct": 6.95
+    },
+    "2414": {
+      "name": "精技",
+      "holding_shares": 0,
+      "holding_pct": 5.65
+    },
+    "2415": {
+      "name": "錩新",
+      "holding_shares": 0,
+      "holding_pct": 20.62
+    },
+    "2417": {
+      "name": "圓剛",
+      "holding_shares": 0,
+      "holding_pct": 2.47
+    },
+    "2419": {
+      "name": "仲琦",
+      "holding_shares": 0,
+      "holding_pct": 1.01
+    },
+    "2420": {
+      "name": "新巨",
+      "holding_shares": 0,
+      "holding_pct": 7.44
+    },
+    "2421": {
+      "name": "建準",
+      "holding_shares": 0,
+      "holding_pct": 28.52
+    },
+    "2423": {
+      "name": "固緯",
+      "holding_shares": 0,
+      "holding_pct": 4.92
+    },
+    "2424": {
+      "name": "隴華",
+      "holding_shares": 0,
+      "holding_pct": 0.65
+    },
+    "2425": {
+      "name": "承啟",
+      "holding_shares": 0,
+      "holding_pct": 11.26
+    },
+    "2426": {
+      "name": "鼎元",
+      "holding_shares": 0,
+      "holding_pct": 12.4
+    },
+    "2427": {
+      "name": "三商電",
+      "holding_shares": 0,
+      "holding_pct": 2.56
+    },
+    "2428": {
+      "name": "興勤",
+      "holding_shares": 0,
+      "holding_pct": 19.79
+    },
+    "2429": {
+      "name": "銘旺科",
+      "holding_shares": 0,
+      "holding_pct": 0.66
+    },
+    "2430": {
+      "name": "燦坤",
+      "holding_shares": 0,
+      "holding_pct": 2.62
+    },
+    "2431": {
+      "name": "聯昌",
+      "holding_shares": 0,
+      "holding_pct": 1.14
+    },
+    "2432": {
+      "name": "倚天酷碁-創",
+      "holding_shares": 0,
+      "holding_pct": 0.66
+    },
+    "2433": {
+      "name": "互盛電",
+      "holding_shares": 0,
+      "holding_pct": 0.9
+    },
+    "2434": {
+      "name": "統懋",
+      "holding_shares": 0,
+      "holding_pct": 1.99
+    },
+    "2436": {
+      "name": "偉詮電",
+      "holding_shares": 0,
+      "holding_pct": 11.26
+    },
+    "2438": {
+      "name": "翔耀",
+      "holding_shares": 0,
+      "holding_pct": 0.97
+    },
+    "2439": {
+      "name": "美律",
+      "holding_shares": 0,
+      "holding_pct": 11.48
+    },
+    "2440": {
+      "name": "太空梭",
+      "holding_shares": 0,
+      "holding_pct": 1.84
+    },
+    "2441": {
+      "name": "超豐",
+      "holding_shares": 0,
+      "holding_pct": 11.87
+    },
+    "2442": {
+      "name": "新美齊",
+      "holding_shares": 0,
+      "holding_pct": 1.79
+    },
+    "2444": {
+      "name": "兆勁",
+      "holding_shares": 0,
+      "holding_pct": 4.02
+    },
+    "2449": {
+      "name": "京元電子",
+      "holding_shares": 0,
+      "holding_pct": 35.07
+    },
+    "2450": {
+      "name": "神腦",
+      "holding_shares": 0,
+      "holding_pct": 1.33
+    },
+    "2451": {
+      "name": "創見",
+      "holding_shares": 0,
+      "holding_pct": 11.56
+    },
+    "2453": {
+      "name": "凌群",
+      "holding_shares": 0,
+      "holding_pct": 5.12
+    },
+    "2454": {
+      "name": "聯發科",
+      "holding_shares": 0,
+      "holding_pct": 55.84
+    },
+    "2455": {
+      "name": "全新",
+      "holding_shares": 0,
+      "holding_pct": 27.58
+    },
+    "2457": {
+      "name": "飛宏",
+      "holding_shares": 0,
+      "holding_pct": 6.66
+    },
+    "2458": {
+      "name": "義隆",
+      "holding_shares": 0,
+      "holding_pct": 24.54
+    },
+    "2459": {
+      "name": "敦吉",
+      "holding_shares": 0,
+      "holding_pct": 15.67
+    },
+    "2460": {
+      "name": "建通",
+      "holding_shares": 0,
+      "holding_pct": 1.65
+    },
+    "2461": {
+      "name": "光群雷",
+      "holding_shares": 0,
+      "holding_pct": 8.26
+    },
+    "2462": {
+      "name": "良得電",
+      "holding_shares": 0,
+      "holding_pct": 1.4
+    },
+    "2464": {
+      "name": "盟立",
+      "holding_shares": 0,
+      "holding_pct": 6.81
+    },
+    "2465": {
+      "name": "麗臺",
+      "holding_shares": 0,
+      "holding_pct": 3.0
+    },
+    "2466": {
+      "name": "冠西電",
+      "holding_shares": 0,
+      "holding_pct": 10.74
+    },
+    "2467": {
+      "name": "志聖",
+      "holding_shares": 0,
+      "holding_pct": 19.79
+    },
+    "2468": {
+      "name": "華經",
+      "holding_shares": 0,
+      "holding_pct": 0.75
+    },
+    "2471": {
+      "name": "資通",
+      "holding_shares": 0,
+      "holding_pct": 5.63
+    },
+    "2472": {
+      "name": "立隆電",
+      "holding_shares": 0,
+      "holding_pct": 9.34
+    },
+    "2474": {
+      "name": "可成",
+      "holding_shares": 0,
+      "holding_pct": 18.05
+    },
+    "2476": {
+      "name": "鉅祥",
+      "holding_shares": 0,
+      "holding_pct": 10.19
+    },
+    "2477": {
+      "name": "美隆電",
+      "holding_shares": 0,
+      "holding_pct": 23.77
+    },
+    "2478": {
+      "name": "大毅",
+      "holding_shares": 0,
+      "holding_pct": 18.68
+    },
+    "2480": {
+      "name": "敦陽科",
+      "holding_shares": 0,
+      "holding_pct": 9.75
+    },
+    "2481": {
+      "name": "強茂",
+      "holding_shares": 0,
+      "holding_pct": 22.76
+    },
+    "2482": {
+      "name": "連宇",
+      "holding_shares": 0,
+      "holding_pct": 1.54
+    },
+    "2483": {
+      "name": "百容",
+      "holding_shares": 0,
+      "holding_pct": 5.39
+    },
+    "2484": {
+      "name": "希華",
+      "holding_shares": 0,
+      "holding_pct": 9.04
+    },
+    "2485": {
+      "name": "兆赫",
+      "holding_shares": 0,
+      "holding_pct": 1.74
+    },
+    "2486": {
+      "name": "一詮",
+      "holding_shares": 0,
+      "holding_pct": 11.82
+    },
+    "2488": {
+      "name": "漢平",
+      "holding_shares": 0,
+      "holding_pct": 6.67
+    },
+    "2489": {
+      "name": "瑞軒",
+      "holding_shares": 0,
+      "holding_pct": 3.99
+    },
+    "2491": {
+      "name": "吉祥全",
+      "holding_shares": 0,
+      "holding_pct": 6.19
+    },
+    "2492": {
+      "name": "華新科",
+      "holding_shares": 0,
+      "holding_pct": 23.47
+    },
+    "2493": {
+      "name": "揚博",
+      "holding_shares": 0,
+      "holding_pct": 6.96
+    },
+    "2495": {
+      "name": "普安",
+      "holding_shares": 0,
+      "holding_pct": 6.88
+    },
+    "2496": {
+      "name": "卓越",
+      "holding_shares": 0,
+      "holding_pct": 23.22
+    },
+    "2497": {
+      "name": "怡利電",
+      "holding_shares": 0,
+      "holding_pct": 3.37
+    },
+    "2498": {
+      "name": "宏達電",
+      "holding_shares": 0,
+      "holding_pct": 8.11
+    },
+    "2501": {
+      "name": "國建",
+      "holding_shares": 0,
+      "holding_pct": 13.24
+    },
+    "2504": {
+      "name": "國產",
+      "holding_shares": 0,
+      "holding_pct": 5.77
+    },
+    "2505": {
+      "name": "國揚",
+      "holding_shares": 0,
+      "holding_pct": 3.65
+    },
+    "2506": {
+      "name": "太設",
+      "holding_shares": 0,
+      "holding_pct": 4.94
+    },
+    "2509": {
+      "name": "全坤建",
+      "holding_shares": 0,
+      "holding_pct": 1.16
+    },
+    "2511": {
+      "name": "太子",
+      "holding_shares": 0,
+      "holding_pct": 2.47
+    },
+    "2514": {
+      "name": "龍邦",
+      "holding_shares": 0,
+      "holding_pct": 2.22
+    },
+    "2515": {
+      "name": "中工",
+      "holding_shares": 0,
+      "holding_pct": 7.91
+    },
+    "2516": {
+      "name": "新建",
+      "holding_shares": 0,
+      "holding_pct": 2.57
+    },
+    "2520": {
+      "name": "冠德",
+      "holding_shares": 0,
+      "holding_pct": 12.39
+    },
+    "2524": {
+      "name": "京城",
+      "holding_shares": 0,
+      "holding_pct": 0.76
+    },
+    "2527": {
+      "name": "宏璟",
+      "holding_shares": 0,
+      "holding_pct": 42.78
+    },
+    "2528": {
+      "name": "皇普",
+      "holding_shares": 0,
+      "holding_pct": 1.18
+    },
+    "2530": {
+      "name": "華建",
+      "holding_shares": 0,
+      "holding_pct": 3.04
+    },
+    "2534": {
+      "name": "宏盛",
+      "holding_shares": 0,
+      "holding_pct": 4.76
+    },
+    "2535": {
+      "name": "達欣工",
+      "holding_shares": 0,
+      "holding_pct": 7.33
+    },
+    "2536": {
+      "name": "宏普",
+      "holding_shares": 0,
+      "holding_pct": 8.61
+    },
+    "2537": {
+      "name": "聯上發",
+      "holding_shares": 0,
+      "holding_pct": 2.34
+    },
+    "2538": {
+      "name": "基泰",
+      "holding_shares": 0,
+      "holding_pct": 10.13
+    },
+    "2539": {
+      "name": "櫻花建",
+      "holding_shares": 0,
+      "holding_pct": 1.83
+    },
+    "2540": {
+      "name": "愛山林",
+      "holding_shares": 0,
+      "holding_pct": 1.52
+    },
+    "2542": {
+      "name": "興富發",
+      "holding_shares": 0,
+      "holding_pct": 8.62
+    },
+    "2543": {
+      "name": "皇昌",
+      "holding_shares": 0,
+      "holding_pct": 1.2
+    },
+    "2545": {
+      "name": "皇翔",
+      "holding_shares": 0,
+      "holding_pct": 2.91
+    },
+    "2546": {
+      "name": "根基",
+      "holding_shares": 0,
+      "holding_pct": 3.7
+    },
+    "2547": {
+      "name": "日勝生",
+      "holding_shares": 0,
+      "holding_pct": 13.19
+    },
+    "2548": {
+      "name": "華固",
+      "holding_shares": 0,
+      "holding_pct": 16.91
+    },
+    "2597": {
+      "name": "潤弘",
+      "holding_shares": 0,
+      "holding_pct": 1.85
+    },
+    "2601": {
+      "name": "益航",
+      "holding_shares": 0,
+      "holding_pct": 12.87
+    },
+    "2603": {
+      "name": "長榮",
+      "holding_shares": 0,
+      "holding_pct": 19.09
+    },
+    "2605": {
+      "name": "新興",
+      "holding_shares": 0,
+      "holding_pct": 46.56
+    },
+    "2606": {
+      "name": "裕民",
+      "holding_shares": 0,
+      "holding_pct": 16.78
+    },
+    "2607": {
+      "name": "榮運",
+      "holding_shares": 0,
+      "holding_pct": 8.04
+    },
+    "2608": {
+      "name": "嘉里大榮",
+      "holding_shares": 0,
+      "holding_pct": 3.0
+    },
+    "2609": {
+      "name": "陽明",
+      "holding_shares": 0,
+      "holding_pct": 18.49
+    },
+    "2610": {
+      "name": "華航",
+      "holding_shares": 0,
+      "holding_pct": 15.85
+    },
+    "2611": {
+      "name": "志信",
+      "holding_shares": 0,
+      "holding_pct": 1.69
+    },
+    "2612": {
+      "name": "中航",
+      "holding_shares": 0,
+      "holding_pct": 3.45
+    },
+    "2613": {
+      "name": "中櫃",
+      "holding_shares": 0,
+      "holding_pct": 1.43
+    },
+    "2614": {
+      "name": "東森",
+      "holding_shares": 0,
+      "holding_pct": 2.94
+    },
+    "2615": {
+      "name": "萬海",
+      "holding_shares": 0,
+      "holding_pct": 42.53
+    },
+    "2616": {
+      "name": "山隆",
+      "holding_shares": 0,
+      "holding_pct": 1.91
+    },
+    "2617": {
+      "name": "台航",
+      "holding_shares": 0,
+      "holding_pct": 8.71
+    },
+    "2618": {
+      "name": "長榮航",
+      "holding_shares": 0,
+      "holding_pct": 23.07
+    },
+    "2630": {
+      "name": "亞航",
+      "holding_shares": 0,
+      "holding_pct": 3.6
+    },
+    "2633": {
+      "name": "台灣高鐵",
+      "holding_shares": 0,
+      "holding_pct": 6.43
+    },
+    "2634": {
+      "name": "漢翔",
+      "holding_shares": 0,
+      "holding_pct": 3.34
+    },
+    "2636": {
+      "name": "台驊控股",
+      "holding_shares": 0,
+      "holding_pct": 9.46
+    },
+    "2637": {
+      "name": "慧洋-KY",
+      "holding_shares": 0,
+      "holding_pct": 22.99
+    },
+    "2642": {
+      "name": "宅配通",
+      "holding_shares": 0,
+      "holding_pct": 5.12
+    },
+    "2645": {
+      "name": "長榮航太",
+      "holding_shares": 0,
+      "holding_pct": 8.12
+    },
+    "2646": {
+      "name": "星宇航空",
+      "holding_shares": 0,
+      "holding_pct": 2.96
+    },
+    "2701": {
+      "name": "萬企",
+      "holding_shares": 0,
+      "holding_pct": 0.59
+    },
+    "2702": {
+      "name": "華園",
+      "holding_shares": 0,
+      "holding_pct": 39.33
+    },
+    "2704": {
+      "name": "國賓",
+      "holding_shares": 0,
+      "holding_pct": 9.85
+    },
+    "2705": {
+      "name": "六福",
+      "holding_shares": 0,
+      "holding_pct": 1.33
+    },
+    "2706": {
+      "name": "第一店",
+      "holding_shares": 0,
+      "holding_pct": 2.71
+    },
+    "2707": {
+      "name": "晶華",
+      "holding_shares": 0,
+      "holding_pct": 6.36
+    },
+    "2712": {
+      "name": "遠雄來",
+      "holding_shares": 0,
+      "holding_pct": 0.33
+    },
+    "2722": {
+      "name": "夏都",
+      "holding_shares": 0,
+      "holding_pct": 0.37
+    },
+    "2723": {
+      "name": "美食-KY",
+      "holding_shares": 0,
+      "holding_pct": 45.96
+    },
+    "2727": {
+      "name": "王品",
+      "holding_shares": 0,
+      "holding_pct": 29.75
+    },
+    "2731": {
+      "name": "雄獅",
+      "holding_shares": 0,
+      "holding_pct": 9.97
+    },
+    "2739": {
+      "name": "寒舍",
+      "holding_shares": 0,
+      "holding_pct": 3.11
+    },
+    "2748": {
+      "name": "雲品",
+      "holding_shares": 0,
+      "holding_pct": 1.46
+    },
+    "2753": {
+      "name": "八方雲集",
+      "holding_shares": 0,
+      "holding_pct": 5.29
+    },
+    "2762": {
+      "name": "世界健身-KY",
+      "holding_shares": 0,
+      "holding_pct": 82.66
+    },
+    "2801": {
+      "name": "彰銀",
+      "holding_shares": 0,
+      "holding_pct": 18.54
+    },
+    "2812": {
+      "name": "台中銀",
+      "holding_shares": 0,
+      "holding_pct": 8.08
+    },
+    "2816": {
+      "name": "旺旺保",
+      "holding_shares": 0,
+      "holding_pct": 2.39
+    },
+    "2820": {
+      "name": "華票",
+      "holding_shares": 0,
+      "holding_pct": 9.92
+    },
+    "2832": {
+      "name": "台產",
+      "holding_shares": 0,
+      "holding_pct": 4.43
+    },
+    "2834": {
+      "name": "臺企銀",
+      "holding_shares": 0,
+      "holding_pct": 18.05
+    },
+    "2836": {
+      "name": "高雄銀",
+      "holding_shares": 0,
+      "holding_pct": 7.5
+    },
+    "2838": {
+      "name": "聯邦銀",
+      "holding_shares": 0,
+      "holding_pct": 4.4
+    },
+    "2845": {
+      "name": "遠東銀",
+      "holding_shares": 0,
+      "holding_pct": 8.89
+    },
+    "2849": {
+      "name": "安泰銀",
+      "holding_shares": 0,
+      "holding_pct": 58.92
+    },
+    "2850": {
+      "name": "新產",
+      "holding_shares": 0,
+      "holding_pct": 10.8
+    },
+    "2851": {
+      "name": "中再保",
+      "holding_shares": 0,
+      "holding_pct": 8.29
+    },
+    "2852": {
+      "name": "第一保",
+      "holding_shares": 0,
+      "holding_pct": 4.88
+    },
+    "2855": {
+      "name": "統一證",
+      "holding_shares": 0,
+      "holding_pct": 7.9
+    },
+    "2867": {
+      "name": "三商壽",
+      "holding_shares": 0,
+      "holding_pct": 19.46
+    },
+    "2880": {
+      "name": "華南金",
+      "holding_shares": 0,
+      "holding_pct": 14.48
+    },
+    "2881": {
+      "name": "富邦金",
+      "holding_shares": 0,
+      "holding_pct": 17.61
+    },
+    "2882": {
+      "name": "國泰金",
+      "holding_shares": 0,
+      "holding_pct": 21.83
+    },
+    "2883": {
+      "name": "凱基金",
+      "holding_shares": 0,
+      "holding_pct": 24.9
+    },
+    "2884": {
+      "name": "玉山金",
+      "holding_shares": 0,
+      "holding_pct": 30.77
+    },
+    "2885": {
+      "name": "元大金",
+      "holding_shares": 0,
+      "holding_pct": 26.89
+    },
+    "2886": {
+      "name": "兆豐金",
+      "holding_shares": 0,
+      "holding_pct": 20.19
+    },
+    "2887": {
+      "name": "台新新光金",
+      "holding_shares": 0,
+      "holding_pct": 23.33
+    },
+    "2889": {
+      "name": "國票金",
+      "holding_shares": 0,
+      "holding_pct": 8.86
+    },
+    "2890": {
+      "name": "永豐金",
+      "holding_shares": 0,
+      "holding_pct": 29.57
+    },
+    "2891": {
+      "name": "中信金",
+      "holding_shares": 0,
+      "holding_pct": 34.67
+    },
+    "2892": {
+      "name": "第一金",
+      "holding_shares": 0,
+      "holding_pct": 25.84
+    },
+    "2897": {
+      "name": "王道銀行",
+      "holding_shares": 0,
+      "holding_pct": 8.21
+    },
+    "2901": {
+      "name": "欣欣",
+      "holding_shares": 0,
+      "holding_pct": 0.34
+    },
+    "2903": {
+      "name": "遠百",
+      "holding_shares": 0,
+      "holding_pct": 7.91
+    },
+    "2904": {
+      "name": "匯僑",
+      "holding_shares": 0,
+      "holding_pct": 0.58
+    },
+    "2905": {
+      "name": "三商",
+      "holding_shares": 0,
+      "holding_pct": 3.82
+    },
+    "2906": {
+      "name": "高林",
+      "holding_shares": 0,
+      "holding_pct": 1.61
+    },
+    "2908": {
+      "name": "特力",
+      "holding_shares": 0,
+      "holding_pct": 1.62
+    },
+    "2910": {
+      "name": "統領",
+      "holding_shares": 0,
+      "holding_pct": 0.3
+    },
+    "2911": {
+      "name": "麗嬰房",
+      "holding_shares": 0,
+      "holding_pct": 21.21
+    },
+    "2912": {
+      "name": "統一超",
+      "holding_shares": 0,
+      "holding_pct": 13.44
+    },
+    "2913": {
+      "name": "農林",
+      "holding_shares": 0,
+      "holding_pct": 5.54
+    },
+    "2915": {
+      "name": "潤泰全",
+      "holding_shares": 0,
+      "holding_pct": 5.62
+    },
+    "2923": {
+      "name": "鼎固-KY",
+      "holding_shares": 0,
+      "holding_pct": 99.43
+    },
+    "2929": {
+      "name": "淘帝-KY",
+      "holding_shares": 0,
+      "holding_pct": 16.85
+    },
+    "2939": {
+      "name": "永邑-KY",
+      "holding_shares": 0,
+      "holding_pct": 19.7
+    },
+    "2945": {
+      "name": "三商家購",
+      "holding_shares": 0,
+      "holding_pct": 0.42
+    },
+    "3002": {
+      "name": "歐格",
+      "holding_shares": 0,
+      "holding_pct": 1.76
+    },
+    "3003": {
+      "name": "健和興",
+      "holding_shares": 0,
+      "holding_pct": 4.47
+    },
+    "3004": {
+      "name": "豐達科",
+      "holding_shares": 0,
+      "holding_pct": 4.94
+    },
+    "3005": {
+      "name": "神基",
+      "holding_shares": 0,
+      "holding_pct": 10.3
+    },
+    "3006": {
+      "name": "晶豪科",
+      "holding_shares": 0,
+      "holding_pct": 33.23
+    },
+    "3008": {
+      "name": "大立光",
+      "holding_shares": 0,
+      "holding_pct": 33.3
+    },
+    "3010": {
+      "name": "華立",
+      "holding_shares": 0,
+      "holding_pct": 19.1
+    },
+    "3011": {
+      "name": "今皓",
+      "holding_shares": 0,
+      "holding_pct": 5.43
+    },
+    "3013": {
+      "name": "晟銘電",
+      "holding_shares": 0,
+      "holding_pct": 3.15
+    },
+    "3014": {
+      "name": "聯陽",
+      "holding_shares": 0,
+      "holding_pct": 22.97
+    },
+    "3015": {
+      "name": "全漢",
+      "holding_shares": 0,
+      "holding_pct": 8.82
+    },
+    "3016": {
+      "name": "嘉晶",
+      "holding_shares": 0,
+      "holding_pct": 5.35
+    },
+    "3017": {
+      "name": "奇鋐",
+      "holding_shares": 0,
+      "holding_pct": 52.4
+    },
+    "3018": {
+      "name": "隆銘綠能",
+      "holding_shares": 0,
+      "holding_pct": 0.22
+    },
+    "3019": {
+      "name": "亞光",
+      "holding_shares": 0,
+      "holding_pct": 6.79
+    },
+    "3021": {
+      "name": "鴻名",
+      "holding_shares": 0,
+      "holding_pct": 3.67
+    },
+    "3022": {
+      "name": "威強電",
+      "holding_shares": 0,
+      "holding_pct": 17.72
+    },
+    "3023": {
+      "name": "信邦",
+      "holding_shares": 0,
+      "holding_pct": 45.6
+    },
+    "3024": {
+      "name": "憶聲",
+      "holding_shares": 0,
+      "holding_pct": 2.98
+    },
+    "3025": {
+      "name": "星通",
+      "holding_shares": 0,
+      "holding_pct": 6.57
+    },
+    "3026": {
+      "name": "禾伸堂",
+      "holding_shares": 0,
+      "holding_pct": 16.14
+    },
+    "3027": {
+      "name": "盛達",
+      "holding_shares": 0,
+      "holding_pct": 1.94
+    },
+    "3028": {
+      "name": "增你強",
+      "holding_shares": 0,
+      "holding_pct": 13.07
+    },
+    "3029": {
+      "name": "零壹",
+      "holding_shares": 0,
+      "holding_pct": 3.73
+    },
+    "3030": {
+      "name": "德律",
+      "holding_shares": 0,
+      "holding_pct": 11.54
+    },
+    "3031": {
+      "name": "佰鴻",
+      "holding_shares": 0,
+      "holding_pct": 3.06
+    },
+    "3032": {
+      "name": "偉訓",
+      "holding_shares": 0,
+      "holding_pct": 1.3
+    },
+    "3033": {
+      "name": "威健",
+      "holding_shares": 0,
+      "holding_pct": 23.11
+    },
+    "3034": {
+      "name": "聯詠",
+      "holding_shares": 0,
+      "holding_pct": 37.53
+    },
+    "3035": {
+      "name": "智原",
+      "holding_shares": 0,
+      "holding_pct": 12.29
+    },
+    "3036": {
+      "name": "文曄",
+      "holding_shares": 0,
+      "holding_pct": 26.69
+    },
+    "3037": {
+      "name": "欣興",
+      "holding_shares": 0,
+      "holding_pct": 38.29
+    },
+    "3038": {
+      "name": "全台",
+      "holding_shares": 0,
+      "holding_pct": 8.99
+    },
+    "3040": {
+      "name": "遠見",
+      "holding_shares": 0,
+      "holding_pct": 0.57
+    },
+    "3041": {
+      "name": "揚智",
+      "holding_shares": 0,
+      "holding_pct": 7.1
+    },
+    "3042": {
+      "name": "晶技",
+      "holding_shares": 0,
+      "holding_pct": 19.67
+    },
+    "3043": {
+      "name": "科風",
+      "holding_shares": 0,
+      "holding_pct": 1.47
+    },
+    "3044": {
+      "name": "健鼎",
+      "holding_shares": 0,
+      "holding_pct": 49.78
+    },
+    "3045": {
+      "name": "台灣大",
+      "holding_shares": 0,
+      "holding_pct": 14.81
+    },
+    "3046": {
+      "name": "建碁",
+      "holding_shares": 0,
+      "holding_pct": 3.45
+    },
+    "3047": {
+      "name": "訊舟",
+      "holding_shares": 0,
+      "holding_pct": 2.32
+    },
+    "3048": {
+      "name": "益登",
+      "holding_shares": 0,
+      "holding_pct": 8.84
+    },
+    "3049": {
+      "name": "精金",
+      "holding_shares": 0,
+      "holding_pct": 2.61
+    },
+    "3050": {
+      "name": "鈺德",
+      "holding_shares": 0,
+      "holding_pct": 7.47
+    },
+    "3051": {
+      "name": "力特",
+      "holding_shares": 0,
+      "holding_pct": 3.33
+    },
+    "3052": {
+      "name": "夆典",
+      "holding_shares": 0,
+      "holding_pct": 2.47
+    },
+    "3054": {
+      "name": "立萬利",
+      "holding_shares": 0,
+      "holding_pct": 0.24
+    },
+    "3055": {
+      "name": "蔚華科",
+      "holding_shares": 0,
+      "holding_pct": 1.42
+    },
+    "3056": {
+      "name": "富華新",
+      "holding_shares": 0,
+      "holding_pct": 3.45
+    },
+    "3057": {
+      "name": "喬鼎",
+      "holding_shares": 0,
+      "holding_pct": 3.26
+    },
+    "3058": {
+      "name": "立德",
+      "holding_shares": 0,
+      "holding_pct": 2.67
+    },
+    "3059": {
+      "name": "華晶科",
+      "holding_shares": 0,
+      "holding_pct": 6.2
+    },
+    "3060": {
+      "name": "銘異",
+      "holding_shares": 0,
+      "holding_pct": 18.24
+    },
+    "3062": {
+      "name": "建漢",
+      "holding_shares": 0,
+      "holding_pct": 9.99
+    },
+    "3090": {
+      "name": "日電貿",
+      "holding_shares": 0,
+      "holding_pct": 8.98
+    },
+    "3092": {
+      "name": "鴻碩",
+      "holding_shares": 0,
+      "holding_pct": 1.89
+    },
+    "3094": {
+      "name": "聯傑",
+      "holding_shares": 0,
+      "holding_pct": 5.48
+    },
+    "3130": {
+      "name": "一零四",
+      "holding_shares": 0,
+      "holding_pct": 20.04
+    },
+    "3135": {
+      "name": "凌航",
+      "holding_shares": 0,
+      "holding_pct": 2.01
+    },
+    "3138": {
+      "name": "耀登",
+      "holding_shares": 0,
+      "holding_pct": 2.98
+    },
+    "3149": {
+      "name": "正達",
+      "holding_shares": 0,
+      "holding_pct": 3.89
+    },
+    "3150": {
+      "name": "鈺寶-創",
+      "holding_shares": 0,
+      "holding_pct": 0.97
+    },
+    "3164": {
+      "name": "景岳",
+      "holding_shares": 0,
+      "holding_pct": 0.55
+    },
+    "3167": {
+      "name": "大量",
+      "holding_shares": 0,
+      "holding_pct": 9.48
+    },
+    "3168": {
+      "name": "眾福科",
+      "holding_shares": 0,
+      "holding_pct": 1.3
+    },
+    "3189": {
+      "name": "景碩",
+      "holding_shares": 0,
+      "holding_pct": 23.42
+    },
+    "3209": {
+      "name": "全科",
+      "holding_shares": 0,
+      "holding_pct": 19.14
+    },
+    "3229": {
+      "name": "晟鈦",
+      "holding_shares": 0,
+      "holding_pct": 1.18
+    },
+    "3231": {
+      "name": "緯創",
+      "holding_shares": 0,
+      "holding_pct": 26.46
+    },
+    "3257": {
+      "name": "虹冠電",
+      "holding_shares": 0,
+      "holding_pct": 1.78
+    },
+    "3266": {
+      "name": "昇陽",
+      "holding_shares": 0,
+      "holding_pct": 8.29
+    },
+    "3296": {
+      "name": "勝德",
+      "holding_shares": 0,
+      "holding_pct": 2.23
+    },
+    "3305": {
+      "name": "昇貿",
+      "holding_shares": 0,
+      "holding_pct": 9.31
+    },
+    "3308": {
+      "name": "聯德",
+      "holding_shares": 0,
+      "holding_pct": 1.11
+    },
+    "3311": {
+      "name": "閎暉",
+      "holding_shares": 0,
+      "holding_pct": 2.69
+    },
+    "3312": {
+      "name": "弘憶股",
+      "holding_shares": 0,
+      "holding_pct": 2.3
+    },
+    "3321": {
+      "name": "同泰",
+      "holding_shares": 0,
+      "holding_pct": 2.75
+    },
+    "3338": {
+      "name": "泰碩",
+      "holding_shares": 0,
+      "holding_pct": 2.35
+    },
+    "3346": {
+      "name": "麗清",
+      "holding_shares": 0,
+      "holding_pct": 2.19
+    },
+    "3356": {
+      "name": "奇偶",
+      "holding_shares": 0,
+      "holding_pct": 9.12
+    },
+    "3376": {
+      "name": "新日興",
+      "holding_shares": 0,
+      "holding_pct": 17.04
+    },
+    "3380": {
+      "name": "明泰",
+      "holding_shares": 0,
+      "holding_pct": 5.68
+    },
+    "3406": {
+      "name": "玉晶光",
+      "holding_shares": 0,
+      "holding_pct": 42.71
+    },
+    "3413": {
+      "name": "京鼎",
+      "holding_shares": 0,
+      "holding_pct": 20.53
+    },
+    "3416": {
+      "name": "融程電",
+      "holding_shares": 0,
+      "holding_pct": 2.48
+    },
+    "3419": {
+      "name": "譁裕",
+      "holding_shares": 0,
+      "holding_pct": 2.28
+    },
+    "3432": {
+      "name": "台端",
+      "holding_shares": 0,
+      "holding_pct": 2.98
+    },
+    "3437": {
+      "name": "榮創",
+      "holding_shares": 0,
+      "holding_pct": 4.27
+    },
+    "3443": {
+      "name": "創意",
+      "holding_shares": 0,
+      "holding_pct": 26.34
+    },
+    "3447": {
+      "name": "展達",
+      "holding_shares": 0,
+      "holding_pct": 0.42
+    },
+    "3450": {
+      "name": "聯鈞",
+      "holding_shares": 0,
+      "holding_pct": 18.42
+    },
+    "3481": {
+      "name": "群創",
+      "holding_shares": 0,
+      "holding_pct": 21.75
+    },
+    "3494": {
+      "name": "誠研",
+      "holding_shares": 0,
+      "holding_pct": 1.99
+    },
+    "3501": {
+      "name": "維熹",
+      "holding_shares": 0,
+      "holding_pct": 3.65
+    },
+    "3504": {
+      "name": "揚明光",
+      "holding_shares": 0,
+      "holding_pct": 4.45
+    },
+    "3515": {
+      "name": "華擎",
+      "holding_shares": 0,
+      "holding_pct": 7.63
+    },
+    "3518": {
+      "name": "柏騰",
+      "holding_shares": 0,
+      "holding_pct": 6.86
+    },
+    "3528": {
+      "name": "安馳",
+      "holding_shares": 0,
+      "holding_pct": 7.01
+    },
+    "3530": {
+      "name": "晶相光",
+      "holding_shares": 0,
+      "holding_pct": 41.79
+    },
+    "3532": {
+      "name": "台勝科",
+      "holding_shares": 0,
+      "holding_pct": 43.67
+    },
+    "3533": {
+      "name": "嘉澤",
+      "holding_shares": 0,
+      "holding_pct": 49.15
+    },
+    "3535": {
+      "name": "晶彩科",
+      "holding_shares": 0,
+      "holding_pct": 1.14
+    },
+    "3543": {
+      "name": "州巧",
+      "holding_shares": 0,
+      "holding_pct": 6.65
+    },
+    "3545": {
+      "name": "敦泰",
+      "holding_shares": 0,
+      "holding_pct": 14.64
+    },
+    "3550": {
+      "name": "聯穎",
+      "holding_shares": 0,
+      "holding_pct": 12.34
+    },
+    "3557": {
+      "name": "嘉威",
+      "holding_shares": 0,
+      "holding_pct": 1.38
+    },
+    "3563": {
+      "name": "牧德",
+      "holding_shares": 0,
+      "holding_pct": 6.86
+    },
+    "3576": {
+      "name": "聯合再生",
+      "holding_shares": 0,
+      "holding_pct": 11.9
+    },
+    "3583": {
+      "name": "辛耘",
+      "holding_shares": 0,
+      "holding_pct": 18.82
+    },
+    "3588": {
+      "name": "通嘉",
+      "holding_shares": 0,
+      "holding_pct": 6.36
+    },
+    "3591": {
+      "name": "艾笛森",
+      "holding_shares": 0,
+      "holding_pct": 7.02
+    },
+    "3592": {
+      "name": "瑞鼎",
+      "holding_shares": 0,
+      "holding_pct": 14.66
+    },
+    "3593": {
+      "name": "力銘",
+      "holding_shares": 0,
+      "holding_pct": 0.25
+    },
+    "3596": {
+      "name": "智易",
+      "holding_shares": 0,
+      "holding_pct": 33.83
+    },
+    "3605": {
+      "name": "宏致",
+      "holding_shares": 0,
+      "holding_pct": 11.59
+    },
+    "3607": {
+      "name": "谷崧",
+      "holding_shares": 0,
+      "holding_pct": 5.48
+    },
+    "3617": {
+      "name": "碩天",
+      "holding_shares": 0,
+      "holding_pct": 8.81
+    },
+    "3622": {
+      "name": "洋華",
+      "holding_shares": 0,
+      "holding_pct": 3.68
+    },
+    "3645": {
+      "name": "達邁",
+      "holding_shares": 0,
+      "holding_pct": 12.89
+    },
+    "3652": {
+      "name": "精聯",
+      "holding_shares": 0,
+      "holding_pct": 1.7
+    },
+    "3653": {
+      "name": "健策",
+      "holding_shares": 0,
+      "holding_pct": 26.48
+    },
+    "3661": {
+      "name": "世芯-KY",
+      "holding_shares": 0,
+      "holding_pct": 53.44
+    },
+    "3665": {
+      "name": "貿聯-KY",
+      "holding_shares": 0,
+      "holding_pct": 52.75
+    },
+    "3669": {
+      "name": "圓展",
+      "holding_shares": 0,
+      "holding_pct": 2.37
+    },
+    "3673": {
+      "name": "TPK-KY",
+      "holding_shares": 0,
+      "holding_pct": 37.87
+    },
+    "3679": {
+      "name": "新至陞",
+      "holding_shares": 0,
+      "holding_pct": 8.21
+    },
+    "3686": {
+      "name": "達能",
+      "holding_shares": 0,
+      "holding_pct": 2.33
+    },
+    "3694": {
+      "name": "海華",
+      "holding_shares": 0,
+      "holding_pct": 3.89
+    },
+    "3701": {
+      "name": "大眾控",
+      "holding_shares": 0,
+      "holding_pct": 4.91
+    },
+    "3702": {
+      "name": "大聯大",
+      "holding_shares": 0,
+      "holding_pct": 39.52
+    },
+    "3703": {
+      "name": "欣陸",
+      "holding_shares": 0,
+      "holding_pct": 20.35
+    },
+    "3704": {
+      "name": "合勤控",
+      "holding_shares": 0,
+      "holding_pct": 14.1
+    },
+    "3705": {
+      "name": "永信",
+      "holding_shares": 0,
+      "holding_pct": 7.04
+    },
+    "3706": {
+      "name": "神達",
+      "holding_shares": 0,
+      "holding_pct": 9.06
+    },
+    "3708": {
+      "name": "上緯投控",
+      "holding_shares": 0,
+      "holding_pct": 7.24
+    },
+    "3711": {
+      "name": "日月光投控",
+      "holding_shares": 0,
+      "holding_pct": 78.03
+    },
+    "3712": {
+      "name": "永崴投控",
+      "holding_shares": 0,
+      "holding_pct": 1.84
+    },
+    "3714": {
+      "name": "富采",
+      "holding_shares": 0,
+      "holding_pct": 10.58
+    },
+    "3715": {
+      "name": "定穎投控",
+      "holding_shares": 0,
+      "holding_pct": 13.57
+    },
+    "3716": {
+      "name": "中化控股",
+      "holding_shares": 0,
+      "holding_pct": 9.19
+    },
+    "3717": {
+      "name": "聯嘉投控",
+      "holding_shares": 0,
+      "holding_pct": 8.19
+    },
+    "4104": {
+      "name": "佳醫",
+      "holding_shares": 0,
+      "holding_pct": 2.69
+    },
+    "4106": {
+      "name": "雃博",
+      "holding_shares": 0,
+      "holding_pct": 2.0
+    },
+    "4108": {
+      "name": "懷特",
+      "holding_shares": 0,
+      "holding_pct": 1.19
+    },
+    "4119": {
+      "name": "旭富",
+      "holding_shares": 0,
+      "holding_pct": 5.06
+    },
+    "4133": {
+      "name": "亞諾法",
+      "holding_shares": 0,
+      "holding_pct": 11.79
+    },
+    "4137": {
+      "name": "麗豐-KY",
+      "holding_shares": 0,
+      "holding_pct": 55.56
+    },
+    "4142": {
+      "name": "國光生",
+      "holding_shares": 0,
+      "holding_pct": 4.33
+    },
+    "4148": {
+      "name": "全宇生技-KY",
+      "holding_shares": 0,
+      "holding_pct": 71.15
+    },
+    "4155": {
+      "name": "訊映",
+      "holding_shares": 0,
+      "holding_pct": 1.64
+    },
+    "4164": {
+      "name": "承業醫",
+      "holding_shares": 0,
+      "holding_pct": 19.65
+    },
+    "4169": {
+      "name": "泰宗",
+      "holding_shares": 0,
+      "holding_pct": 6.58
+    },
+    "4178": {
+      "name": "永笙-KY",
+      "holding_shares": 0,
+      "holding_pct": 5.32
+    },
+    "4190": {
+      "name": "佐登-KY",
+      "holding_shares": 0,
+      "holding_pct": 58.62
+    },
+    "4195": {
+      "name": "基米-創",
+      "holding_shares": 0,
+      "holding_pct": 1.22
+    },
+    "4306": {
+      "name": "炎洲",
+      "holding_shares": 0,
+      "holding_pct": 7.5
+    },
+    "4414": {
+      "name": "如興",
+      "holding_shares": 0,
+      "holding_pct": 26.46
+    },
+    "4426": {
+      "name": "利勤",
+      "holding_shares": 0,
+      "holding_pct": 2.19
+    },
+    "4438": {
+      "name": "廣越",
+      "holding_shares": 0,
+      "holding_pct": 1.82
+    },
+    "4439": {
+      "name": "冠星-KY",
+      "holding_shares": 0,
+      "holding_pct": 61.36
+    },
+    "4440": {
+      "name": "宜新實業",
+      "holding_shares": 0,
+      "holding_pct": 0.66
+    },
+    "4441": {
+      "name": "振大環球",
+      "holding_shares": 0,
+      "holding_pct": 1.2
+    },
+    "4526": {
+      "name": "東台",
+      "holding_shares": 0,
+      "holding_pct": 7.4
+    },
+    "4532": {
+      "name": "瑞智",
+      "holding_shares": 0,
+      "holding_pct": 18.17
+    },
+    "4536": {
+      "name": "拓凱",
+      "holding_shares": 0,
+      "holding_pct": 12.43
+    },
+    "4540": {
+      "name": "全球傳動",
+      "holding_shares": 0,
+      "holding_pct": 4.0
+    },
+    "4545": {
+      "name": "銘鈺",
+      "holding_shares": 0,
+      "holding_pct": 29.3
+    },
+    "4551": {
+      "name": "智伸科",
+      "holding_shares": 0,
+      "holding_pct": 57.99
+    },
+    "4552": {
+      "name": "力達-KY",
+      "holding_shares": 0,
+      "holding_pct": 42.7
+    },
+    "4555": {
+      "name": "氣立",
+      "holding_shares": 0,
+      "holding_pct": 2.69
+    },
+    "4557": {
+      "name": "永新-KY",
+      "holding_shares": 0,
+      "holding_pct": 31.07
+    },
+    "4560": {
+      "name": "強信-KY",
+      "holding_shares": 0,
+      "holding_pct": 84.51
+    },
+    "4562": {
+      "name": "穎漢",
+      "holding_shares": 0,
+      "holding_pct": 1.0
+    },
+    "4564": {
+      "name": "元翎",
+      "holding_shares": 0,
+      "holding_pct": 2.57
+    },
+    "4566": {
+      "name": "時碩工業",
+      "holding_shares": 0,
+      "holding_pct": 1.72
+    },
+    "4569": {
+      "name": "六方科-KY",
+      "holding_shares": 0,
+      "holding_pct": 67.07
+    },
+    "4571": {
+      "name": "鈞興-KY",
+      "holding_shares": 0,
+      "holding_pct": 65.16
+    },
+    "4572": {
+      "name": "駐龍",
+      "holding_shares": 0,
+      "holding_pct": 1.76
+    },
+    "4576": {
+      "name": "大銀微系統",
+      "holding_shares": 0,
+      "holding_pct": 5.77
+    },
+    "4581": {
+      "name": "光隆精密-KY",
+      "holding_shares": 0,
+      "holding_pct": 24.02
+    },
+    "4582": {
+      "name": "聚恆-創",
+      "holding_shares": 0,
+      "holding_pct": 1.24
+    },
+    "4583": {
+      "name": "台灣精銳",
+      "holding_shares": 0,
+      "holding_pct": 1.18
+    },
+    "4585": {
+      "name": "達明",
+      "holding_shares": 0,
+      "holding_pct": 0.24
+    },
+    "4588": {
+      "name": "玖鼎電力",
+      "holding_shares": 0,
+      "holding_pct": 2.72
+    },
+    "4590": {
+      "name": "富田-創",
+      "holding_shares": 0,
+      "holding_pct": 2.48
+    },
+    "4720": {
+      "name": "德淵",
+      "holding_shares": 0,
+      "holding_pct": 5.0
+    },
+    "4722": {
+      "name": "國精化",
+      "holding_shares": 0,
+      "holding_pct": 4.79
+    },
+    "4736": {
+      "name": "泰博",
+      "holding_shares": 0,
+      "holding_pct": 5.69
+    },
+    "4737": {
+      "name": "華廣",
+      "holding_shares": 0,
+      "holding_pct": 28.48
+    },
+    "4739": {
+      "name": "康普",
+      "holding_shares": 0,
+      "holding_pct": 7.84
+    },
+    "4746": {
+      "name": "台耀",
+      "holding_shares": 0,
+      "holding_pct": 8.13
+    },
+    "4755": {
+      "name": "三福化",
+      "holding_shares": 0,
+      "holding_pct": 24.41
+    },
+    "4763": {
+      "name": "材料*-KY",
+      "holding_shares": 0,
+      "holding_pct": 45.99
+    },
+    "4764": {
+      "name": "雙鍵",
+      "holding_shares": 0,
+      "holding_pct": 28.42
+    },
+    "4766": {
+      "name": "南寶",
+      "holding_shares": 0,
+      "holding_pct": 14.35
+    },
+    "4770": {
+      "name": "上品",
+      "holding_shares": 0,
+      "holding_pct": 5.35
+    },
+    "4771": {
+      "name": "望隼",
+      "holding_shares": 0,
+      "holding_pct": 7.03
+    },
+    "4807": {
+      "name": "日成-KY",
+      "holding_shares": 0,
+      "holding_pct": 67.23
+    },
+    "4904": {
+      "name": "遠傳",
+      "holding_shares": 0,
+      "holding_pct": 18.81
+    },
+    "4906": {
+      "name": "正文",
+      "holding_shares": 0,
+      "holding_pct": 10.08
+    },
+    "4912": {
+      "name": "聯德控股-KY",
+      "holding_shares": 0,
+      "holding_pct": 23.83
+    },
+    "4915": {
+      "name": "致伸",
+      "holding_shares": 0,
+      "holding_pct": 27.6
+    },
+    "4916": {
+      "name": "事欣科",
+      "holding_shares": 0,
+      "holding_pct": 13.4
+    },
+    "4919": {
+      "name": "新唐",
+      "holding_shares": 0,
+      "holding_pct": 2.88
+    },
+    "4927": {
+      "name": "泰鼎-KY",
+      "holding_shares": 0,
+      "holding_pct": 5.16
+    },
+    "4930": {
+      "name": "燦星網",
+      "holding_shares": 0,
+      "holding_pct": 2.12
+    },
+    "4934": {
+      "name": "太極",
+      "holding_shares": 0,
+      "holding_pct": 3.63
+    },
+    "4935": {
+      "name": "茂林-KY",
+      "holding_shares": 0,
+      "holding_pct": 26.38
+    },
+    "4938": {
+      "name": "和碩",
+      "holding_shares": 0,
+      "holding_pct": 28.23
+    },
+    "4942": {
+      "name": "嘉彰",
+      "holding_shares": 0,
+      "holding_pct": 6.78
+    },
+    "4943": {
+      "name": "康控-KY",
+      "holding_shares": 0,
+      "holding_pct": 15.6
+    },
+    "4949": {
+      "name": "有成精密",
+      "holding_shares": 0,
+      "holding_pct": 2.63
+    },
+    "4952": {
+      "name": "凌通",
+      "holding_shares": 0,
+      "holding_pct": 6.79
+    },
+    "4956": {
+      "name": "光鋐",
+      "holding_shares": 0,
+      "holding_pct": 10.48
+    },
+    "4958": {
+      "name": "臻鼎-KY",
+      "holding_shares": 0,
+      "holding_pct": 59.32
+    },
+    "4960": {
+      "name": "誠美材",
+      "holding_shares": 0,
+      "holding_pct": 19.48
+    },
+    "4961": {
+      "name": "天鈺",
+      "holding_shares": 0,
+      "holding_pct": 19.66
+    },
+    "4967": {
+      "name": "十銓",
+      "holding_shares": 0,
+      "holding_pct": 7.62
+    },
+    "4968": {
+      "name": "立積",
+      "holding_shares": 0,
+      "holding_pct": 5.08
+    },
+    "4976": {
+      "name": "佳凌",
+      "holding_shares": 0,
+      "holding_pct": 2.17
+    },
+    "4977": {
+      "name": "眾達-KY",
+      "holding_shares": 0,
+      "holding_pct": 16.6
+    },
+    "4989": {
+      "name": "榮科",
+      "holding_shares": 0,
+      "holding_pct": 1.99
+    },
+    "4994": {
+      "name": "傳奇",
+      "holding_shares": 0,
+      "holding_pct": 2.62
+    },
+    "4999": {
+      "name": "鑫禾",
+      "holding_shares": 0,
+      "holding_pct": 1.62
+    },
+    "5007": {
+      "name": "三星",
+      "holding_shares": 0,
+      "holding_pct": 3.42
+    },
+    "5203": {
+      "name": "訊連",
+      "holding_shares": 0,
+      "holding_pct": 11.05
+    },
+    "5215": {
+      "name": "科嘉-KY",
+      "holding_shares": 0,
+      "holding_pct": 26.4
+    },
+    "5222": {
+      "name": "全訊",
+      "holding_shares": 0,
+      "holding_pct": 3.34
+    },
+    "5225": {
+      "name": "東科-KY",
+      "holding_shares": 0,
+      "holding_pct": 39.76
+    },
+    "5234": {
+      "name": "達興材料",
+      "holding_shares": 0,
+      "holding_pct": 9.66
+    },
+    "5243": {
+      "name": "乙盛-KY",
+      "holding_shares": 0,
+      "holding_pct": 52.98
+    },
+    "5244": {
+      "name": "弘凱",
+      "holding_shares": 0,
+      "holding_pct": 1.85
+    },
+    "5258": {
+      "name": "虹堡",
+      "holding_shares": 0,
+      "holding_pct": 5.02
+    },
+    "5269": {
+      "name": "祥碩",
+      "holding_shares": 0,
+      "holding_pct": 7.61
+    },
+    "5283": {
+      "name": "禾聯碩",
+      "holding_shares": 0,
+      "holding_pct": 1.59
+    },
+    "5284": {
+      "name": "jpp-KY",
+      "holding_shares": 0,
+      "holding_pct": 51.44
+    },
+    "5285": {
+      "name": "界霖",
+      "holding_shares": 0,
+      "holding_pct": 4.8
+    },
+    "5288": {
+      "name": "豐祥-KY",
+      "holding_shares": 0,
+      "holding_pct": 59.88
+    },
+    "5292": {
+      "name": "華懋",
+      "holding_shares": 0,
+      "holding_pct": 6.68
+    },
+    "5306": {
+      "name": "桂盟",
+      "holding_shares": 0,
+      "holding_pct": 12.71
+    },
+    "5388": {
+      "name": "中磊",
+      "holding_shares": 0,
+      "holding_pct": 18.29
+    },
+    "5434": {
+      "name": "崇越",
+      "holding_shares": 0,
+      "holding_pct": 32.97
+    },
+    "5469": {
+      "name": "瀚宇博",
+      "holding_shares": 0,
+      "holding_pct": 12.65
+    },
+    "5471": {
+      "name": "松翰",
+      "holding_shares": 0,
+      "holding_pct": 11.38
+    },
+    "5484": {
+      "name": "慧友",
+      "holding_shares": 0,
+      "holding_pct": 1.83
+    },
+    "5515": {
+      "name": "建國",
+      "holding_shares": 0,
+      "holding_pct": 11.78
+    },
+    "5519": {
+      "name": "隆大",
+      "holding_shares": 0,
+      "holding_pct": 4.85
+    },
+    "5521": {
+      "name": "工信",
+      "holding_shares": 0,
+      "holding_pct": 7.09
+    },
+    "5522": {
+      "name": "遠雄",
+      "holding_shares": 0,
+      "holding_pct": 4.14
+    },
+    "5525": {
+      "name": "順天",
+      "holding_shares": 0,
+      "holding_pct": 1.67
+    },
+    "5531": {
+      "name": "鄉林",
+      "holding_shares": 0,
+      "holding_pct": 2.74
+    },
+    "5533": {
+      "name": "皇鼎",
+      "holding_shares": 0,
+      "holding_pct": 2.74
+    },
+    "5534": {
+      "name": "長虹",
+      "holding_shares": 0,
+      "holding_pct": 9.26
+    },
+    "5538": {
+      "name": "東明-KY",
+      "holding_shares": 0,
+      "holding_pct": 63.83
+    },
+    "5546": {
+      "name": "永固-KY",
+      "holding_shares": 0,
+      "holding_pct": 53.85
+    },
+    "5607": {
+      "name": "遠雄港",
+      "holding_shares": 0,
+      "holding_pct": 3.8
+    },
+    "5608": {
+      "name": "四維航",
+      "holding_shares": 0,
+      "holding_pct": 4.77
+    },
+    "5706": {
+      "name": "鳳凰",
+      "holding_shares": 0,
+      "holding_pct": 1.23
+    },
+    "5871": {
+      "name": "中租-KY",
+      "holding_shares": 0,
+      "holding_pct": 43.07
+    },
+    "5876": {
+      "name": "上海商銀",
+      "holding_shares": 0,
+      "holding_pct": 52.84
+    },
+    "5880": {
+      "name": "合庫金",
+      "holding_shares": 0,
+      "holding_pct": 15.99
+    },
+    "5906": {
+      "name": "台南-KY",
+      "holding_shares": 0,
+      "holding_pct": 19.48
+    },
+    "5907": {
+      "name": "大洋-KY",
+      "holding_shares": 0,
+      "holding_pct": 52.32
+    },
+    "6005": {
+      "name": "群益證",
+      "holding_shares": 0,
+      "holding_pct": 19.01
+    },
+    "6024": {
+      "name": "群益期",
+      "holding_shares": 0,
+      "holding_pct": 4.64
+    },
+    "6108": {
+      "name": "競國",
+      "holding_shares": 0,
+      "holding_pct": 3.66
+    },
+    "6112": {
+      "name": "邁達特",
+      "holding_shares": 0,
+      "holding_pct": 0.94
+    },
+    "6115": {
+      "name": "鎰勝",
+      "holding_shares": 0,
+      "holding_pct": 5.63
+    },
+    "6116": {
+      "name": "彩晶",
+      "holding_shares": 0,
+      "holding_pct": 4.22
+    },
+    "6117": {
+      "name": "迎廣",
+      "holding_shares": 0,
+      "holding_pct": 1.48
+    },
+    "6120": {
+      "name": "達運",
+      "holding_shares": 0,
+      "holding_pct": 9.67
+    },
+    "6128": {
+      "name": "上福",
+      "holding_shares": 0,
+      "holding_pct": 4.4
+    },
+    "6133": {
+      "name": "金橋",
+      "holding_shares": 0,
+      "holding_pct": 2.13
+    },
+    "6136": {
+      "name": "富爾特",
+      "holding_shares": 0,
+      "holding_pct": 2.98
+    },
+    "6139": {
+      "name": "亞翔",
+      "holding_shares": 0,
+      "holding_pct": 31.91
+    },
+    "6141": {
+      "name": "柏承",
+      "holding_shares": 0,
+      "holding_pct": 3.14
+    },
+    "6142": {
+      "name": "友勁",
+      "holding_shares": 0,
+      "holding_pct": 2.13
+    },
+    "6152": {
+      "name": "百一",
+      "holding_shares": 0,
+      "holding_pct": 1.36
+    },
+    "6153": {
+      "name": "嘉聯益",
+      "holding_shares": 0,
+      "holding_pct": 11.47
+    },
+    "6155": {
+      "name": "鈞寶",
+      "holding_shares": 0,
+      "holding_pct": 8.76
+    },
+    "6164": {
+      "name": "華興",
+      "holding_shares": 0,
+      "holding_pct": 7.87
+    },
+    "6165": {
+      "name": "浪凡",
+      "holding_shares": 0,
+      "holding_pct": 17.07
+    },
+    "6166": {
+      "name": "凌華",
+      "holding_shares": 0,
+      "holding_pct": 20.97
+    },
+    "6168": {
+      "name": "宏齊",
+      "holding_shares": 0,
+      "holding_pct": 5.52
+    },
+    "6176": {
+      "name": "瑞儀",
+      "holding_shares": 0,
+      "holding_pct": 32.76
+    },
+    "6177": {
+      "name": "達麗",
+      "holding_shares": 0,
+      "holding_pct": 6.92
+    },
+    "6183": {
+      "name": "關貿",
+      "holding_shares": 0,
+      "holding_pct": 1.05
+    },
+    "6184": {
+      "name": "大豐電",
+      "holding_shares": 0,
+      "holding_pct": 2.66
+    },
+    "6189": {
+      "name": "豐藝",
+      "holding_shares": 0,
+      "holding_pct": 6.23
+    },
+    "6191": {
+      "name": "精成科",
+      "holding_shares": 0,
+      "holding_pct": 5.94
+    },
+    "6192": {
+      "name": "巨路",
+      "holding_shares": 0,
+      "holding_pct": 24.55
+    },
+    "6196": {
+      "name": "帆宣",
+      "holding_shares": 0,
+      "holding_pct": 16.41
+    },
+    "6197": {
+      "name": "佳必琪",
+      "holding_shares": 0,
+      "holding_pct": 6.41
+    },
+    "6201": {
+      "name": "亞弘電",
+      "holding_shares": 0,
+      "holding_pct": 1.11
+    },
+    "6202": {
+      "name": "盛群",
+      "holding_shares": 0,
+      "holding_pct": 14.79
+    },
+    "6205": {
+      "name": "詮欣",
+      "holding_shares": 0,
+      "holding_pct": 0.61
+    },
+    "6206": {
+      "name": "飛捷",
+      "holding_shares": 0,
+      "holding_pct": 15.84
+    },
+    "6209": {
+      "name": "今國光",
+      "holding_shares": 0,
+      "holding_pct": 4.21
+    },
+    "6213": {
+      "name": "聯茂",
+      "holding_shares": 0,
+      "holding_pct": 21.63
+    },
+    "6214": {
+      "name": "精誠",
+      "holding_shares": 0,
+      "holding_pct": 12.31
+    },
+    "6215": {
+      "name": "和椿",
+      "holding_shares": 0,
+      "holding_pct": 6.25
+    },
+    "6216": {
+      "name": "居易",
+      "holding_shares": 0,
+      "holding_pct": 3.06
+    },
+    "6224": {
+      "name": "聚鼎",
+      "holding_shares": 0,
+      "holding_pct": 5.35
+    },
+    "6225": {
+      "name": "天瀚",
+      "holding_shares": 0,
+      "holding_pct": 0.05
+    },
+    "6226": {
+      "name": "光鼎",
+      "holding_shares": 0,
+      "holding_pct": 10.06
+    },
+    "6230": {
+      "name": "尼得科超眾",
+      "holding_shares": 0,
+      "holding_pct": 86.98
+    },
+    "6235": {
+      "name": "華孚",
+      "holding_shares": 0,
+      "holding_pct": 3.18
+    },
+    "6239": {
+      "name": "力成",
+      "holding_shares": 0,
+      "holding_pct": 34.64
+    },
+    "6243": {
+      "name": "迅杰",
+      "holding_shares": 0,
+      "holding_pct": 3.45
+    },
+    "6257": {
+      "name": "矽格",
+      "holding_shares": 0,
+      "holding_pct": 30.24
+    },
+    "6269": {
+      "name": "台郡",
+      "holding_shares": 0,
+      "holding_pct": 18.64
+    },
+    "6271": {
+      "name": "同欣電",
+      "holding_shares": 0,
+      "holding_pct": 32.14
+    },
+    "6272": {
+      "name": "驊陞",
+      "holding_shares": 0,
+      "holding_pct": 2.08
+    },
+    "6277": {
+      "name": "宏正",
+      "holding_shares": 0,
+      "holding_pct": 9.5
+    },
+    "6278": {
+      "name": "台表科",
+      "holding_shares": 0,
+      "holding_pct": 20.05
+    },
+    "6281": {
+      "name": "全國電",
+      "holding_shares": 0,
+      "holding_pct": 2.38
+    },
+    "6282": {
+      "name": "康舒",
+      "holding_shares": 0,
+      "holding_pct": 15.39
+    },
+    "6283": {
+      "name": "淳安",
+      "holding_shares": 0,
+      "holding_pct": 19.17
+    },
+    "6285": {
+      "name": "啟碁",
+      "holding_shares": 0,
+      "holding_pct": 23.27
+    },
+    "6405": {
+      "name": "悅城",
+      "holding_shares": 0,
+      "holding_pct": 2.81
+    },
+    "6409": {
+      "name": "旭隼",
+      "holding_shares": 0,
+      "holding_pct": 54.11
+    },
+    "6412": {
+      "name": "群電",
+      "holding_shares": 0,
+      "holding_pct": 5.6
+    },
+    "6414": {
+      "name": "樺漢",
+      "holding_shares": 0,
+      "holding_pct": 40.11
+    },
+    "6415": {
+      "name": "矽力*-KY",
+      "holding_shares": 0,
+      "holding_pct": 79.72
+    },
+    "6416": {
+      "name": "瑞祺電通",
+      "holding_shares": 0,
+      "holding_pct": 4.55
+    },
+    "6426": {
+      "name": "統新",
+      "holding_shares": 0,
+      "holding_pct": 8.63
+    },
+    "6431": {
+      "name": "光麗-KY",
+      "holding_shares": 0,
+      "holding_pct": 56.46
+    },
+    "6438": {
+      "name": "迅得",
+      "holding_shares": 0,
+      "holding_pct": 5.98
+    },
+    "6442": {
+      "name": "光聖",
+      "holding_shares": 0,
+      "holding_pct": 31.36
+    },
+    "6443": {
+      "name": "元晶",
+      "holding_shares": 0,
+      "holding_pct": 12.28
+    },
+    "6446": {
+      "name": "藥華藥",
+      "holding_shares": 0,
+      "holding_pct": 25.35
+    },
+    "6449": {
+      "name": "鈺邦",
+      "holding_shares": 0,
+      "holding_pct": 5.69
+    },
+    "6451": {
+      "name": "訊芯-KY",
+      "holding_shares": 0,
+      "holding_pct": 63.88
+    },
+    "6456": {
+      "name": "GIS-KY",
+      "holding_shares": 0,
+      "holding_pct": 44.19
+    },
+    "6464": {
+      "name": "台數科",
+      "holding_shares": 0,
+      "holding_pct": 0.8
+    },
+    "6472": {
+      "name": "保瑞",
+      "holding_shares": 0,
+      "holding_pct": 11.39
+    },
+    "6477": {
+      "name": "安集",
+      "holding_shares": 0,
+      "holding_pct": 2.12
+    },
+    "6491": {
+      "name": "晶碩",
+      "holding_shares": 0,
+      "holding_pct": 14.6
+    },
+    "6504": {
+      "name": "南六",
+      "holding_shares": 0,
+      "holding_pct": 0.85
+    },
+    "6505": {
+      "name": "台塑化",
+      "holding_shares": 0,
+      "holding_pct": 6.3
+    },
+    "6515": {
+      "name": "穎崴",
+      "holding_shares": 0,
+      "holding_pct": 20.06
+    },
+    "6525": {
+      "name": "捷敏-KY",
+      "holding_shares": 0,
+      "holding_pct": 14.65
+    },
+    "6526": {
+      "name": "達發",
+      "holding_shares": 0,
+      "holding_pct": 7.03
+    },
+    "6531": {
+      "name": "愛普*",
+      "holding_shares": 0,
+      "holding_pct": 27.85
+    },
+    "6533": {
+      "name": "晶心科",
+      "holding_shares": 0,
+      "holding_pct": 10.78
+    },
+    "6534": {
+      "name": "正瀚-創",
+      "holding_shares": 0,
+      "holding_pct": 40.65
+    },
+    "6541": {
+      "name": "泰福-KY",
+      "holding_shares": 0,
+      "holding_pct": 13.62
+    },
+    "6550": {
+      "name": "北極星藥業-KY",
+      "holding_shares": 0,
+      "holding_pct": 68.5
+    },
+    "6552": {
+      "name": "易華電",
+      "holding_shares": 0,
+      "holding_pct": 1.55
+    },
+    "6558": {
+      "name": "興能高",
+      "holding_shares": 0,
+      "holding_pct": 1.34
+    },
+    "6573": {
+      "name": "虹揚-KY",
+      "holding_shares": 0,
+      "holding_pct": 55.05
+    },
+    "6579": {
+      "name": "研揚",
+      "holding_shares": 0,
+      "holding_pct": 3.37
+    },
+    "6581": {
+      "name": "鋼聯",
+      "holding_shares": 0,
+      "holding_pct": 1.02
+    },
+    "6582": {
+      "name": "申豐",
+      "holding_shares": 0,
+      "holding_pct": 13.2
+    },
+    "6585": {
+      "name": "鼎基",
+      "holding_shares": 0,
+      "holding_pct": 3.44
+    },
+    "6589": {
+      "name": "台康生技",
+      "holding_shares": 0,
+      "holding_pct": 4.09
+    },
+    "6591": {
+      "name": "動力-KY",
+      "holding_shares": 0,
+      "holding_pct": 18.9
+    },
+    "6592": {
+      "name": "和潤企業",
+      "holding_shares": 0,
+      "holding_pct": 26.22
+    },
+    "6598": {
+      "name": "ABC-KY",
+      "holding_shares": 0,
+      "holding_pct": 23.53
+    },
+    "6605": {
+      "name": "帝寶",
+      "holding_shares": 0,
+      "holding_pct": 14.47
+    },
+    "6606": {
+      "name": "建德工業",
+      "holding_shares": 0,
+      "holding_pct": 3.31
+    },
+    "6614": {
+      "name": "資拓宏宇",
+      "holding_shares": 0,
+      "holding_pct": 0.84
+    },
+    "6625": {
+      "name": "必應",
+      "holding_shares": 0,
+      "holding_pct": 1.62
+    },
+    "6641": {
+      "name": "基士德-KY",
+      "holding_shares": 0,
+      "holding_pct": 29.96
+    },
+    "6645": {
+      "name": "金萬林-創",
+      "holding_shares": 0,
+      "holding_pct": 0.61
+    },
+    "6655": {
+      "name": "科定",
+      "holding_shares": 0,
+      "holding_pct": 0.52
+    },
+    "6657": {
+      "name": "華安",
+      "holding_shares": 0,
+      "holding_pct": 7.24
+    },
+    "6658": {
+      "name": "聯策",
+      "holding_shares": 0,
+      "holding_pct": 1.68
+    },
+    "6666": {
+      "name": "羅麗芬-KY",
+      "holding_shares": 0,
+      "holding_pct": 75.25
+    },
+    "6668": {
+      "name": "中揚光",
+      "holding_shares": 0,
+      "holding_pct": 9.92
+    },
+    "6669": {
+      "name": "緯穎",
+      "holding_shares": 0,
+      "holding_pct": 29.16
+    },
+    "6670": {
+      "name": "復盛應用",
+      "holding_shares": 0,
+      "holding_pct": 22.64
+    },
+    "6671": {
+      "name": "三能-KY",
+      "holding_shares": 0,
+      "holding_pct": 39.83
+    },
+    "6672": {
+      "name": "騰輝電子-KY",
+      "holding_shares": 0,
+      "holding_pct": 26.96
+    },
+    "6674": {
+      "name": "鋐寶科技",
+      "holding_shares": 0,
+      "holding_pct": 0.49
+    },
+    "6689": {
+      "name": "伊雲谷",
+      "holding_shares": 0,
+      "holding_pct": 4.41
+    },
+    "6691": {
+      "name": "洋基工程",
+      "holding_shares": 0,
+      "holding_pct": 18.29
+    },
+    "6695": {
+      "name": "芯鼎",
+      "holding_shares": 0,
+      "holding_pct": 7.57
+    },
+    "6698": {
+      "name": "旭暉應材",
+      "holding_shares": 0,
+      "holding_pct": 2.38
+    },
+    "6706": {
+      "name": "惠特",
+      "holding_shares": 0,
+      "holding_pct": 5.45
+    },
+    "6715": {
+      "name": "嘉基",
+      "holding_shares": 0,
+      "holding_pct": 4.16
+    },
+    "6719": {
+      "name": "力智",
+      "holding_shares": 0,
+      "holding_pct": 7.1
+    },
+    "6722": {
+      "name": "輝創",
+      "holding_shares": 0,
+      "holding_pct": 2.54
+    },
+    "6742": {
+      "name": "澤米",
+      "holding_shares": 0,
+      "holding_pct": 2.0
+    },
+    "6743": {
+      "name": "安普新",
+      "holding_shares": 0,
+      "holding_pct": 4.16
+    },
+    "6753": {
+      "name": "龍德造船",
+      "holding_shares": 0,
+      "holding_pct": 2.42
+    },
+    "6754": {
+      "name": "匯僑設計",
+      "holding_shares": 0,
+      "holding_pct": 15.43
+    },
+    "6756": {
+      "name": "威鋒電子",
+      "holding_shares": 0,
+      "holding_pct": 3.12
+    },
+    "6757": {
+      "name": "台灣虎航",
+      "holding_shares": 0,
+      "holding_pct": 5.2
+    },
+    "6768": {
+      "name": "志強-KY",
+      "holding_shares": 0,
+      "holding_pct": 56.95
+    },
+    "6770": {
+      "name": "力積電",
+      "holding_shares": 0,
+      "holding_pct": 19.18
+    },
+    "6771": {
+      "name": "平和環保-創",
+      "holding_shares": 0,
+      "holding_pct": 0.6
+    },
+    "6776": {
+      "name": "展碁國際",
+      "holding_shares": 0,
+      "holding_pct": 1.04
+    },
+    "6781": {
+      "name": "AES-KY",
+      "holding_shares": 0,
+      "holding_pct": 67.87
+    },
+    "6782": {
+      "name": "視陽",
+      "holding_shares": 0,
+      "holding_pct": 7.75
+    },
+    "6789": {
+      "name": "采鈺",
+      "holding_shares": 0,
+      "holding_pct": 3.42
+    },
+    "6790": {
+      "name": "永豐實",
+      "holding_shares": 0,
+      "holding_pct": 2.01
+    },
+    "6792": {
+      "name": "詠業",
+      "holding_shares": 0,
+      "holding_pct": 2.18
+    },
+    "6794": {
+      "name": "向榮生技",
+      "holding_shares": 0,
+      "holding_pct": 0.42
+    },
+    "6796": {
+      "name": "晉弘",
+      "holding_shares": 0,
+      "holding_pct": 15.33
+    },
+    "6799": {
+      "name": "來頡",
+      "holding_shares": 0,
+      "holding_pct": 10.21
+    },
+    "6805": {
+      "name": "富世達",
+      "holding_shares": 0,
+      "holding_pct": 17.1
+    },
+    "6807": {
+      "name": "峰源-KY",
+      "holding_shares": 0,
+      "holding_pct": 43.5
+    },
+    "6830": {
+      "name": "汎銓",
+      "holding_shares": 0,
+      "holding_pct": 7.57
+    },
+    "6831": {
+      "name": "邁科",
+      "holding_shares": 0,
+      "holding_pct": 15.99
+    },
+    "6834": {
+      "name": "天二科技",
+      "holding_shares": 0,
+      "holding_pct": 12.55
+    },
+    "6835": {
+      "name": "圓裕",
+      "holding_shares": 0,
+      "holding_pct": 5.91
+    },
+    "6838": {
+      "name": "台新藥",
+      "holding_shares": 0,
+      "holding_pct": 1.41
+    },
+    "6854": {
+      "name": "錼創科技-KY創",
+      "holding_shares": 0,
+      "holding_pct": 30.87
+    },
+    "6861": {
+      "name": "睿生光電",
+      "holding_shares": 0,
+      "holding_pct": 1.2
+    },
+    "6862": {
+      "name": "三集瑞-KY",
+      "holding_shares": 0,
+      "holding_pct": 65.48
+    },
+    "6863": {
+      "name": "永道-KY",
+      "holding_shares": 0,
+      "holding_pct": 69.3
+    },
+    "6869": {
+      "name": "雲豹能源",
+      "holding_shares": 0,
+      "holding_pct": 2.43
+    },
+    "6873": {
+      "name": "泓德能源",
+      "holding_shares": 0,
+      "holding_pct": 6.53
+    },
+    "6885": {
+      "name": "全福生技",
+      "holding_shares": 0,
+      "holding_pct": 2.54
+    },
+    "6887": {
+      "name": "寶綠特-KY",
+      "holding_shares": 0,
+      "holding_pct": 53.29
+    },
+    "6890": {
+      "name": "來億-KY",
+      "holding_shares": 0,
+      "holding_pct": 86.06
+    },
+    "6901": {
+      "name": "鑽石投資",
+      "holding_shares": 0,
+      "holding_pct": 0.97
+    },
+    "6902": {
+      "name": "GOGOLOOK",
+      "holding_shares": 0,
+      "holding_pct": 3.73
+    },
+    "6906": {
+      "name": "現觀科",
+      "holding_shares": 0,
+      "holding_pct": 7.4
+    },
+    "6908": {
+      "name": "宏碁遊戲-創",
+      "holding_shares": 0,
+      "holding_pct": 0.65
+    },
+    "6909": {
+      "name": "創控",
+      "holding_shares": 0,
+      "holding_pct": 9.84
+    },
+    "6914": {
+      "name": "阜爾運通",
+      "holding_shares": 0,
+      "holding_pct": 2.17
+    },
+    "6916": {
+      "name": "華凌",
+      "holding_shares": 0,
+      "holding_pct": 0.64
+    },
+    "6918": {
+      "name": "愛派司",
+      "holding_shares": 0,
+      "holding_pct": 0.92
+    },
+    "6919": {
+      "name": "康霈*",
+      "holding_shares": 0,
+      "holding_pct": 13.78
+    },
+    "6921": {
+      "name": "嘉雨思-創",
+      "holding_shares": 0,
+      "holding_pct": 29.58
+    },
+    "6923": {
+      "name": "中台",
+      "holding_shares": 0,
+      "holding_pct": 0.95
+    },
+    "6924": {
+      "name": "榮惠-KY創",
+      "holding_shares": 0,
+      "holding_pct": 76.58
+    },
+    "6928": {
+      "name": "攸泰科技",
+      "holding_shares": 0,
+      "holding_pct": 0.73
+    },
+    "6931": {
+      "name": "青松健康",
+      "holding_shares": 0,
+      "holding_pct": 0.82
+    },
+    "6933": {
+      "name": "AMAX-KY",
+      "holding_shares": 0,
+      "holding_pct": 28.25
+    },
+    "6934": {
+      "name": "心誠鎂",
+      "holding_shares": 0,
+      "holding_pct": 12.25
+    },
+    "6936": {
+      "name": "永鴻生技",
+      "holding_shares": 0,
+      "holding_pct": 0.45
+    },
+    "6937": {
+      "name": "天虹",
+      "holding_shares": 0,
+      "holding_pct": 2.43
+    },
+    "6944": {
+      "name": "兆聯實業",
+      "holding_shares": 0,
+      "holding_pct": 17.26
+    },
+    "6949": {
+      "name": "沛爾生醫-創",
+      "holding_shares": 0,
+      "holding_pct": 2.22
+    },
+    "6951": {
+      "name": "青新-創",
+      "holding_shares": 0,
+      "holding_pct": 1.7
+    },
+    "6952": {
+      "name": "大武山",
+      "holding_shares": 0,
+      "holding_pct": 0.31
+    },
+    "6955": {
+      "name": "邦睿生技-創",
+      "holding_shares": 0,
+      "holding_pct": 17.72
+    },
+    "6957": {
+      "name": "裕慶-KY",
+      "holding_shares": 0,
+      "holding_pct": 6.13
+    },
+    "6958": {
+      "name": "日盛台駿",
+      "holding_shares": 0,
+      "holding_pct": 0.47
+    },
+    "6962": {
+      "name": "奕力-KY",
+      "holding_shares": 0,
+      "holding_pct": 39.44
+    },
+    "6965": {
+      "name": "中傑-KY",
+      "holding_shares": 0,
+      "holding_pct": 77.23
+    },
+    "6969": {
+      "name": "成信實業*-創",
+      "holding_shares": 0,
+      "holding_pct": 0.37
+    },
+    "6988": {
+      "name": "威力暘-創",
+      "holding_shares": 0,
+      "holding_pct": 3.8
+    },
+    "6994": {
+      "name": "富威電力",
+      "holding_shares": 0,
+      "holding_pct": 1.44
+    },
+    "7610": {
+      "name": "聯友金屬-創",
+      "holding_shares": 0,
+      "holding_pct": 17.45
+    },
+    "7631": {
+      "name": "聚賢研發-創",
+      "holding_shares": 0,
+      "holding_pct": 0.67
+    },
+    "7705": {
+      "name": "三商餐飲",
+      "holding_shares": 0,
+      "holding_pct": 2.23
+    },
+    "7711": {
+      "name": "永擎",
+      "holding_shares": 0,
+      "holding_pct": 0.89
+    },
+    "7721": {
+      "name": "微程式",
+      "holding_shares": 0,
+      "holding_pct": 1.21
+    },
+    "7722": {
+      "name": "LINEPAY",
+      "holding_shares": 0,
+      "holding_pct": 58.7
+    },
+    "7730": {
+      "name": "暉盛-創",
+      "holding_shares": 0,
+      "holding_pct": 2.02
+    },
+    "7732": {
+      "name": "金興精密",
+      "holding_shares": 0,
+      "holding_pct": 0.34
+    },
+    "7736": {
+      "name": "虎山",
+      "holding_shares": 0,
+      "holding_pct": 1.23
+    },
+    "7740": {
+      "name": "熙特爾-創",
+      "holding_shares": 0,
+      "holding_pct": 4.84
+    },
+    "7749": {
+      "name": "意騰-KY",
+      "holding_shares": 0,
+      "holding_pct": 23.7
+    },
+    "7750": {
+      "name": "新代",
+      "holding_shares": 0,
+      "holding_pct": 17.96
+    },
+    "7760": {
+      "name": "享溫馨",
+      "holding_shares": 0,
+      "holding_pct": 0.52
+    },
+    "7765": {
+      "name": "中華資安",
+      "holding_shares": 0,
+      "holding_pct": 0.3
+    },
+    "7768": {
+      "name": "頌勝科技",
+      "holding_shares": 0,
+      "holding_pct": 0.79
+    },
+    "7769": {
+      "name": "鴻勁",
+      "holding_shares": 0,
+      "holding_pct": 19.81
+    },
+    "7780": {
+      "name": "大研生醫*",
+      "holding_shares": 0,
+      "holding_pct": 0.68
+    },
+    "7786": {
+      "name": "東方風能",
+      "holding_shares": 0,
+      "holding_pct": 1.41
+    },
+    "7788": {
+      "name": "松川精密",
+      "holding_shares": 0,
+      "holding_pct": 7.7
+    },
+    "7791": {
+      "name": "皇家可口",
+      "holding_shares": 0,
+      "holding_pct": 0.45
+    },
+    "7795": {
+      "name": "長廣",
+      "holding_shares": 0,
+      "holding_pct": 9.2
+    },
+    "7799": {
+      "name": "禾榮科",
+      "holding_shares": 0,
+      "holding_pct": 3.3
+    },
+    "7803": {
+      "name": "雲象科技-創",
+      "holding_shares": 0,
+      "holding_pct": 2.82
+    },
+    "7818": {
+      "name": "溢泰實業",
+      "holding_shares": 0,
+      "holding_pct": 0.13
+    },
+    "7821": {
+      "name": "神數",
+      "holding_shares": 0,
+      "holding_pct": 0.57
+    },
+    "7822": {
+      "name": "倍利科",
+      "holding_shares": 0,
+      "holding_pct": 0.74
+    },
+    "7823": {
+      "name": "奧義賽博-KY創",
+      "holding_shares": 0,
+      "holding_pct": 25.91
+    },
+    "7827": {
+      "name": "漢康-KY創",
+      "holding_shares": 0,
+      "holding_pct": 22.79
+    },
+    "8011": {
+      "name": "台通",
+      "holding_shares": 0,
+      "holding_pct": 2.81
+    },
+    "8016": {
+      "name": "矽創",
+      "holding_shares": 0,
+      "holding_pct": 39.58
+    },
+    "8021": {
+      "name": "尖點",
+      "holding_shares": 0,
+      "holding_pct": 20.29
+    },
+    "8028": {
+      "name": "昇陽半導體",
+      "holding_shares": 0,
+      "holding_pct": 21.34
+    },
+    "8033": {
+      "name": "雷虎",
+      "holding_shares": 0,
+      "holding_pct": 5.08
+    },
+    "8039": {
+      "name": "台虹",
+      "holding_shares": 0,
+      "holding_pct": 16.33
+    },
+    "8045": {
+      "name": "達運光電",
+      "holding_shares": 0,
+      "holding_pct": 1.39
+    },
+    "8046": {
+      "name": "南電",
+      "holding_shares": 0,
+      "holding_pct": 15.79
+    },
+    "8070": {
+      "name": "長華*",
+      "holding_shares": 0,
+      "holding_pct": 12.63
+    },
+    "8072": {
+      "name": "陞泰",
+      "holding_shares": 0,
+      "holding_pct": 1.93
+    },
+    "8081": {
+      "name": "致新",
+      "holding_shares": 0,
+      "holding_pct": 18.11
+    },
+    "8101": {
+      "name": "華冠",
+      "holding_shares": 0,
+      "holding_pct": 0.05
+    },
+    "8103": {
+      "name": "瀚荃",
+      "holding_shares": 0,
+      "holding_pct": 21.41
+    },
+    "8104": {
+      "name": "錸寶",
+      "holding_shares": 0,
+      "holding_pct": 1.08
+    },
+    "8105": {
+      "name": "凌巨",
+      "holding_shares": 0,
+      "holding_pct": 39.65
+    },
+    "8110": {
+      "name": "華東",
+      "holding_shares": 0,
+      "holding_pct": 3.15
+    },
+    "8112": {
+      "name": "至上",
+      "holding_shares": 0,
+      "holding_pct": 18.65
+    },
+    "8114": {
+      "name": "振樺電",
+      "holding_shares": 0,
+      "holding_pct": 11.28
+    },
+    "8131": {
+      "name": "福懋科",
+      "holding_shares": 0,
+      "holding_pct": 4.59
+    },
+    "8150": {
+      "name": "南茂",
+      "holding_shares": 0,
+      "holding_pct": 43.06
+    },
+    "8162": {
+      "name": "微矽電子-創",
+      "holding_shares": 0,
+      "holding_pct": 0.85
+    },
+    "8163": {
+      "name": "達方",
+      "holding_shares": 0,
+      "holding_pct": 9.59
+    },
+    "8201": {
+      "name": "無敵",
+      "holding_shares": 0,
+      "holding_pct": 0.89
+    },
+    "8210": {
+      "name": "勤誠",
+      "holding_shares": 0,
+      "holding_pct": 8.3
+    },
+    "8213": {
+      "name": "志超",
+      "holding_shares": 0,
+      "holding_pct": 22.56
+    },
+    "8215": {
+      "name": "明基材",
+      "holding_shares": 0,
+      "holding_pct": 2.02
+    },
+    "8222": {
+      "name": "寶一",
+      "holding_shares": 0,
+      "holding_pct": 2.53
+    },
+    "8249": {
+      "name": "菱光",
+      "holding_shares": 0,
+      "holding_pct": 0.81
+    },
+    "8261": {
+      "name": "富鼎",
+      "holding_shares": 0,
+      "holding_pct": 7.19
+    },
+    "8271": {
+      "name": "宇瞻",
+      "holding_shares": 0,
+      "holding_pct": 8.36
+    },
+    "8341": {
+      "name": "日友",
+      "holding_shares": 0,
+      "holding_pct": 4.5
+    },
+    "8367": {
+      "name": "建新國際",
+      "holding_shares": 0,
+      "holding_pct": 1.49
+    },
+    "8374": {
+      "name": "羅昇",
+      "holding_shares": 0,
+      "holding_pct": 2.32
+    },
+    "8404": {
+      "name": "百和興業-KY",
+      "holding_shares": 0,
+      "holding_pct": 52.94
+    },
+    "8411": {
+      "name": "福貞-KY",
+      "holding_shares": 0,
+      "holding_pct": 53.8
+    },
+    "8422": {
+      "name": "可寧衛*",
+      "holding_shares": 0,
+      "holding_pct": 4.26
+    },
+    "8429": {
+      "name": "金麗-KY",
+      "holding_shares": 0,
+      "holding_pct": 28.68
+    },
+    "8438": {
+      "name": "昶昕",
+      "holding_shares": 0,
+      "holding_pct": 3.26
+    },
+    "8442": {
+      "name": "威宏-KY",
+      "holding_shares": 0,
+      "holding_pct": 56.26
+    },
+    "8443": {
+      "name": "阿瘦",
+      "holding_shares": 0,
+      "holding_pct": 3.68
+    },
+    "8454": {
+      "name": "富邦媒",
+      "holding_shares": 0,
+      "holding_pct": 11.47
+    },
+    "8462": {
+      "name": "柏文",
+      "holding_shares": 0,
+      "holding_pct": 3.64
+    },
+    "8463": {
+      "name": "潤泰材",
+      "holding_shares": 0,
+      "holding_pct": 0.38
+    },
+    "8464": {
+      "name": "億豐",
+      "holding_shares": 0,
+      "holding_pct": 40.89
+    },
+    "8466": {
+      "name": "美吉吉-KY",
+      "holding_shares": 0,
+      "holding_pct": 50.15
+    },
+    "8467": {
+      "name": "波力-KY",
+      "holding_shares": 0,
+      "holding_pct": 46.55
+    },
+    "8473": {
+      "name": "山林水",
+      "holding_shares": 0,
+      "holding_pct": 4.02
+    },
+    "8476": {
+      "name": "台境*",
+      "holding_shares": 0,
+      "holding_pct": 1.49
+    },
+    "8478": {
+      "name": "東哥遊艇",
+      "holding_shares": 0,
+      "holding_pct": 39.33
+    },
+    "8481": {
+      "name": "政伸",
+      "holding_shares": 0,
+      "holding_pct": 0.37
+    },
+    "8482": {
+      "name": "商億-KY",
+      "holding_shares": 0,
+      "holding_pct": 91.74
+    },
+    "8487": {
+      "name": "愛爾達-創",
+      "holding_shares": 0,
+      "holding_pct": 1.32
+    },
+    "8488": {
+      "name": "吉源-KY",
+      "holding_shares": 0,
+      "holding_pct": 69.61
+    },
+    "8499": {
+      "name": "鼎炫-KY",
+      "holding_shares": 0,
+      "holding_pct": 72.15
+    },
+    "8926": {
+      "name": "台汽電",
+      "holding_shares": 0,
+      "holding_pct": 10.81
+    },
+    "8940": {
+      "name": "新天地",
+      "holding_shares": 0,
+      "holding_pct": 8.35
+    },
+    "8996": {
+      "name": "高力",
+      "holding_shares": 0,
+      "holding_pct": 36.95
+    },
+    "9103": {
+      "name": "美德醫療-DR",
+      "holding_shares": 0,
+      "holding_pct": 1.94
+    },
+    "910322": {
+      "name": "康師傅-DR",
+      "holding_shares": 0,
+      "holding_pct": 5.59
+    },
+    "9105": {
+      "name": "泰金寶-DR",
+      "holding_shares": 0,
+      "holding_pct": 0.67
+    },
+    "910861": {
+      "name": "神州-DR",
+      "holding_shares": 0,
+      "holding_pct": 0.33
+    },
+    "9110": {
+      "name": "越南控-DR",
+      "holding_shares": 0,
+      "holding_pct": 0.04
+    },
+    "911608": {
+      "name": "明輝-DR",
+      "holding_shares": 0,
+      "holding_pct": 1.57
+    },
+    "911622": {
+      "name": "泰聚亨-DR",
+      "holding_shares": 0,
+      "holding_pct": 0.0
+    },
+    "911868": {
+      "name": "同方友友-DR",
+      "holding_shares": 0,
+      "holding_pct": 0.0
+    },
+    "912000": {
+      "name": "晨訊科-DR",
+      "holding_shares": 0,
+      "holding_pct": 2.38
+    },
+    "9136": {
+      "name": "巨騰-DR",
+      "holding_shares": 0,
+      "holding_pct": 3.0
+    },
+    "9802": {
+      "name": "鈺齊-KY",
+      "holding_shares": 0,
+      "holding_pct": 40.96
+    },
+    "9902": {
+      "name": "台火",
+      "holding_shares": 0,
+      "holding_pct": 1.3
+    },
+    "9904": {
+      "name": "寶成",
+      "holding_shares": 0,
+      "holding_pct": 28.42
+    },
+    "9905": {
+      "name": "大華",
+      "holding_shares": 0,
+      "holding_pct": 2.35
+    },
+    "9906": {
+      "name": "欣巴巴",
+      "holding_shares": 0,
+      "holding_pct": 0.82
+    },
+    "9907": {
+      "name": "統一實",
+      "holding_shares": 0,
+      "holding_pct": 14.26
+    },
+    "9908": {
+      "name": "大台北",
+      "holding_shares": 0,
+      "holding_pct": 2.12
+    },
+    "9910": {
+      "name": "豐泰",
+      "holding_shares": 0,
+      "holding_pct": 5.21
+    },
+    "9911": {
+      "name": "櫻花",
+      "holding_shares": 0,
+      "holding_pct": 18.74
+    },
+    "9912": {
+      "name": "偉聯",
+      "holding_shares": 0,
+      "holding_pct": 15.94
+    },
+    "9914": {
+      "name": "美利達",
+      "holding_shares": 0,
+      "holding_pct": 23.29
+    },
+    "9917": {
+      "name": "中保科",
+      "holding_shares": 0,
+      "holding_pct": 38.93
+    },
+    "9918": {
+      "name": "欣天然",
+      "holding_shares": 0,
+      "holding_pct": 2.74
+    },
+    "9919": {
+      "name": "康那香",
+      "holding_shares": 0,
+      "holding_pct": 4.63
+    },
+    "9921": {
+      "name": "巨大",
+      "holding_shares": 0,
+      "holding_pct": 27.84
+    },
+    "9924": {
+      "name": "福興",
+      "holding_shares": 0,
+      "holding_pct": 10.14
+    },
+    "9925": {
+      "name": "新保",
+      "holding_shares": 0,
+      "holding_pct": 17.48
+    },
+    "9926": {
+      "name": "新海",
+      "holding_shares": 0,
+      "holding_pct": 0.7
+    },
+    "9927": {
+      "name": "泰銘",
+      "holding_shares": 0,
+      "holding_pct": 6.5
+    },
+    "9928": {
+      "name": "中視",
+      "holding_shares": 0,
+      "holding_pct": 0.0
+    },
+    "9929": {
+      "name": "秋雨",
+      "holding_shares": 0,
+      "holding_pct": 0.44
+    },
+    "9930": {
+      "name": "中聯資源",
+      "holding_shares": 0,
+      "holding_pct": 1.86
+    },
+    "9931": {
+      "name": "欣高",
+      "holding_shares": 0,
+      "holding_pct": 0.82
+    },
+    "9933": {
+      "name": "中鼎",
+      "holding_shares": 0,
+      "holding_pct": 18.43
+    },
+    "9934": {
+      "name": "成霖",
+      "holding_shares": 0,
+      "holding_pct": 13.15
+    },
+    "9935": {
+      "name": "慶豐富",
+      "holding_shares": 0,
+      "holding_pct": 5.69
+    },
+    "9937": {
+      "name": "全國",
+      "holding_shares": 0,
+      "holding_pct": 1.75
+    },
+    "9938": {
+      "name": "百和",
+      "holding_shares": 0,
+      "holding_pct": 8.96
+    },
+    "9939": {
+      "name": "宏全",
+      "holding_shares": 0,
+      "holding_pct": 13.43
+    },
+    "9940": {
+      "name": "信義",
+      "holding_shares": 0,
+      "holding_pct": 3.57
+    },
+    "9941": {
+      "name": "裕融",
+      "holding_shares": 0,
+      "holding_pct": 4.61
+    },
+    "9942": {
+      "name": "茂順",
+      "holding_shares": 0,
+      "holding_pct": 4.51
+    },
+    "9943": {
+      "name": "好樂迪",
+      "holding_shares": 0,
+      "holding_pct": 1.27
+    },
+    "9944": {
+      "name": "新麗",
+      "holding_shares": 0,
+      "holding_pct": 1.1
+    },
+    "9945": {
+      "name": "潤泰新",
+      "holding_shares": 0,
+      "holding_pct": 7.5
+    },
+    "9946": {
+      "name": "三發地產",
+      "holding_shares": 0,
+      "holding_pct": 3.18
+    },
+    "9955": {
+      "name": "佳龍",
+      "holding_shares": 0,
+      "holding_pct": 3.98
+    },
+    "9958": {
+      "name": "世紀鋼",
+      "holding_shares": 0,
+      "holding_pct": 10.07
+    }
+  }
+}
