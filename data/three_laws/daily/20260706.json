@@ -1,6 +1,6 @@
 {
   "date": "20260706",
-  "fetched_at": "2026-07-06T22:21:55",
+  "fetched_at": "2026-07-06T23:24:23",
   "stocks": {
     "3481": {
       "name": "群創",
@@ -2575,17 +2575,6 @@
       "trust_net": 0,
       "dealer_net": -20,
       "total_net": 299
-    },
-    "2231": {
-      "name": "為升",
-      "foreign_buy": 1147,
-      "foreign_sell": 946,
-      "foreign_net": 200,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 88,
-      "total_net": 289
     },
     "3312": {
       "name": "弘憶股",
@@ -6239,6 +6228,17 @@
       "dealer_net": 0,
       "total_net": 7
     },
+    "6756": {
+      "name": "威鋒電子",
+      "foreign_buy": 88,
+      "foreign_sell": 82,
+      "foreign_net": 6,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 1,
+      "total_net": 7
+    },
     "9944": {
       "name": "新麗",
       "foreign_buy": 13,
@@ -7579,6 +7579,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -1,
+      "total_net": -3
+    },
+    "6931": {
+      "name": "青松健康",
+      "foreign_buy": 6,
+      "foreign_sell": 9,
+      "foreign_net": -3,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": -3
     },
     "6794": {
@@ -10208,17 +10219,6 @@
       "trust_sell": 5,
       "trust_net": -5,
       "dealer_net": 28,
-      "total_net": -108
-    },
-    "00639": {
-      "name": "富邦深100",
-      "foreign_buy": 144,
-      "foreign_sell": 125,
-      "foreign_net": 19,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -127,
       "total_net": -108
     },
     "00850": {
