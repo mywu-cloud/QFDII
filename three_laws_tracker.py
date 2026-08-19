@@ -21,11 +21,13 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-BASE_DIR    = Path(__file__).parent
-DATA_DIR    = BASE_DIR / "data" / "three_laws"
-DAILY_DIR   = DATA_DIR / "daily"
-HOLDING_DIR = DATA_DIR / "holding"
-PRICE_DIR   = DATA_DIR / "price"
+BASE_DIR     = Path(__file__).parent
+DATA_DIR     = BASE_DIR / "data" / "three_laws"
+DAILY_DIR    = DATA_DIR / "daily"
+HOLDING_DIR  = DATA_DIR / "holding"
+PRICE_DIR    = DATA_DIR / "price"
+INDUSTRY_CACHE = DATA_DIR / "industry.json"
+CONCEPTS_PATH  = BASE_DIR / "data" / "concepts.json"
 
 for _d in [DATA_DIR, DAILY_DIR, HOLDING_DIR, PRICE_DIR]:
     _d.mkdir(parents=True, exist_ok=True)
@@ -215,6 +217,87 @@ def fetch_shareholding(trade_date: str) -> dict | None:
             "holding_pct":    _to_float(row[7]),
         }
     return result
+
+
+def fetch_industry() -> dict | None:
+    """
+    抓取 TWSE 上市公司基本資料（含「產業別」欄位）。
+    資料來源：TWSE OpenAPI t187ap03_L（上市公司基本資料）。
+    回傳: {ticker: industry_name}
+    """
+    url = "https://openapi.twse.com.tw/v1/opendata/t187ap03_L"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        rows = resp.json()
+    except Exception as e:
+        log.error(f"產業別 API 失敗: {e}")
+        return None
+
+    if not isinstance(rows, list):
+        log.warning("產業別 API 回傳格式異常")
+        return None
+
+    result = {}
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        ticker = industry = None
+        # 欄位名稱以子字串比對，避免 TWSE 調整欄位順序或措辭時整支程式失效
+        for k, v in row.items():
+            if ticker is None and "公司代號" in k:
+                ticker = str(v).strip()
+            if industry is None and "產業別" in k:
+                industry = str(v).strip()
+        if ticker and ticker.isdigit():
+            result[ticker] = industry or ""
+    return result
+
+
+def load_industry(force: bool = False, max_age_days: int = 7) -> dict:
+    """
+    載入產業別分類，並快取於 data/three_laws/industry.json。
+    產業別資料變動不頻繁，預設快取 7 天內不重新抓取。
+    """
+    if not force and INDUSTRY_CACHE.exists():
+        age_days = (time.time() - INDUSTRY_CACHE.stat().st_mtime) / 86400
+        if age_days < max_age_days:
+            with open(INDUSTRY_CACHE, encoding="utf-8") as f:
+                return json.load(f).get("industries", {})
+
+    log.info("抓取產業別分類…")
+    data = fetch_industry()
+    if data:
+        with open(INDUSTRY_CACHE, "w", encoding="utf-8") as f:
+            json.dump({"fetched_at": datetime.now().isoformat(timespec="seconds"),
+                       "industries": data}, f, ensure_ascii=False, indent=2)
+        log.info(f"已快取產業別分類（{len(data)} 家公司）")
+        return data
+
+    # 抓取失敗，改用舊快取（若有）
+    if INDUSTRY_CACHE.exists():
+        log.warning("產業別抓取失敗，改用舊快取")
+        with open(INDUSTRY_CACHE, encoding="utf-8") as f:
+            return json.load(f).get("industries", {})
+    log.warning("產業別抓取失敗，且無舊快取可用")
+    return {}
+
+
+def load_concepts() -> dict:
+    """
+    載入概念股分類（人工維護清單，data/concepts.json）。
+    格式：{"concepts": [...], "map": {ticker: [concept, ...]}}
+    找不到檔案時回傳空結構，不影響其餘資料產生。
+    """
+    if not CONCEPTS_PATH.exists():
+        return {"concepts": [], "map": {}}
+    try:
+        with open(CONCEPTS_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        return {"concepts": data.get("concepts", []), "map": data.get("map", {})}
+    except Exception as e:
+        log.warning(f"概念股清單讀取失敗: {e}")
+        return {"concepts": [], "map": {}}
 
 
 # ─── 儲存 / 載入 ─────────────────────────────────────────────────────────────
@@ -432,11 +515,19 @@ def build_dashboard() -> dict:
         if s["total_5d"]   > 0:  score += 1
         s["score"] = score
 
+    # 產業別 / 概念股分類（供前端「產業類股」「概念類股」下拉選單使用）
+    industries = load_industry()
+    for s in stocks:
+        s["industry"] = industries.get(s["ticker"], "")
+    concepts_data = load_concepts()
+
     out = {
         "generated_at":   datetime.now().isoformat(timespec="seconds"),
         "trading_dates":  dates_all,
         "holding_dates":  sorted(holding_data.keys()),
         "stocks":         stocks,
+        "concepts":       concepts_data["concepts"],
+        "concept_map":    concepts_data["map"],
     }
     out_path = DATA_DIR / "dashboard.json"
     with open(out_path, "w", encoding="utf-8") as f:

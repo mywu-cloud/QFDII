@@ -179,6 +179,12 @@ td.name{color:#444;max-width:120px;overflow:hidden;text-overflow:ellipsis}
         <option value="buy">買超</option>
         <option value="sell">賣超</option>
       </select>
+      <select id="ind-all" onchange="renderAll()">
+        <option value="">全部產業</option>
+      </select>
+      <select id="con-all" onchange="renderAll()">
+        <option value="">全部概念股</option>
+      </select>
       <span style="font-size:13px;color:#666;margin-left:8px;">點選欄位表頭可進行排序</span>
     </div>
     <div class="tbl-wrap"><table id="tbl-all">
@@ -209,6 +215,12 @@ td.name{color:#444;max-width:120px;overflow:hidden;text-overflow:ellipsis}
         <option value="buy">買超</option>
         <option value="sell">賣超</option>
       </select>
+      <select id="ind-foreign" onchange="renderForeign()">
+        <option value="">全部產業</option>
+      </select>
+      <select id="con-foreign" onchange="renderForeign()">
+        <option value="">全部概念股</option>
+      </select>
       <span style="font-size:13px;color:#666;margin-left:8px;">點選欄位表頭可進行排序</span>
     </div>
     <div class="tbl-wrap"><table id="tbl-foreign">
@@ -237,6 +249,12 @@ td.name{color:#444;max-width:120px;overflow:hidden;text-overflow:ellipsis}
         <option value="buy">買超</option>
         <option value="sell">賣超</option>
       </select>
+      <select id="ind-trust" onchange="renderTrust()">
+        <option value="">全部產業</option>
+      </select>
+      <select id="con-trust" onchange="renderTrust()">
+        <option value="">全部概念股</option>
+      </select>
       <span style="font-size:13px;color:#666;margin-left:8px;">點選欄位表頭可進行排序</span>
     </div>
     <div class="tbl-wrap"><table id="tbl-trust">
@@ -264,6 +282,12 @@ td.name{color:#444;max-width:120px;overflow:hidden;text-overflow:ellipsis}
         <option value="buy">買超</option>
         <option value="sell">賣超</option>
       </select>
+      <select id="ind-dealer" onchange="renderDealer()">
+        <option value="">全部產業</option>
+      </select>
+      <select id="con-dealer" onchange="renderDealer()">
+        <option value="">全部概念股</option>
+      </select>
       <span style="font-size:13px;color:#666;margin-left:8px;">點選欄位表頭可進行排序</span>
     </div>
     <div class="tbl-wrap"><table id="tbl-dealer">
@@ -290,6 +314,12 @@ td.name{color:#444;max-width:120px;overflow:hidden;text-overflow:ellipsis}
         <option value="">全部方向</option>
         <option value="buy">週增加</option>
         <option value="sell">週減少</option>
+      </select>
+      <select id="ind-holding" onchange="renderHolding()">
+        <option value="">全部產業</option>
+      </select>
+      <select id="con-holding" onchange="renderHolding()">
+        <option value="">全部概念股</option>
       </select>
       <button class="badge-filter" id="btn-sig" onclick="toggleSig()">僅顯示顯著變化 ≥ 0.5%</button>
       <span style="font-size:13px;color:#666;margin-left:8px;">點選欄位表頭可進行排序</span>
@@ -329,6 +359,12 @@ td.name{color:#444;max-width:120px;overflow:hidden;text-overflow:ellipsis}
         <option value="">全部方向</option>
         <option value="buy">外資買超</option>
         <option value="sell">外資賣超</option>
+      </select>
+      <select id="ind-strategy" onchange="renderStrategy()">
+        <option value="">全部產業</option>
+      </select>
+      <select id="con-strategy" onchange="renderStrategy()">
+        <option value="">全部概念股</option>
       </select>
       <span style="font-size:13px;color:#666;margin-left:8px;">點選欄位表頭可進行排序</span>
     </div>
@@ -423,6 +459,7 @@ function initMeta() {
     `資料日期：${d[d.length-1]||'—'}<br>` +
     `外資持股％日期：${h[h.length-1]||'—'}<br>` +
     `更新：${(G.generated_at||'').replace('T',' ')}`;
+  populateCategoryFilters();
   updateChips();
 }
 
@@ -547,13 +584,53 @@ function amountCell(net, close) {
 function filterStocks(tabId) {
   const q = (document.getElementById('q-' + tabId)?.value || '').trim().toLowerCase();
   const dir = document.getElementById('dir-' + tabId)?.value || '';
+  const ind = document.getElementById('ind-' + tabId)?.value || '';
+  const con = document.getElementById('con-' + tabId)?.value || '';
   return (G.stocks || []).filter(s => {
     if (q && !s.ticker.includes(q.toUpperCase()) && !s.name.toLowerCase().includes(q)) return false;
     const f = getVal(s,'foreign');
     if (dir === 'buy' && f <= 0) return false;
     if (dir === 'sell' && f >= 0) return false;
+    if (ind && s.industry !== ind) return false;
+    if (con) {
+      const cs = (G.concept_map || {})[s.ticker];
+      if (!cs || !cs.includes(con)) return false;
+    }
     return true;
   });
+}
+
+// ─── 產業 / 概念股 下拉選單 ────────────────────────────────────────────────────
+function populateCategoryFilters() {
+  if (!G) return;
+  const stocks = G.stocks || [];
+  const inds = [...new Set(stocks.map(s => s.industry).filter(Boolean))]
+    .sort((a,b) => a.localeCompare(b,'zh-TW'));
+
+  const conSet = new Set(G.concepts || []);
+  if (!conSet.size) {
+    Object.values(G.concept_map || {}).forEach(arr => (arr||[]).forEach(c => conSet.add(c)));
+  }
+  const cons = [...conSet].sort((a,b) => a.localeCompare(b,'zh-TW'));
+
+  function fill(sel, items, allLabel) {
+    const cur = sel.value;
+    sel.innerHTML = '';
+    const optAll = document.createElement('option');
+    optAll.value = '';
+    optAll.textContent = allLabel;
+    sel.appendChild(optAll);
+    items.forEach(v => {
+      const o = document.createElement('option');
+      o.value = v;
+      o.textContent = v;
+      sel.appendChild(o);
+    });
+    if (items.includes(cur)) sel.value = cur;
+  }
+
+  document.querySelectorAll('select[id^="ind-"]').forEach(sel => fill(sel, inds, '全部產業'));
+  document.querySelectorAll('select[id^="con-"]').forEach(sel => fill(sel, cons, '全部概念股'));
 }
 
 function scoreClass(n) {
