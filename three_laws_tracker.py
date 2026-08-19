@@ -219,6 +219,37 @@ def fetch_shareholding(trade_date: str) -> dict | None:
     return result
 
 
+# TWSE t187ap03_L 的「產業別」欄位回傳的是兩碼分類代碼，不是中文名稱，
+# 需自行對照。代碼定義依據 TWSE 證券編碼分類查詢
+# （https://isin.twse.com.tw/isin/class_i.jsp?kind=1）。
+INDUSTRY_CODE_MAP = {
+    "01": "水泥工業",       "02": "食品工業",       "03": "塑膠工業",
+    "04": "紡織纖維",       "05": "電機機械",       "06": "電器電纜",
+    "07": "化學工業",       "08": "玻璃陶瓷",       "09": "造紙工業",
+    "10": "鋼鐵工業",       "11": "橡膠工業",       "12": "汽車工業",
+    "13": "電子工業",       "14": "建材營造業",     "15": "航運業",
+    "16": "觀光餐旅",       "17": "金融保險業",     "18": "貿易百貨業",
+    "19": "綜合",           "20": "其他業",         "21": "化學工業",
+    "22": "生技醫療業",     "23": "油電燃氣業",     "24": "半導體業",
+    "25": "電腦及週邊設備業", "26": "光電業",       "27": "通信網路業",
+    "28": "電子零組件業",   "29": "電子通路業",     "30": "資訊服務業",
+    "31": "其他電子業",     "32": "文化創意業",     "33": "農業科技業",
+    "35": "綠能環保業",     "36": "數位雲端業",     "37": "運動休閒業",
+    "38": "居家生活業",     "80": "管理股票",       "91": "存託憑證",
+    "97": "特別股",         "99": "其他",
+}
+
+
+def industry_code_to_name(code: str) -> str:
+    """
+    將 TWSE 產業別代碼轉為中文名稱；若已是文字名稱或代碼未知，原樣回傳
+    （對舊快取格式與未來 TWSE 調整欄位格式保持相容）。
+    """
+    if not code:
+        return ""
+    return INDUSTRY_CODE_MAP.get(code, code)
+
+
 def fetch_industry() -> dict | None:
     """
     抓取 TWSE 上市公司基本資料（含「產業別」欄位）。
@@ -518,7 +549,7 @@ def build_dashboard() -> dict:
     # 產業別 / 概念股分類（供前端「產業類股」「概念類股」下拉選單使用）
     industries = load_industry()
     for s in stocks:
-        s["industry"] = industries.get(s["ticker"], "")
+        s["industry"] = industry_code_to_name(industries.get(s["ticker"], ""))
     concepts_data = load_concepts()
 
     out = {
