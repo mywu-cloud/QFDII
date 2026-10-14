@@ -1,6 +1,6 @@
 {
   "date": "20261014",
-  "fetched_at": "2026-10-14T20:39:01",
+  "fetched_at": "2026-10-14T23:40:10",
   "stocks": {
     "2002": {
       "name": "中鋼",
@@ -5227,17 +5227,6 @@
       "dealer_net": 1,
       "total_net": 30
     },
-    "00762": {
-      "name": "元大全球AI",
-      "foreign_buy": 42,
-      "foreign_sell": 0,
-      "foreign_net": 42,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -12,
-      "total_net": 30
-    },
     "7791": {
       "name": "皇家可口",
       "foreign_buy": 51,
@@ -5247,6 +5236,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 2,
+      "total_net": 30
+    },
+    "00762": {
+      "name": "元大全球AI",
+      "foreign_buy": 42,
+      "foreign_sell": 0,
+      "foreign_net": 42,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -12,
       "total_net": 30
     },
     "6743": {
@@ -5634,17 +5634,6 @@
       "dealer_net": 0,
       "total_net": 22
     },
-    "00903": {
-      "name": "富邦元宇宙",
-      "foreign_buy": 75,
-      "foreign_sell": 1,
-      "foreign_net": 74,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -52,
-      "total_net": 22
-    },
     "8442": {
       "name": "威宏-KY",
       "foreign_buy": 35,
@@ -5654,6 +5643,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": 22
+    },
+    "00903": {
+      "name": "富邦元宇宙",
+      "foreign_buy": 75,
+      "foreign_sell": 1,
+      "foreign_net": 74,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -52,
       "total_net": 22
     },
     "2753": {
@@ -6063,17 +6063,6 @@
       "dealer_net": 2,
       "total_net": 14
     },
-    "00861": {
-      "name": "元大全球未來通訊",
-      "foreign_buy": 1,
-      "foreign_sell": 0,
-      "foreign_net": 1,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 13,
-      "total_net": 14
-    },
     "6698": {
       "name": "旭暉應材",
       "foreign_buy": 68,
@@ -6105,6 +6094,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": 14
+    },
+    "00861": {
+      "name": "元大全球未來通訊",
+      "foreign_buy": 1,
+      "foreign_sell": 0,
+      "foreign_net": 1,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 13,
       "total_net": 14
     },
     "2506": {
@@ -6470,17 +6470,6 @@
       "dealer_net": 6,
       "total_net": 9
     },
-    "00876": {
-      "name": "元大全球5G",
-      "foreign_buy": 17,
-      "foreign_sell": 0,
-      "foreign_net": 17,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -8,
-      "total_net": 9
-    },
     "6128": {
       "name": "上福",
       "foreign_buy": 9,
@@ -6512,6 +6501,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": 9
+    },
+    "00876": {
+      "name": "元大全球5G",
+      "foreign_buy": 17,
+      "foreign_sell": 0,
+      "foreign_net": 17,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -8,
       "total_net": 9
     },
     "2911": {
@@ -6976,17 +6976,6 @@
       "dealer_net": 1,
       "total_net": 4
     },
-    "00668": {
-      "name": "國泰美國道瓊",
-      "foreign_buy": 0,
-      "foreign_sell": 0,
-      "foreign_net": 0,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 4,
-      "total_net": 4
-    },
     "7721": {
       "name": "微程式",
       "foreign_buy": 8,
@@ -7029,6 +7018,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -2,
+      "total_net": 4
+    },
+    "00668": {
+      "name": "國泰美國道瓊",
+      "foreign_buy": 0,
+      "foreign_sell": 0,
+      "foreign_net": 0,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 4,
       "total_net": 4
     },
     "2008": {
@@ -7713,17 +7713,6 @@
       "dealer_net": 0,
       "total_net": 1
     },
-    "00660": {
-      "name": "元大歐洲50",
-      "foreign_buy": 0,
-      "foreign_sell": 0,
-      "foreign_net": 0,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 1,
-      "total_net": 1
-    },
     "8940": {
       "name": "新天地",
       "foreign_buy": 1,
@@ -7854,6 +7843,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": 1
+    },
+    "00660": {
+      "name": "元大歐洲50",
+      "foreign_buy": 0,
+      "foreign_sell": 0,
+      "foreign_net": 0,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 1,
       "total_net": 1
     },
     "2024": {
@@ -8164,17 +8164,6 @@
       "dealer_net": 0,
       "total_net": 0
     },
-    "00736": {
-      "name": "國泰新興市場",
-      "foreign_buy": 0,
-      "foreign_sell": 0,
-      "foreign_net": 0,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 0,
-      "total_net": 0
-    },
     "6655": {
       "name": "科定",
       "foreign_buy": 1,
@@ -8217,6 +8206,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 1,
+      "total_net": 0
+    },
+    "00736": {
+      "name": "國泰新興市場",
+      "foreign_buy": 0,
+      "foreign_sell": 0,
+      "foreign_net": 0,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 0,
       "total_net": 0
     },
     "2901": {
@@ -8329,17 +8329,6 @@
       "dealer_net": 0,
       "total_net": -1
     },
-    "00771": {
-      "name": "元大US高息特別股",
-      "foreign_buy": 0,
-      "foreign_sell": 0,
-      "foreign_net": 0,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -1,
-      "total_net": -1
-    },
     "7689": {
       "name": "大鵬科CLMX",
       "foreign_buy": 8,
@@ -8393,6 +8382,17 @@
       "trust_sell": 7,
       "trust_net": -7,
       "dealer_net": 8,
+      "total_net": -1
+    },
+    "00771": {
+      "name": "元大US高息特別股",
+      "foreign_buy": 0,
+      "foreign_sell": 0,
+      "foreign_net": 0,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -1,
       "total_net": -1
     },
     "3494": {
@@ -8494,17 +8494,6 @@
       "dealer_net": -1,
       "total_net": -2
     },
-    "00851": {
-      "name": "台新全球AI",
-      "foreign_buy": 8,
-      "foreign_sell": 0,
-      "foreign_net": 8,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -10,
-      "total_net": -2
-    },
     "6887": {
       "name": "寶綠特-KY",
       "foreign_buy": 2,
@@ -8514,6 +8503,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -2,
+      "total_net": -2
+    },
+    "00851": {
+      "name": "台新全球AI",
+      "foreign_buy": 8,
+      "foreign_sell": 0,
+      "foreign_net": 8,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -10,
       "total_net": -2
     },
     "2013": {
@@ -9066,17 +9066,6 @@
       "dealer_net": 0,
       "total_net": -8
     },
-    "00678": {
-      "name": "群益那斯達克生技",
-      "foreign_buy": 15,
-      "foreign_sell": 218,
-      "foreign_net": -203,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 195,
-      "total_net": -8
-    },
     "5907": {
       "name": "大洋-KY",
       "foreign_buy": 8,
@@ -9086,6 +9075,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": -8
+    },
+    "00678": {
+      "name": "群益那斯達克生技",
+      "foreign_buy": 15,
+      "foreign_sell": 218,
+      "foreign_net": -203,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 195,
       "total_net": -8
     },
     "2702": {
@@ -9154,17 +9154,6 @@
       "dealer_net": -141,
       "total_net": -9
     },
-    "00737": {
-      "name": "國泰AI機器人",
-      "foreign_buy": 31,
-      "foreign_sell": 0,
-      "foreign_net": 31,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -40,
-      "total_net": -9
-    },
     "6931": {
       "name": "青松健康",
       "foreign_buy": 3,
@@ -9174,6 +9163,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": -9
+    },
+    "00737": {
+      "name": "國泰AI機器人",
+      "foreign_buy": 31,
+      "foreign_sell": 0,
+      "foreign_net": 31,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -40,
       "total_net": -9
     },
     "2231": {
@@ -10001,17 +10001,6 @@
       "dealer_net": 0,
       "total_net": -23
     },
-    "00910": {
-      "name": "第一金太空衛星",
-      "foreign_buy": 35,
-      "foreign_sell": 2,
-      "foreign_net": 33,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -56,
-      "total_net": -23
-    },
     "5306": {
       "name": "桂盟",
       "foreign_buy": 10,
@@ -10021,6 +10010,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 5,
+      "total_net": -23
+    },
+    "00910": {
+      "name": "第一金太空衛星",
+      "foreign_buy": 35,
+      "foreign_sell": 2,
+      "foreign_net": 33,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -56,
       "total_net": -23
     },
     "8488": {
