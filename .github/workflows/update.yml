@@ -2,10 +2,10 @@ name: 三大法人每日自動更新
 
 on:
   schedule:
-    # 台灣時間 19:00 = UTC 11:00（盤後抓三大法人 + 收盤價）
-    - cron: '0 11 * * 1-5'
-    # 台灣時間 20:00 = UTC 12:00（再抓一次；週五含外資持股比率）
-    - cron: '0 12 * * 1-5'
+    # 台灣時間 18:23 = UTC 10:23（盤後抓三大法人 + 收盤價；避開整點以減少 GitHub 排程延遲）
+    - cron: '23 10 * * 1-5'
+    # 台灣時間 19:47 = UTC 11:47（再抓一次；週五含外資持股比率）
+    - cron: '47 11 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -34,7 +34,9 @@ jobs:
 
       - name: Fetch 三大法人 + 收盤價（週五加抓外資持股）
         run: |
-          if [ "$(date +%u)" = "5" ]; then
+          DOW=$(date +%u)
+          # 週五，或延遲到週六才執行（抓的仍是週五交易日）都加抓外資持股
+          if [ "$DOW" = "5" ] || [ "$DOW" = "6" ]; then
             python three_laws_tracker.py fetch --holding
           else
             python three_laws_tracker.py fetch
