@@ -1,6 +1,6 @@
 {
   "date": "20261117",
-  "fetched_at": "2026-11-18T03:12:48",
+  "fetched_at": "2026-11-18T04:01:41",
   "stocks": {
     "00712": {
       "name": "復華富時不動產",
@@ -6789,17 +6789,6 @@
       "dealer_net": 57,
       "total_net": 6
     },
-    "00736": {
-      "name": "國泰新興市場",
-      "foreign_buy": 0,
-      "foreign_sell": 64,
-      "foreign_net": -64,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 70,
-      "total_net": 6
-    },
     "8443": {
       "name": "阿瘦",
       "foreign_buy": 6,
@@ -6908,6 +6897,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": -2,
+      "total_net": 6
+    },
+    "00736": {
+      "name": "國泰新興市場",
+      "foreign_buy": 0,
+      "foreign_sell": 64,
+      "foreign_net": -64,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 70,
       "total_net": 6
     },
     "4438": {
@@ -7779,17 +7779,6 @@
       "dealer_net": 4,
       "total_net": 0
     },
-    "00660": {
-      "name": "元大歐洲50",
-      "foreign_buy": 0,
-      "foreign_sell": 66,
-      "foreign_net": -66,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 66,
-      "total_net": 0
-    },
     "1726": {
       "name": "永記",
       "foreign_buy": 26,
@@ -7843,6 +7832,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 1,
+      "total_net": 0
+    },
+    "00660": {
+      "name": "元大歐洲50",
+      "foreign_buy": 0,
+      "foreign_sell": 66,
+      "foreign_net": -66,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 66,
       "total_net": 0
     },
     "6214": {
@@ -8054,17 +8054,6 @@
       "dealer_net": -1,
       "total_net": -3
     },
-    "00851": {
-      "name": "台新全球AI",
-      "foreign_buy": 0,
-      "foreign_sell": 4,
-      "foreign_net": -4,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": 1,
-      "total_net": -3
-    },
     "9955": {
       "name": "佳龍",
       "foreign_buy": 70,
@@ -8096,6 +8085,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 2,
+      "total_net": -3
+    },
+    "00851": {
+      "name": "台新全球AI",
+      "foreign_buy": 0,
+      "foreign_sell": 4,
+      "foreign_net": -4,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": 1,
       "total_net": -3
     },
     "4571": {
@@ -8692,17 +8692,6 @@
       "dealer_net": 0,
       "total_net": -10
     },
-    "0057": {
-      "name": "富邦摩台",
-      "foreign_buy": 27,
-      "foreign_sell": 0,
-      "foreign_net": 27,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -37,
-      "total_net": -10
-    },
     "2431": {
       "name": "聯昌",
       "foreign_buy": 29,
@@ -8723,6 +8712,17 @@
       "trust_sell": 0,
       "trust_net": 0,
       "dealer_net": 0,
+      "total_net": -10
+    },
+    "0057": {
+      "name": "富邦摩台",
+      "foreign_buy": 27,
+      "foreign_sell": 0,
+      "foreign_net": 27,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -37,
       "total_net": -10
     },
     "00951": {
@@ -8879,17 +8879,6 @@
       "dealer_net": 2,
       "total_net": -15
     },
-    "00709": {
-      "name": "富邦歐洲",
-      "foreign_buy": 0,
-      "foreign_sell": 0,
-      "foreign_net": 0,
-      "trust_buy": 0,
-      "trust_sell": 0,
-      "trust_net": 0,
-      "dealer_net": -15,
-      "total_net": -15
-    },
     "3686": {
       "name": "達能",
       "foreign_buy": 31,
@@ -8932,6 +8921,17 @@
       "trust_sell": 0,
       "trust_net": 2,
       "dealer_net": 2,
+      "total_net": -15
+    },
+    "00709": {
+      "name": "富邦歐洲",
+      "foreign_buy": 0,
+      "foreign_sell": 0,
+      "foreign_net": 0,
+      "trust_buy": 0,
+      "trust_sell": 0,
+      "trust_net": 0,
+      "dealer_net": -15,
       "total_net": -15
     },
     "1735": {
